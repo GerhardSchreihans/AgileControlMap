@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T17:48:09.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="8hXBZUAGVmTsxq4jjCZa" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T17:55:47.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="bf5MWsKY7OJ5gd9q95p9" version="22.0.8" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
     <mxGraphModel dx="1386" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
             <mxRectangle x="5520" y="3030" width="300" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nE-EjzNcMq43JnrIoQBQ-37" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;Continually identify and engage with the enterprise’s stakeholders, &lt;br/&gt;document an understanding of the requirements, and evaluate the &lt;br/&gt;current and future design of governance of enterprise I&amp;amp;T.&lt;br&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&amp;lt;Text&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;&amp;lt;Text&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="nE-EjzNcMq43JnrIoQBQ-26" vertex="1">
+        <mxCell id="nE-EjzNcMq43JnrIoQBQ-37" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;Continually identify and engage with the enterprise’s stakeholders, document an understanding of the requirements, and evaluate the current and future design of governance of enterprise I&amp;amp;T.&lt;br&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Provide a consistent approach integrated and aligned with the enterprise governance approach. I&amp;amp;T-related decisions are made in line with the enterprise’s strategies and objectives and desired value is realized. To that end, ensure that I&amp;amp;T-related processes are overseen effectively and transparently; compliance with legal, contractual and regulatory requirements is confirmed; and the governance requirements for board members are met.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;&amp;lt;Text&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="nE-EjzNcMq43JnrIoQBQ-26" vertex="1">
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
       </root>
