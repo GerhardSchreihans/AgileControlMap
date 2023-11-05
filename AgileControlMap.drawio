@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T17:48:02.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Ne1tJoOODyncde1zr6nd" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-05T19:22:53.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="vvC_HTAxj8chKtrXPWqr" version="22.0.8" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="1733" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="1253" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,7 +111,7 @@
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-26" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM03.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Direct risk management." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="5430" y="3190" width="300" height="60" as="geometry">
-            <mxRectangle x="5070" y="3200" width="360" height="390" as="alternateBounds" />
+            <mxRectangle x="5430" y="3190" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-27" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;Direct the establishment of risk management practices to provide reasonable assurance that I&amp;amp;T risk management practices are appropriate and that actual I&amp;amp;T risk does not exceed the board’s risk appetite.&lt;br&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Secure optimal value from I&amp;amp;T-enabled initiatives, services and assets; cost-efficient delivery of solutions and services; and a reliable and accurate picture of costs and likely benefits so that business needs are supported effectively and efficiently.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As an enterprise&#39;s stakeholder, I want risk management practices to be applied, so that the enterprise&#39;s risk appetite is not exceeded." style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="izNcHli7krDH618Io2Hl-26">
