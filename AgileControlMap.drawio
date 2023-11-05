@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T13:04:53.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="JC19mD5khE6FHQ8NKByk" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-05T15:45:38.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="b5k4eyB-397TVn-S4xv7" version="22.0.8" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="982" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,14 +19,6 @@
         <mxCell id="FFkF1W79zcPs98VZCzmz-6" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6590" y="3130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nE-EjzNcMq43JnrIoQBQ-26" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM01.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Evaluate the governance system." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="5520" y="3030" width="360" height="390" as="geometry">
-            <mxRectangle x="5520" y="3030" width="300" height="60" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nE-EjzNcMq43JnrIoQBQ-37" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;Continually identify and engage with the enterprise’s stakeholders, document an understanding of the requirements, and evaluate the current and future design of governance of enterprise I&amp;amp;T.&lt;br&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Provide a consistent approach integrated and aligned with the enterprise governance approach. I&amp;amp;T-related decisions are made in line with the enterprise’s strategies and objectives and desired value is realized. To that end, ensure that I&amp;amp;T-related processes are overseen effectively and transparently; compliance with legal, contractual and regulatory requirements is confirmed; and the governance requirements for board members are met.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;&amp;lt;Text&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="nE-EjzNcMq43JnrIoQBQ-26" vertex="1">
-          <mxGeometry y="60" width="360" height="330" as="geometry" />
-        </mxCell>
         <mxCell id="tx83OqXuTMVFXYHioZqO-1" value="&lt;ul&gt;&lt;li&gt;Features are created by the product manager for an agile release train (ART)&lt;/li&gt;&lt;li&gt;Features get broken down into stories by agile teams at Programme Increment (PI) planning events&lt;/li&gt;&lt;li&gt;Features must be small enough to be delivered by a single ART&lt;/li&gt;&lt;li&gt;Format&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Phrase - brief description&lt;/li&gt;&lt;li&gt;Benefits hypothesis&lt;/li&gt;&lt;li&gt;Acceptance criteria&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="5987.5" y="4340" width="350" height="240" as="geometry" />
         </mxCell>
@@ -38,6 +30,34 @@
         </mxCell>
         <mxCell id="tx83OqXuTMVFXYHioZqO-4" value="&lt;ul&gt;&lt;li&gt;Epic is a sizable initiative that is delivered by an agile release train, solution train or multiple solution trains&lt;/li&gt;&lt;li&gt;Epic has an Epic Owner who is most likely a business owner or product professional&lt;/li&gt;&lt;li&gt;Programm epic&lt;/li&gt;&lt;ul&gt;&lt;li&gt;delivered by a single ART&lt;/li&gt;&lt;li&gt;more than one Programm Increment to do this&lt;/li&gt;&lt;li&gt;business impact below the Portfolio Epic&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Solution epic&lt;/li&gt;&lt;ul&gt;&lt;li&gt;delivered by a single solution train&lt;/li&gt;&lt;li&gt;more than one Programm Increment to do this&lt;/li&gt;&lt;li&gt;business impact below the Portfolio Epic&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Portfolio epic&lt;/li&gt;&lt;ul&gt;&lt;li&gt;requires more than one solution train&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Format&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Name&lt;/li&gt;&lt;li&gt;Epic Owner&lt;/li&gt;&lt;li&gt;Description&lt;/li&gt;&lt;li&gt;Business Outcomes&lt;/li&gt;&lt;li&gt;Leading indicators&lt;/li&gt;&lt;li&gt;MVP&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;div&gt;Source:&amp;nbsp;&lt;/div&gt;&lt;a href=&quot;https://agility.im/frequent-agile-question/what-are-the-stories-features-capabilities-and-epics-in-safe/&quot;&gt;What are the stories, features, capabilities, and epics in SAFe? - Agility in Mind&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="5995" y="3230" width="350" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="izNcHli7krDH618Io2Hl-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nE-EjzNcMq43JnrIoQBQ-26" target="izNcHli7krDH618Io2Hl-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5780" y="3240" as="sourcePoint" />
+            <mxPoint x="5830" y="3190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izNcHli7krDH618Io2Hl-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM01.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Direct the governance system." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="5310" y="2980" width="360" height="390" as="geometry">
+            <mxRectangle x="5300" y="3070" width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izNcHli7krDH618Io2Hl-4" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;Inform leaders on I&amp;amp;T governance principles and obtain their support, buy-in and commitment. Guide the structures, processes and practices for the governance of I&amp;amp;T in line with the agreed governance principles, decision-making models and authority levels. Define the information required for informed decision making.&lt;br&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Provide a consistent approach integrated and aligned with the enterprise governance approach. I&amp;amp;T-related decisions are made in line with the enterprise’s strategies and objectives and desired value is realized. To that end, ensure that I&amp;amp;T-related processes are overseen effectively and transparently; compliance with legal, contractual and regulatory requirements is confirmed; and the governance requirements for board members are met.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As an enterprise&#39;s stakeholder, I want leaders to be support the governance principles, so that a compliance to these principles is ensured by increased awareness." style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="izNcHli7krDH618Io2Hl-3">
+          <mxGeometry y="60" width="360" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="nE-EjzNcMq43JnrIoQBQ-26" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM01.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Evaluate the governance system." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="4950" y="2980" width="300" height="60" as="geometry">
+            <mxRectangle x="5300" y="3000" width="360" height="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nE-EjzNcMq43JnrIoQBQ-37" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;Continually identify and engage with the enterprise’s stakeholders, document an understanding of the requirements, and evaluate the current and future design of governance of enterprise I&amp;amp;T.&lt;br&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Provide a consistent approach integrated and aligned with the enterprise governance approach. I&amp;amp;T-related decisions are made in line with the enterprise’s strategies and objectives and desired value is realized. To that end, ensure that I&amp;amp;T-related processes are overseen effectively and transparently; compliance with legal, contractual and regulatory requirements is confirmed; and the governance requirements for board members are met.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As an enterprise&#39;s stakeholder, I want to make sure that initiatives are in compliance with the governance system as well as in alignment with the enterprise&#39;s strategy, so that new developments align with the companies goals." style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="nE-EjzNcMq43JnrIoQBQ-26" vertex="1">
+          <mxGeometry y="60" width="360" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="izNcHli7krDH618Io2Hl-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="izNcHli7krDH618Io2Hl-3" target="VOTrehMlLt_2pqgxl_0n-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5830" y="3190" as="sourcePoint" />
+            <mxPoint x="5880" y="3140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
