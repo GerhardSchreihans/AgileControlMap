@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T12:08:50.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="X0XpHXWeLZH5FBCHsYu0" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T12:59:08.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="RVykkd2AEgKCg-vSC-in" version="22.1.0" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="1313" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,7 +129,7 @@
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-37" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM04.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Direct resource management." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="5430" y="3280" width="300" height="60" as="geometry">
-            <mxRectangle x="5070" y="3280" width="360" height="390" as="alternateBounds" />
+            <mxRectangle x="5430" y="3280" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-38" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;Ensure the adoption of resource management principles to enable optimal use of business and I&amp;amp;T resources throughout their full economic life cycle.&lt;br&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Ensure that the resource needs of the enterprise are met in the optimal manner, I&amp;amp;T costs are optimized, and there is an increased likelihood of benefit realization and readiness for future change.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management board, I want to make sure resource management principles are ensured; so that responsibilities, alignment processes and metrics are established." style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="izNcHli7krDH618Io2Hl-37" vertex="1">
@@ -185,7 +185,7 @@
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-12" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM02.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Establish the target investment mix." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="4350" y="3090" width="300" height="60" as="geometry">
-            <mxRectangle x="4710" y="3090" width="360" height="390" as="alternateBounds" />
+            <mxRectangle x="4350" y="3090" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-13" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;Review and ensure clarity of the enterprise and I&amp;amp;T strategies and current services. Define an appropriate investment mix based on cost, alignment with strategy, type of benefit for the programs in the portfolio, degree of risk, and financial measures such as cost and expected return on investment (ROI) over the full economic life cycle. Adjust the enterprise and I&amp;amp;T strategies where necessary.&lt;br&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Secure optimal value from I&amp;amp;T-enabled initiatives, services and assets; cost-efficient delivery of solutions and services; and a reliable and accurate picture of costs and likely benefits so that business needs are supported effectively and efficiently.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As an enterprise&#39;s stakeholder, I want investments within agile projects to be aligned with the enterprises strategy, so that new financial resources are facilitated in an optimized manner." style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="izNcHli7krDH618Io2Hl-12" vertex="1">
