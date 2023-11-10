@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T12:59:08.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="RVykkd2AEgKCg-vSC-in" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T13:16:07.799Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="pm_bRFNyHuXesjLZdEhz" version="22.1.0" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="1235" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,10 +81,13 @@
             <mxPoint x="5400" y="3330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="izNcHli7krDH618Io2Hl-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="izNcHli7krDH618Io2Hl-26" target="VOTrehMlLt_2pqgxl_0n-1" edge="1">
+        <mxCell id="izNcHli7krDH618Io2Hl-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="izNcHli7krDH618Io2Hl-26" target="VOTrehMlLt_2pqgxl_0n-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5370" y="4260" as="sourcePoint" />
             <mxPoint x="5820" y="3540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5960" y="3060" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="izNcHli7krDH618Io2Hl-29" target="FFkF1W79zcPs98VZCzmz-3" edge="1">
@@ -214,6 +217,9 @@
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-7" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;Monitor the effectiveness and performance of the enterprise’s governance of I&amp;amp;T. Assess whether the governance system and implemented mechanisms (including structures, principles and processes) are operating effectively and provide appropriate oversight of I&amp;amp;T to enable value creation.&lt;br&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Provide a consistent approach integrated and aligned with the enterprise governance approach. I&amp;amp;T-related decisions are made in line with the enterprise’s strategies and objectives and desired value is realized. To that end, ensure that I&amp;amp;T-related processes are overseen effectively and transparently; compliance with legal, contractual and regulatory requirements is confirmed; and the governance requirements for board members are met.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As an enterprise&#39;s stakeholder, I want the governance system and mechanisms to be assessed within agile projects, so that a compliance to these principles is ensured and operational effectiveness is given." style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="izNcHli7krDH618Io2Hl-6" vertex="1">
           <mxGeometry y="60" width="360" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="N0caBlmLojgxpRJd6Mx--2" value="Key Functions Def." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6060" y="3040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
