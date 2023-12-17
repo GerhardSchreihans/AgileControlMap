@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T15:30:58.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="E0Z083vU2pTeXVMcONRO" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T15:40:09.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="unO5xwHoBEgMlmBj1LG8" version="22.1.11" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
     <mxGraphModel dx="1793" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
@@ -250,7 +250,7 @@
         </mxCell>
         <mxCell id="nE-EjzNcMq43JnrIoQBQ-26" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM01.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Evaluate the governance system." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="4710" y="2750" width="300" height="60" as="geometry">
-            <mxRectangle x="4710" y="2980" width="360" height="390" as="alternateBounds" />
+            <mxRectangle x="4710" y="2750" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nE-EjzNcMq43JnrIoQBQ-37" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;Continually identify and engage with the enterprise’s stakeholders, document an understanding of the requirements, and evaluate the current and future design of governance of enterprise I&amp;amp;T.&lt;br&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Provide a consistent approach integrated and aligned with the enterprise governance approach. I&amp;amp;T-related decisions are made in line with the enterprise’s strategies and objectives and desired value is realized. To that end, ensure that I&amp;amp;T-related processes are overseen effectively and transparently; compliance with legal, contractual and regulatory requirements is confirmed; and the governance requirements for board members are met.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As an enterprise&#39;s stakeholder, I want to make sure that agile initiatives are in compliance with the governance system as well as in alignment with the enterprise&#39;s strategy, so that new developments align with the companies goals and governance principles.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Direct Successor&lt;/u&gt;: EDM01.02&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="nE-EjzNcMq43JnrIoQBQ-26" vertex="1">
