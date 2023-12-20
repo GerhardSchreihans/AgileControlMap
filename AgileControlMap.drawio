@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T15:40:09.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="unO5xwHoBEgMlmBj1LG8" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T21:26:13.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CXbTg3uv76IyxBySt_bc" version="22.1.11" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="1793" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -287,6 +287,90 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5740" y="3840" as="sourcePoint" />
             <mxPoint x="6032" y="3740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sbHoc3gWJixWeE4EDV6L-16" target="sbHoc3gWJixWeE4EDV6L-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3910" y="3420" as="sourcePoint" />
+            <mxPoint x="3960" y="3370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sbHoc3gWJixWeE4EDV6L-14" target="sbHoc3gWJixWeE4EDV6L-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4290" y="3230" as="sourcePoint" />
+            <mxPoint x="4290" y="3180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sbHoc3gWJixWeE4EDV6L-12" target="sbHoc3gWJixWeE4EDV6L-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4300" y="3240" as="sourcePoint" />
+            <mxPoint x="4360" y="3240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-10" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO02.04&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Conduct a gap analysis." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4710" y="3230" width="360" height="410" as="geometry">
+            <mxRectangle x="4710" y="3230" width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-11" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Identify gaps between current and target environments and describe the&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;high-level changes in the enterprise architecture.&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Support the digital transformation strategy of the organization and deliver the desired value through a road map of incremental changes. Use a&amp;nbsp;holistic I&amp;amp;T approach, ensuring that each initiative is clearly connected to an overarching strategy. Enable change in all different aspects of the&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;organization, from channels and processes to data, culture, skills, operating model and incentives.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;x&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO02.05&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="sbHoc3gWJixWeE4EDV6L-10">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-12" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO02.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Define target digital capabilities." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4350" y="3230" width="360" height="410" as="geometry">
+            <mxRectangle x="4350" y="3230" width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-13" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Based on the understanding of enterprise context and direction, define&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;the target I&amp;amp;T products and services and required capabilities. Consider&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;reference standards, best practices and validated emerging technologies.&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Support the digital transformation strategy of the organization and deliver the desired value through a road map of incremental changes. Use a&amp;nbsp;holistic I&amp;amp;T approach, ensuring that each initiative is clearly connected to an overarching strategy. Enable change in all different aspects of the&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;organization, from channels and processes to data, culture, skills, operating model and incentives.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;x&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO02.04&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="sbHoc3gWJixWeE4EDV6L-12">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-14" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO02.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Assess current capabilities, performance and digital&lt;div&gt;maturity of the enterprise.&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3990" y="3230" width="360" height="410" as="geometry">
+            <mxRectangle x="3990" y="3230" width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-15" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Assess the performance of current I&amp;amp;T services and develop an&lt;/div&gt;&lt;div&gt;understanding of current business and I&amp;amp;T capabilities (both internal&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;and external). Assess current digital maturity of the enterprise and its&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;appetite for change.&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Support the digital transformation strategy of the organization and deliver the desired value through a road map of incremental changes. Use a&amp;nbsp;holistic I&amp;amp;T approach, ensuring that each initiative is clearly connected to an overarching strategy. Enable change in all different aspects of the&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;organization, from channels and processes to data, culture, skills, operating model and incentives.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;x&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO02.03&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="sbHoc3gWJixWeE4EDV6L-14">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-16" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO02.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Design the management system for enterprise I&amp;amp;T." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3630" y="3230" width="360" height="410" as="geometry">
+            <mxRectangle x="3630" y="3230" width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-17" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Understand the enterprise context (industry drivers, relevant regulations,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;basis for competition), its current way of working and its ambition level&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;in terms of digitization.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Support the digital transformation strategy of the organization and deliver the desired value through a road map of incremental changes. Use a&amp;nbsp;holistic I&amp;amp;T approach, ensuring that each initiative is clearly connected to an overarching strategy. Enable change in all different aspects of the&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;organization, from channels and processes to data, culture, skills, operating model and incentives.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As a stakeholder of the company, I want the agile project team to understand the enterprises context, so that they can develop epics that meet all contextual requirements.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO02.02&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="sbHoc3gWJixWeE4EDV6L-16">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-18" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO02.05&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Define the strategic plan and road map." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="5070" y="3230" width="360" height="410" as="geometry">
+            <mxRectangle x="5070" y="3230" width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-19" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Develop a holistic digital strategy, in cooperation with relevant&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;stakeholders, and detail a road map that defines the incremental steps&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;required to achieve the goals and objectives. Ensure focus on the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;transformation journey through the appointment of a person who helps&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;spearhead the digital transformation and drives alignment between&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;business and I&amp;amp;T.&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Support the digital transformation strategy of the organization and deliver the desired value through a road map of incremental changes. Use a&amp;nbsp;holistic I&amp;amp;T approach, ensuring that each initiative is clearly connected to an overarching strategy. Enable change in all different aspects of the&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;organization, from channels and processes to data, culture, skills, operating model and incentives.&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;x&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO02.06&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="sbHoc3gWJixWeE4EDV6L-18">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-20" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO02.06&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Monitor value optimization." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="5430" y="3230" width="360" height="410" as="geometry">
+            <mxRectangle x="5430" y="3230" width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-21" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Create awareness and understanding of the business and I&amp;amp;T objectives&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;and direction, as captured in the I&amp;amp;T strategy, through communication to&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;appropriate stakeholders and users throughout the enterprise.&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Support the digital transformation strategy of the organization and deliver the desired value through a road map of incremental changes. Use a&amp;nbsp;holistic I&amp;amp;T approach, ensuring that each initiative is clearly connected to an overarching strategy. Enable change in all different aspects of the&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;organization, from channels and processes to data, culture, skills, operating model and incentives.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;x&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="sbHoc3gWJixWeE4EDV6L-20">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sbHoc3gWJixWeE4EDV6L-10" target="sbHoc3gWJixWeE4EDV6L-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5010" y="3230" as="sourcePoint" />
+            <mxPoint x="5070" y="3230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sbHoc3gWJixWeE4EDV6L-18" target="sbHoc3gWJixWeE4EDV6L-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5020" y="3240" as="sourcePoint" />
+            <mxPoint x="5080" y="3240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sbHoc3gWJixWeE4EDV6L-20" target="VOTrehMlLt_2pqgxl_0n-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5820" y="3220" as="sourcePoint" />
+            <mxPoint x="5880" y="3220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
