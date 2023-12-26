@@ -19,6 +19,18 @@
 | COBIT 2019 | APO04.05 | Recommend appropriate further initiatives. | Evaluate and monitor the results of proof-of-concept initiatives and, if favorable, generate recommendations for further initiatives. Gain stakeholder support. | It is not up to an agile solution delvelopment project to recommend further initiatives based on technological innovation. |
 | COBIT 2019 | APO04.06 | Monitor the implementation and use of innovation. | Monitor the implementation and use of emerging technologies and innovations during adoption, integration and for the full economic life
 cycle to ensure that the promised benefits are realized and to identify lessons learned. | It cannot be in scope of an agile solution development project to monitor and use innovations. |
+| COBIT 2019 | APO05.01 | Determine the availability and sources of funds. | Determine potential sources of funds, different funding options and the implications of the funding source on the investment return expectations. | The determination of funding options on an enterprise level, cannot be in scope of an agile solution development project. |
+| COBIT 2019 | APO05.02 | Evaluate and select programs to fund. | Based on requirements for the overall investment portfolio mix and the I&T strategic plan and road map, evaluate and prioritize program business cases and decide on investment proposals. Allocate funds and initiate programs. | The selection of programs to be funded on an enterprise level, cannot be in scope of an agile solution development project. Even more so, the project would have a conflict of interest. |
+| COBIT 2019 | APO05.03 | Monitor, optimize and report on investment portfolio performance. | On a regular basis, monitor and optimize the performance of the investment portfolio and individual programs throughout the entire investment life cycle. Ensure continuous follow-up on the alignment of the portfolio with I&T strategy. | The evaluation of the investment portfolio is an important task but cannot be in scope of an agile solution developement project. It has to be done from outside the project. |
+| COBIT 2019 | APO05.04 | Maintain portfolios. | Maintain portfolios of investment programs and projects, I&T products and services, and I&T assets. | Maintaining the portfolio of investment programs and projects cannot be in scope of the agile solution development project, eventhough the project has to report and contribute to the function collecting it, but on initiative of the function. |
+| COBIT 2019 | APO05.05 | Manage benefits achievement. | Monitor the benefits of providing and maintaining appropriate I&T products, services and capabilities, based on the agreed and current business case. | Monitoring the benefits achievement cannot be in scope of an agile solution development project, since a centralized functions have to collect and compare all the initiatives centrally. |
+| COBIT 2019 | APO03.05 | title | control | reason |
+| COBIT 2019 | APO03.05 | title | control | reason |
+| COBIT 2019 | APO03.05 | title | control | reason |
+| COBIT 2019 | APO03.05 | title | control | reason |
+| COBIT 2019 | APO03.05 | title | control | reason |
+| COBIT 2019 | APO03.05 | title | control | reason |
+| COBIT 2019 | APO03.05 | title | control | reason |
 | COBIT 2019 | APO03.05 | title | control | reason |
 | COBIT 2019 | APO03.05 | title | control | reason |
 | COBIT 2019 | APO03.05 | title | control | reason |
