@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T16:12:24.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Gai-eQV-2hoNRCozo9yB" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T12:08:44.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XthnNW0bYD1a32n5B5iD" version="22.1.11" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
     <mxGraphModel dx="1509" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
@@ -371,6 +371,62 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5820" y="3220" as="sourcePoint" />
             <mxPoint x="5880" y="3220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sbHoc3gWJixWeE4EDV6L-34" target="VOTrehMlLt_2pqgxl_0n-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4270" y="3510" as="sourcePoint" />
+            <mxPoint x="5470" y="3440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sbHoc3gWJixWeE4EDV6L-32" target="sbHoc3gWJixWeE4EDV6L-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4650" y="3320" as="sourcePoint" />
+            <mxPoint x="4650" y="3270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sbHoc3gWJixWeE4EDV6L-30" target="sbHoc3gWJixWeE4EDV6L-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4660" y="3330" as="sourcePoint" />
+            <mxPoint x="4720" y="3330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-28" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO03.04&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Define architecture implementation." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5430" y="3990" width="300" height="60" as="geometry">
+            <mxRectangle x="5070" y="3320" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-29" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Create a viable implementation and migration plan in alignment with the&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;program and project portfolios. Ensure the plan is closely coordinated to&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;deliver value and that the required resources are available to complete&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the necessary work.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Represent the different building blocks that make up the enterprise and its interrelationships as well as the principles guiding their design and&amp;nbsp;evolution over time, to enable a standard, responsive and efficient delivery of operational and strategic objectives.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management board , I want the agile project team to create a viable implementation and a mitigation plan, in order to put the new architectural design in place.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO03.05&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="sbHoc3gWJixWeE4EDV6L-28">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-30" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO03.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Select opportunities and solutions." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5070" y="3990" width="300" height="60" as="geometry">
+            <mxRectangle x="4710" y="3320" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-31" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Rationalize the gaps between baseline and target architectures,&lt;/div&gt;&lt;div&gt;accounting for both business and technical perspectives, and logically&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;group them into project work packages. Integrate the project with any&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;related I&amp;amp;T-enabled investment programs to ensure that the architectural&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;initiatives are aligned with and enable these initiatives as part of&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;overall enterprise change. Make this a collaborative effort with key&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;enterprise stakeholders from business and IT to assess the enterprise’s&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;transformation readiness, and identify opportunities, solutions and all&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;implementation constraints.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Represent the different building blocks that make up the enterprise and its interrelationships as well as the principles guiding their design and&amp;nbsp;evolution over time, to enable a standard, responsive and efficient delivery of operational and strategic objectives.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management board, I want the agile project team to evaluate the gap between the current baseline and the target architecture, in order to work on closing the gap during their sprints.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO03.04&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="sbHoc3gWJixWeE4EDV6L-30">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-32" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO03.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Define reference architecture." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4710" y="3990" width="300" height="60" as="geometry">
+            <mxRectangle x="4350" y="3320" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-33" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;The reference architecture describes the current and target architectures&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;for the business, information, data, application and technology domains.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Represent the different building blocks that make up the enterprise and its interrelationships as well as the principles guiding their design and&amp;nbsp;evolution over time, to enable a standard, responsive and efficient delivery of operational and strategic objectives.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management board, I want the agile project team to describe the target architecture for the business and review the current architecture, so that IT solutions can be build according to the target architecture and the effects of the new developments to the current architecture is evaluated.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO03.03&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="sbHoc3gWJixWeE4EDV6L-32">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-34" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO03.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Develop the enterprise architecture vision." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5430" y="3320" width="300" height="60" as="geometry">
+            <mxRectangle x="3990" y="3320" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-35" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;The architecture vision provides a first-cut, high-level description of the&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;baseline and target architectures, covering the business, information,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;data, application and technology domains. The architecture vision&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;provides the sponsor with a key tool to sell the benefits of the proposed&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;capabilities to stakeholders within the enterprise. The architecture&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;vision describes how the new capabilities (in line with I&amp;amp;T strategy&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;and objectives) will meet enterprise goals and strategic objectives and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;address stakeholder concerns when implemented.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Represent the different building blocks that make up the enterprise and its interrelationships as well as the principles guiding their design and&amp;nbsp;evolution over time, to enable a standard, responsive and efficient delivery of operational and strategic objectives.&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management board, I want the agile project team to develop for their epics an architectural vision, high-level baseline and target architecture, so that the architectural design follows a clear vision.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO03.02&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="sbHoc3gWJixWeE4EDV6L-34">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="sbHoc3gWJixWeE4EDV6L-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sbHoc3gWJixWeE4EDV6L-28" target="FFkF1W79zcPs98VZCzmz-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5370" y="3320" as="sourcePoint" />
+            <mxPoint x="5430" y="3320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
