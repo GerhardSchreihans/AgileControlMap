@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T14:58:54.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SrO-ujpBD_Ts4ulWZ93W" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-04T16:01:25.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FgCJxHKhEXNGjNzLyjN9" version="22.1.17" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="1062" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -707,41 +707,41 @@
             <mxPoint x="4357.5" y="3840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-18" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO10.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage vendor relationships and contracts." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="4707.5" y="3830" width="360" height="410" as="geometry">
-            <mxRectangle x="4707.5" y="3830" width="300" height="60" as="alternateBounds" />
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-18" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO10.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage vendor relationships and contracts." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4707.5" y="3830" width="300" height="60" as="geometry">
+            <mxRectangle x="4707.5" y="3830" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-19" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Formalize and manage the supplier relationship for each supplier.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Manage, maintain and monitor contracts and service delivery. Ensure&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;that new or changed contracts conform to enterprise standards and legal&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;and regulatory requirements. Deal with contractual disputes.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Optimize available I&amp;amp;T capabilities to support the I&amp;amp;T strategy and road map, minimize the risk associated with nonperforming or noncompliant&amp;nbsp;vendors, and ensure competitive pricing.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want the agile project team to onboard suppliers in accordance with the enterprise&#39;s governance model, in order to govern and steer the vendors continously.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO10.04&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="ceHBMdHGofH0zuc_rEOh-18">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-20" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO10.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Select vendors." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="4347.5" y="3830" width="360" height="410" as="geometry">
-            <mxRectangle x="4347.5" y="3830" width="300" height="60" as="alternateBounds" />
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-20" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO10.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Select vendors." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4347.5" y="3830" width="300" height="60" as="geometry">
+            <mxRectangle x="4347.5" y="3830" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-21" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Select suppliers according to a fair and formal practice to ensure a&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;viable best fit based on specified requirements. Requirements should be&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;optimized with input from potential suppliers.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Optimize available I&amp;amp;T capabilities to support the I&amp;amp;T strategy and road map, minimize the risk associated with nonperforming or noncompliant&amp;nbsp;vendors, and ensure competitive pricing.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want the agile project team to select vendors according to good practice, in order to create value in alignment with the enterprise&#39;s strategy.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO10.03&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="ceHBMdHGofH0zuc_rEOh-20">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-22" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO10.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Identify and evaluate vendor relationships and contracts." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="3987.5" y="3830" width="360" height="410" as="geometry">
-            <mxRectangle x="3987.5" y="3830" width="300" height="60" as="alternateBounds" />
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-22" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO10.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Identify and evaluate vendor relationships and contracts." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3987.5" y="3830" width="300" height="60" as="geometry">
+            <mxRectangle x="3987.5" y="3830" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-23" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Continuously search for and identify vendors and categorize them into&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;type, significance and criticality. Establish criteria to evaluate vendors&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;and contracts. Review the overall portfolio of existing and alternative&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;vendors and contracts.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Optimize available I&amp;amp;T capabilities to support the I&amp;amp;T strategy and road map, minimize the risk associated with nonperforming or noncompliant&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;vendors, and ensure competitive pricing.&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want the agile project team to identify all vendors, in order to govern them accordingly.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO10.02&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="ceHBMdHGofH0zuc_rEOh-22">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-24" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO10.04&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Manage vendor risk." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="5067.5" y="3830" width="360" height="410" as="geometry">
-            <mxRectangle x="5067.5" y="3830" width="300" height="60" as="alternateBounds" />
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-24" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO10.04&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Manage vendor risk." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5067.5" y="3830" width="300" height="60" as="geometry">
+            <mxRectangle x="5067.5" y="3830" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-25" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Identify and manage risk relating to vendors’ ability to continually provide&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;secure, efficient and effective service delivery. This also includes the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;subcontractors or upstream vendors that are relevant in the service&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;delivery of the direct vendor.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Optimize available I&amp;amp;T capabilities to support the I&amp;amp;T strategy and road map, minimize the risk associated with nonperforming or noncompliant&amp;nbsp;vendors, and ensure competitive pricing.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want the agile project team to manage risks related to vendors&#39; delivered services incl. sub-vendors, in order to monitor and address risks the enterprise is affected by.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO10.05&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="ceHBMdHGofH0zuc_rEOh-24">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-26" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO10.05&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Monitor vendor performance and compliance." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="5427.5" y="3830" width="360" height="410" as="geometry">
-            <mxRectangle x="5427.5" y="3830" width="300" height="60" as="alternateBounds" />
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-26" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO10.05&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Monitor vendor performance and compliance." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5427.5" y="3830" width="300" height="60" as="geometry">
+            <mxRectangle x="5427.5" y="3830" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-27" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Periodically review overall vendor performance, compliance to contract&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;requirements and value for money. Address identified issues.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Optimize available I&amp;amp;T capabilities to support the I&amp;amp;T strategy and road map, minimize the risk associated with nonperforming or noncompliant&amp;nbsp;vendors, and ensure competitive pricing.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want the agile project team to introduce introduce vendors to a continuous performance and compliance management process, in order to assure an adequate management by the vendor.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="ceHBMdHGofH0zuc_rEOh-26">
@@ -763,6 +763,48 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5738" y="3750" as="sourcePoint" />
             <mxPoint x="6025" y="3560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ceHBMdHGofH0zuc_rEOh-34" target="ceHBMdHGofH0zuc_rEOh-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4657.5" y="3930" as="sourcePoint" />
+            <mxPoint x="4717.5" y="3930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-32" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO11.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Manage quality standards, practices and procedures and&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;integrate quality management into key processes and solutions.&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5067.5" y="3920" width="300" height="60" as="geometry">
+            <mxRectangle x="4710" y="3920" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-33" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Identify and maintain standards, procedures and practices for key&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;processes to guide the enterprise in meeting the intent of the agreed&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;quality management standards (QMS). This activity should align with&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;I&amp;amp;T control framework requirements. Consider certification for key&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;processes, organizational units, products or services.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Ensure consistent delivery of technology solutions and services to meet the quality requirements of the enterprise and satisfy stakeholder needs.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want the agile project team to integrate quality management standards, practices and procedures in key processes within the project scope, in order to assure an adequate quality management in key processes within the project scope.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO11.04&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="ceHBMdHGofH0zuc_rEOh-32">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-34" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO11.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Focus quality management on customers." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4707.5" y="3920" width="300" height="60" as="geometry">
+            <mxRectangle x="4350" y="3920" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-35" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Focus quality management on customers by determining their&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;requirements and ensuring integration in quality management practices.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Ensure consistent delivery of technology solutions and services to meet the quality requirements of the enterprise and satisfy stakeholder needs.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want the agile project team to define quality management parameters based on the customer needs, in order to meet business requirements.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO11.03&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="ceHBMdHGofH0zuc_rEOh-34">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-36" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO11.04&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Perform quality monitoring, control and reviews." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5427.5" y="3920" width="300" height="60" as="geometry">
+            <mxRectangle x="5070" y="3920" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-37" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Monitor the quality of processes and services on an ongoing basis, in&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;line with quality management standards. Define, plan and implement&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;measurements to monitor customer satisfaction with quality as well as the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;value provided by the quality management system (QMS). The information&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;gathered should be used by the process owner to improve quality.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Ensure consistent delivery of technology solutions and services to meet the quality requirements of the enterprise and satisfy stakeholder needs.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want the agile project team to enable an adequate monitoring, control and review within the processes and services in scope, in order to have a continuous evaluation of quality.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="ceHBMdHGofH0zuc_rEOh-36">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ceHBMdHGofH0zuc_rEOh-32" target="ceHBMdHGofH0zuc_rEOh-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5367.5" y="3920" as="sourcePoint" />
+            <mxPoint x="5427.5" y="3920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ceHBMdHGofH0zuc_rEOh-36" target="FFkF1W79zcPs98VZCzmz-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5377.5" y="3930" as="sourcePoint" />
+            <mxPoint x="5787.5" y="3920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
