@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T16:48:12.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="esmk59i7OdPABcqvUhDe" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-04T21:08:06.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Qm3AU2xRumF1jmETbHXE" version="22.1.17" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -916,6 +916,62 @@
         <mxCell id="ceHBMdHGofH0zuc_rEOh-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ceHBMdHGofH0zuc_rEOh-65" target="FFkF1W79zcPs98VZCzmz-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5738" y="4010" as="sourcePoint" />
+            <mxPoint x="6025" y="3560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ceHBMdHGofH0zuc_rEOh-72" target="ceHBMdHGofH0zuc_rEOh-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4297.5" y="4190" as="sourcePoint" />
+            <mxPoint x="4357.5" y="4190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-70" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO14.08&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage the life cycle of data assets." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4707.5" y="4180" width="300" height="60" as="geometry">
+            <mxRectangle x="4707.5" y="4180" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-71" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Ensure that the organization understands, maps, inventories and controls&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;its data flows through business processes over the data life cycle, from&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;creation or acquisition to retirement.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Ensure effective utilization of the critical data assets to achieve enterprise goals and objectives.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want the agile project team to consider the data life cycle of processed data, in order to maintain data from creation, acquisition to retirement.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO14.09&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="ceHBMdHGofH0zuc_rEOh-70">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-72" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO14.07&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Define the data cleansing approach." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4347.5" y="4180" width="300" height="60" as="geometry">
+            <mxRectangle x="4347.5" y="4180" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-73" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Define the mechanisms, rules, processes, and methods to validate and&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;correct data according to predefined business rules.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Ensure effective utilization of the critical data assets to achieve enterprise goals and objectives.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want the agile project team to consider mechanisms, rules, processes and methods to correct data, in order to keep just correct data and remain compliant to data privacy laws.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO14.08&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="ceHBMdHGofH0zuc_rEOh-72">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-74" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO14.09&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Support data archiving and retention." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5067.5" y="4180" width="300" height="60" as="geometry">
+            <mxRectangle x="5067.5" y="4180" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-75" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Ensure that data maintenance satisfies organizational and regulatory&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;requirements for availability of historical data. Ensure that legal and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;regulatory requirements for data archiving and retention are met.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Ensure effective utilization of the critical data assets to achieve enterprise goals and objectives.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want the agile project team to establish data archiving and retention mechanisms, in order to hold historical data available and ensure legal and regulatory requirements.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO14.10&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="ceHBMdHGofH0zuc_rEOh-74">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-76" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO14.10&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage data backup and restore arrangements." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5427.5" y="4180" width="300" height="60" as="geometry">
+            <mxRectangle x="5427.5" y="4180" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-77" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Manage availability of critical data to ensure operational continuity.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Ensure effective utilization of the critical data assets to achieve enterprise goals and objectives.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want the agile project team to backup data and keep backups available, in order to remain operational.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="ceHBMdHGofH0zuc_rEOh-76">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ceHBMdHGofH0zuc_rEOh-70" target="ceHBMdHGofH0zuc_rEOh-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5007.5" y="4180" as="sourcePoint" />
+            <mxPoint x="5067.5" y="4180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-79" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ceHBMdHGofH0zuc_rEOh-74" target="ceHBMdHGofH0zuc_rEOh-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5017.5" y="4190" as="sourcePoint" />
+            <mxPoint x="5077.5" y="4190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-80" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ceHBMdHGofH0zuc_rEOh-76" target="FFkF1W79zcPs98VZCzmz-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5738" y="4100" as="sourcePoint" />
             <mxPoint x="6025" y="3560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
