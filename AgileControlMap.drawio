@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T20:33:45.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="INpTUnyq3F7pXuyXL3ey" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-15T20:47:57.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pRHSiKdLZSCd_vBx5Cr1" version="23.1.1" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
     <mxGraphModel dx="2390" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
@@ -1049,10 +1049,10 @@
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-17" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI01.08&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage program risk." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="5430" y="2310" width="300" height="60" as="geometry">
-            <mxRectangle x="5062.5" y="2970" width="360" height="410" as="alternateBounds" />
+            <mxRectangle x="5430" y="2310" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-18" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Eliminate or minimize specific risk associated with programs through a systematic process of planning, identifying, analyzing, responding to, monitoring and controlling the areas or events with the potential to cause unwanted change. Define and record any risk faced by program management.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Realize desired business value and reduce the risk of unexpected delays, costs and value erosion. To do so, improve communications to and involvement of business and end users, ensure the value and quality of program deliverables and follow up of projects within the programs, and maximize program contribution to the investment portfolio.&lt;br&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I risks to be managed, in order to assure the anticipation of adverse events and the maintenance of counter measures.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI01.09&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="5n0gASPAGLLi4WL7JSeG-17">
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-18" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Eliminate or minimize specific risk associated with programs through a systematic process of planning, identifying, analyzing, responding to, monitoring and controlling the areas or events with the potential to cause unwanted change. Define and record any risk faced by program management.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Realize desired business value and reduce the risk of unexpected delays, costs and value erosion. To do so, improve communications to and involvement of business and end users, ensure the value and quality of program deliverables and follow up of projects within the programs, and maximize program contribution to the investment portfolio.&lt;br&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want risks to be managed, in order to assure the anticipation of adverse events and the maintenance of counter measures.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI01.09&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="5n0gASPAGLLi4WL7JSeG-17">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-19" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO06.05&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Close a program." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
@@ -1099,6 +1099,62 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5380.5" y="2320" as="sourcePoint" />
             <mxPoint x="5440.5" y="2320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5n0gASPAGLLi4WL7JSeG-42" target="5n0gASPAGLLi4WL7JSeG-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4660" y="4620" as="sourcePoint" />
+            <mxPoint x="4720" y="4620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-40" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI02.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage requirements risk." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5070" y="4610" width="300" height="60" as="geometry">
+            <mxRectangle x="5070" y="4610" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-41" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Identify, document, prioritize and mitigate functional, technical and information processing-related risk associated with the enterprise requirements, assumptions and proposed solution.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Create optimal solutions that meet enterprise needs while minimizing risk.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want risks associated with requirements to be evaluated, in order to be able to address them.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI02.04&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="5n0gASPAGLLi4WL7JSeG-40">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-42" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI02.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Perform a feasibility study and formulate alternative solutions." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4710" y="4610" width="300" height="60" as="geometry">
+            <mxRectangle x="4710" y="4610" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-43" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Perform a feasibility study of potential alternative solutions, assess their viability and select the preferred option. If appropriate, implement the selected option as a pilot to determine possible improvements.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Create optimal solutions that meet enterprise needs while minimizing risk.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want feasibility studies to be performed and alternative solutions to be evaluated, in order to identify optimal solutions and assess different options.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI02.03&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="5n0gASPAGLLi4WL7JSeG-42">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-44" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI02.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Obtain approval of requirements and solutions." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5430" y="4610" width="300" height="60" as="geometry">
+            <mxRectangle x="5430" y="4610" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-45" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Coordinate feedback from affected stakeholders. At predetermined key stages, obtain approval and sign-off from the business sponsor or product owner regarding functional and technical requirements, feasibility studies, risk analyses and recommended solutions.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Create optimal solutions that meet enterprise needs while minimizing risk.&lt;br&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want to obtain feedback from affected stakeholders and a sign-off on the requirements and solution, in order to create liability and document agreements.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="5n0gASPAGLLi4WL7JSeG-44">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5n0gASPAGLLi4WL7JSeG-40" target="5n0gASPAGLLi4WL7JSeG-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5370" y="4610" as="sourcePoint" />
+            <mxPoint x="5430" y="4610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-47" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI02.01&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Define and maintain business functional and technical&lt;div&gt;requirements.&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4350" y="4610" width="300" height="60" as="geometry">
+            <mxRectangle x="4350" y="4610" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-48" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Based on the business case, identify, prioritize, specify and agree on business information, functional, technical and control requirements covering the scope/understanding of all initiatives required to achieve the expected outcomes of the proposed I&amp;amp;T-enabled business solution.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Create optimal solutions that meet enterprise needs while minimizing risk.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want business function and technical requirements to be defined, in order for the project to be able to develop deliverables in line with these requirements.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI02.02&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="5n0gASPAGLLi4WL7JSeG-47">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5n0gASPAGLLi4WL7JSeG-47" target="5n0gASPAGLLi4WL7JSeG-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4300.5" y="4620" as="sourcePoint" />
+            <mxPoint x="4360.5" y="4620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5n0gASPAGLLi4WL7JSeG-44" target="FFkF1W79zcPs98VZCzmz-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5380" y="4620" as="sourcePoint" />
+            <mxPoint x="5440" y="4620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
