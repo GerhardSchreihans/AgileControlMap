@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T22:06:16.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6btqDpZeygzdFXGFPTbS" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T22:44:58.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nhu6fkCHc56-8cfH6Shd" version="23.1.1" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="2765" dy="1403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1376,6 +1376,104 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5738" y="4060" as="sourcePoint" />
             <mxPoint x="6025" y="3560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5n0gASPAGLLi4WL7JSeG-103" target="5n0gASPAGLLi4WL7JSeG-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4300" y="2500" as="sourcePoint" />
+            <mxPoint x="4360" y="2500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-101" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI05.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Form an effective implementation team." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4710" y="2490" width="300" height="60" as="geometry">
+            <mxRectangle x="3630" y="4230" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-102" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Establish an effective implementation team by assembling appropriate members, creating trust, and establishing common goals and effectiveness measures.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Prepare and commit stakeholders for business change and reduce the risk of failure.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development projects to form and assemble effective implementation teams, in order to create trust, establish common goals and develop effective measures.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI05.03&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="5n0gASPAGLLi4WL7JSeG-101">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-103" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI05.01&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Establish the desire to change." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4350" y="2490" width="300" height="60" as="geometry">
+            <mxRectangle x="3270" y="4230" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-104" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Understand the scope and impact of the desired change. Assess stakeholder readiness and willingness to change. Identify actions that will motivate stakeholder acceptance and participation to make the change work successfully.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Prepare and commit stakeholders for business change and reduce the risk of failure.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile projects to assess the stakeholder&#39;s readiness and willingness to change, in order to establish a desire to change.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI05.02&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="5n0gASPAGLLi4WL7JSeG-103">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-105" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5n0gASPAGLLi4WL7JSeG-101" target="5n0gASPAGLLi4WL7JSeG-114">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4650" y="2490" as="sourcePoint" />
+            <mxPoint x="4710" y="2490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-106" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5n0gASPAGLLi4WL7JSeG-109" target="VOTrehMlLt_2pqgxl_0n-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4300" y="4240" as="sourcePoint" />
+            <mxPoint x="4360" y="4240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-107" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI05.05&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Enable operation and use." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5430" y="4230" width="300" height="60" as="geometry">
+            <mxRectangle x="4710" y="4230" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-108" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Plan and implement all technical, operational and usage aspects so all those who are involved in the future state environment can exercise their responsibility.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Prepare and commit stakeholders for business change and reduce the risk of failure.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want operations to be already planned in the development phase, in order to assure a solid operation from day 1.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI05.06&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="5n0gASPAGLLi4WL7JSeG-107">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-109" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI05.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Empower role players and identify short-term wins." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5430" y="2490" width="300" height="60" as="geometry">
+            <mxRectangle x="5430" y="2490" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-110" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Empower those with implementation roles by assigning accountability. Provide training and align organizational structures and HR processes. Identify and communicate short-term wins that are important from a change-enablement perspective.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Prepare and commit stakeholders for business change and reduce the risk of failure.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want role models to be empowered and identify short-term wins, in order to drive the change and stuff it with resources.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI05.05&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="5n0gASPAGLLi4WL7JSeG-109">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-111" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI05.06&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Embed new approaches." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="6547.5" y="3410" width="300" height="60" as="geometry">
+            <mxRectangle x="5070" y="4230" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-112" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Embed new approaches by tracking implemented changes, assessing the effectiveness of the operation and use plan, and sustaining ongoing awareness through regular communication. Take corrective measures as appropriate (which may include enforcing compliance).&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Prepare and commit stakeholders for business change and reduce the risk of failure.&lt;br&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want implemented changes to be tracked and new approaches to be embedded, in order to assure effective operations and sustainable management.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="5n0gASPAGLLi4WL7JSeG-111">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-113" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5n0gASPAGLLi4WL7JSeG-107" target="FFkF1W79zcPs98VZCzmz-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5010" y="4230" as="sourcePoint" />
+            <mxPoint x="5070" y="4230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-114" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI05.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Communicate desired vision." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5070" y="2490" width="300" height="60" as="geometry">
+            <mxRectangle x="3990" y="4230" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-115" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Communicate the desired vision for the change in the language of those affected by it. The communication should be made by senior management and include the rationale for, and benefits of, the change; the impacts of not making the change; and the vision, the road map and the involvement required of the various stakeholders.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Prepare and commit stakeholders for business change and reduce the risk of failure.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development project to communicate and promote the desired vision, in order to establish a desire to change with the stakeholders.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI05.04&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="5n0gASPAGLLi4WL7JSeG-114">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-116" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5n0gASPAGLLi4WL7JSeG-114" target="5n0gASPAGLLi4WL7JSeG-109">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5020.5" y="2500" as="sourcePoint" />
+            <mxPoint x="5080.5" y="2500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-117" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI05.07&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Sustain changes." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="6907.5" y="3410" width="300" height="60" as="geometry">
+            <mxRectangle x="5430" y="4230" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-118" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Sustain changes through effective training of new staff, ongoing communication campaigns, continued commitment of top management, monitoring of adoption and sharing of lessons learned across the enterprise.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Prepare and commit stakeholders for business change and reduce the risk of failure.&lt;br&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want effective training and communication measures to be developed, in order to sustain changes.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="5n0gASPAGLLi4WL7JSeG-117">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-119" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5n0gASPAGLLi4WL7JSeG-111" target="5n0gASPAGLLi4WL7JSeG-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6497.5" y="3420" as="sourcePoint" />
+            <mxPoint x="6557.5" y="3420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n0gASPAGLLi4WL7JSeG-120" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FFkF1W79zcPs98VZCzmz-2" target="5n0gASPAGLLi4WL7JSeG-111">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6020" y="4290" as="sourcePoint" />
+            <mxPoint x="6305" y="3610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
