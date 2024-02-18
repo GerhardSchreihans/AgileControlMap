@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T12:48:37.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="InHOAkpla0gxD1o-wkwB" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T12:49:17.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UUfyHghG-ElvIaxplGvI" version="23.1.1" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
     <mxGraphModel dx="2963" dy="1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
@@ -1499,7 +1499,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-126" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI06.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Close and document the changes." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="6547.5" y="4590" width="300" height="60" as="geometry">
+          <mxGeometry x="6547.5" y="4610" width="300" height="60" as="geometry">
             <mxRectangle x="5430" y="4700" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
