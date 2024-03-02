@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-02T23:01:48.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pvL8Uyc0WurlXawcQ4q0" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-02T23:02:46.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TbHtSKcjzW5J16y9yS5O" version="23.1.1" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="1152" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="8296" dy="4208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,13 +70,13 @@
           <mxGeometry x="6073.75" y="5150" width="295" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FFkF1W79zcPs98VZCzmz-4" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Story&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="6073.75" y="5710" width="295" height="60" as="geometry" />
+          <mxGeometry x="6078.75" y="6630" width="295" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tx83OqXuTMVFXYHioZqO-1" value="&lt;ul&gt;&lt;li&gt;Features are created by the product manager for an agile release train (ART)&lt;/li&gt;&lt;li&gt;Features get broken down into stories by agile teams at Programme Increment (PI) planning events&lt;/li&gt;&lt;li&gt;Features must be small enough to be delivered by a single ART&lt;/li&gt;&lt;li&gt;Format&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Phrase - brief description&lt;/li&gt;&lt;li&gt;Benefits hypothesis&lt;/li&gt;&lt;li&gt;Acceptance criteria&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="6041.25" y="5230" width="350" height="240" as="geometry" />
         </mxCell>
         <mxCell id="tx83OqXuTMVFXYHioZqO-2" value="&lt;ul&gt;&lt;li&gt;Stories are created by the agile team who are going to do the work&lt;/li&gt;&lt;li&gt;product owner has content authority&lt;/li&gt;&lt;li&gt;must fit into a single iteration&lt;/li&gt;&lt;li&gt;who? what? and why?&lt;/li&gt;&lt;li&gt;As a &amp;lt;user&amp;gt; I want &amp;lt;function&amp;gt; so that &amp;lt;purpose&amp;gt;&lt;/li&gt;&lt;li&gt;Iteration = Sprint - typically 1-2 weeks&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="6041.25" y="5790" width="350" height="140" as="geometry" />
+          <mxGeometry x="6046.25" y="6710" width="350" height="140" as="geometry" />
         </mxCell>
         <mxCell id="tx83OqXuTMVFXYHioZqO-3" value="&lt;ul&gt;&lt;li&gt;Capabilities are created by the solution manager for a solution train&lt;/li&gt;&lt;li&gt;part of the solution backlog where the capabilities are prioritized by the solution manager&lt;/li&gt;&lt;li&gt;capabilities are items that are too big to be delivered in a single programm increment (PI) by a single ART&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Format&lt;/li&gt;&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Phrase - brief description&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Benefits hypothesis&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Acceptance criteria&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="5987.5" y="2840" width="350" height="240" as="geometry" />
@@ -2196,17 +2196,17 @@
             <mxPoint x="3676.25" y="5720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QuHqFJcRldl6wBvhqh9c-152" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS06.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Control the processing of information." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="4026.25" y="5710" width="360" height="410" as="geometry">
-            <mxRectangle x="4026.25" y="5710" width="300" height="60" as="alternateBounds" />
+        <mxCell id="QuHqFJcRldl6wBvhqh9c-152" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS06.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Control the processing of information." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4026.25" y="5710" width="300" height="60" as="geometry">
+            <mxRectangle x="4026.25" y="5710" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-153" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Operate the execution of the business process activities and related controls, based on enterprise risk. Ensure that information processing is valid, complete, accurate, timely and secure (i.e., reflects legitimate and authorized business use).&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Maintain information integrity and the security of information assets handled within business processes in the enterprise or its outsourced operation.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want all process controls to meet essential quality criteria, in order assure an effective internal control system.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: DSS06.03&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="QuHqFJcRldl6wBvhqh9c-152">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="QuHqFJcRldl6wBvhqh9c-154" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - DSS06.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Align control activities embedded in business processes with enterprise objectives." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="3666.25" y="5710" width="360" height="410" as="geometry">
-            <mxRectangle x="3666.25" y="5710" width="300" height="60" as="alternateBounds" />
+        <mxCell id="QuHqFJcRldl6wBvhqh9c-154" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - DSS06.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Align control activities embedded in business processes with enterprise objectives." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3666.25" y="5710" width="300" height="60" as="geometry">
+            <mxRectangle x="3666.25" y="5710" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-155" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Continually assess and monitor the execution of business process activities and related controls (based on enterprise risk), to ensure that processing controls align with business needs.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Maintain information integrity and the security of information assets handled within business processes in the enterprise or its outsourced operation.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want process controls to be in line with the business need, in order to meet the enterprise&#39;s risk appetite.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: DSS06.02&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="QuHqFJcRldl6wBvhqh9c-154">
@@ -2224,25 +2224,25 @@
             <mxPoint x="4753.75" y="5720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QuHqFJcRldl6wBvhqh9c-158" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS06.05&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Ensure traceability and accountability for information events." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="5103.75" y="5710" width="360" height="410" as="geometry">
-            <mxRectangle x="5103.75" y="5710" width="300" height="60" as="alternateBounds" />
+        <mxCell id="QuHqFJcRldl6wBvhqh9c-158" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS06.05&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Ensure traceability and accountability for information events." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5103.75" y="5710" width="300" height="60" as="geometry">
+            <mxRectangle x="5103.75" y="5710" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-159" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Ensure that business information can be traced to an originating business event and associated with accountable parties. This discoverability provides assurance that business information is reliable and has been processed in accordance with defined objectives.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Maintain information integrity and the security of information assets handled within business processes in the enterprise or its outsourced operation.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want traceability and accountability to be assured, in order to produce sufficient evidence in case of misconduct.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: DSS06.06&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="QuHqFJcRldl6wBvhqh9c-158">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="QuHqFJcRldl6wBvhqh9c-160" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS06.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage errors and exceptions." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="4743.75" y="5710" width="360" height="410" as="geometry">
-            <mxRectangle x="4743.75" y="5710" width="300" height="60" as="alternateBounds" />
+        <mxCell id="QuHqFJcRldl6wBvhqh9c-160" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS06.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage errors and exceptions." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4743.75" y="5710" width="300" height="60" as="geometry">
+            <mxRectangle x="4743.75" y="5710" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-161" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Manage business process exceptions and errors and facilitate remediation, executing defined corrective actions and escalating as necessary. This treatment of exceptions and errors provides assurance of the accuracy and integrity of the business information process.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Maintain information integrity and the security of information assets handled within business processes in the enterprise or its outsourced operation.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want the functionality implemented and tested for all IT solutions to make enable an effective response to errors, in order mitigate adverse effects timely.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: DSS06.05&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="QuHqFJcRldl6wBvhqh9c-160">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="QuHqFJcRldl6wBvhqh9c-162" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS06.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Manage roles, responsibilities, access privileges and levels&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;of authority.&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="4386.25" y="5710" width="360" height="410" as="geometry">
-            <mxRectangle x="4386.25" y="5710" width="300" height="60" as="alternateBounds" />
+        <mxCell id="QuHqFJcRldl6wBvhqh9c-162" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS06.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Manage roles, responsibilities, access privileges and levels&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;of authority.&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4386.25" y="5710" width="300" height="60" as="geometry">
+            <mxRectangle x="4386.25" y="5710" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-163" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Manage business roles, responsibilities, levels of authority and segregation of duties needed to support the business process objectives. Authorize access to all information assets related to business information processes, including those under the custody of the business, IT and third parties. This ensures that the business knows where the data are and who is handling data on its behalf.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Maintain information integrity and the security of information assets handled within business processes in the enterprise or its outsourced operation.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want roles, responsibilities, access privileges and level of authority to be in line with business needs and basic security principles, in order to meet the enterprise&#39;s risk apatite.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: DSS06.04&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="QuHqFJcRldl6wBvhqh9c-162">
@@ -2254,9 +2254,9 @@
             <mxPoint x="4396.25" y="5720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QuHqFJcRldl6wBvhqh9c-165" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS06.06&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Secure information assets." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="5461.25" y="5710" width="360" height="410" as="geometry">
-            <mxRectangle x="5461.25" y="5710" width="300" height="60" as="alternateBounds" />
+        <mxCell id="QuHqFJcRldl6wBvhqh9c-165" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS06.06&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Secure information assets." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5461.25" y="5710" width="300" height="60" as="geometry">
+            <mxRectangle x="5461.25" y="5710" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-166" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Secure information assets accessible by the business through approved methods, including information in electronic form (e.g., portable media devices, user applications and storage devices, or other methods that create new assets in any form), information in physical form (e.g., source documents or output reports) and information during transit. This benefits the business by providing end-to-end safeguarding of information.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Maintain information integrity and the security of information assets handled within business processes in the enterprise or its outsourced operation.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want information assets to be protected, in order to reduce the risk of data leakages and maintain a need-to-know principle.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="QuHqFJcRldl6wBvhqh9c-165">
@@ -2266,6 +2266,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5400" y="5710" as="sourcePoint" />
             <mxPoint x="5114" y="5720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QuHqFJcRldl6wBvhqh9c-168" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QuHqFJcRldl6wBvhqh9c-165" target="FFkF1W79zcPs98VZCzmz-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5771" y="5630" as="sourcePoint" />
+            <mxPoint x="6084" y="5190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
