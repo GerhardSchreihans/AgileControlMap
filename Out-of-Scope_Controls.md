@@ -35,7 +35,6 @@
 | COBIT 2019 | APO14.05 | Establish data profiling methodologies, processes and tools. | Implement standardized data profiling methodologies, processes, practices, tools and templates that can be applied across multiple data repositories and data stores. | The establishment of standardized data profiling methodologies, processes, practices, tools and templates is not in scope off a generic agile solution development project. |
 | COBIT 2019 | APO14.06 | Ensure a data quality assessment approach. | Provide a systematic approach to measure and evaluate data quality according to processes and techniques, and against data quality rules. | A systemic approach to measure and evaluate data quality has to be defined outside an agile solution development project. |
 | COBIT 2019 | BAI04.01 | Assess current availability, performance and capacity and create a baseline. | Assess availability, performance and capacity of services and resources to ensure that cost-justifiable capacity and performance are available to support business needs and deliver against service level agreements (SLAs). Create availability, performance and capacity baselines for future comparison. | The assessment of the current availability, performance and capacity cannot be in scope of agile solution development projects. It has to be a regular process. |
-
 | COBIT 2019 | BAI03.05 | title | control | reason |
 | COBIT 2019 | BAI03.05 | title | control | reason |
 | COBIT 2019 | BAI03.05 | title | control | reason |
