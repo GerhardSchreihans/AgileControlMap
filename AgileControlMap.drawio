@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T20:59:03.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wIUaYPWXRRJxw_ET9Nm9" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-19T21:52:21.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="b0uSuDX5R_hld9Wyt1Cp" version="24.3.0" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="2183" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="2593" dy="1315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -896,7 +896,7 @@
         <mxCell id="ceHBMdHGofH0zuc_rEOh-64" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Maintain an information security plan that describes how information&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;security risk is to be managed and aligned with enterprise strategy and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;enterprise architecture. Ensure that recommendations for implementing&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;security improvements are based on approved business cases,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;implemented as an integral part of services and solutions development,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;and operated as an integral part of business operation.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Keep the impact and occurrence of information security incidents within the enterprise’s risk appetite levels.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want the agile project team to support the development of an information security plan within the project scope, in order to keep the plan up-to-date and ready for use.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO13.03&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="ceHBMdHGofH0zuc_rEOh-63" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-65" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO13.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Monitor and review the information security management&lt;div&gt;system (ISMS).&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="ceHBMdHGofH0zuc_rEOh-65" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO13.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Monitor and review the information security management&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;system (ISMS).&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="5427.5" y="3110" width="300" height="60" as="geometry">
             <mxRectangle x="5427.5" y="4090" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
@@ -2162,7 +2162,7 @@
             <mxPoint x="5111.25" y="5630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QuHqFJcRldl6wBvhqh9c-128" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS05.07&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Manage vulnerabilities and monitor the infrastructure for&lt;div&gt;security-related events.&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="QuHqFJcRldl6wBvhqh9c-128" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS05.07&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Manage vulnerabilities and monitor the infrastructure for&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;security-related events.&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="5461.25" y="5620" width="300" height="60" as="geometry">
             <mxRectangle x="5461.25" y="5620" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
@@ -2334,6 +2334,34 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6333" y="860" as="sourcePoint" />
             <mxPoint x="6561" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwzLfTZYDkI80HiPmpim-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;Information security management (3.2.1)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Security incident management" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="6578.75" y="5440" width="300" height="60" as="geometry">
+            <mxRectangle x="5103.75" y="5800" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwzLfTZYDkI80HiPmpim-5" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;- Preparation&lt;/div&gt;&lt;div&gt;- Detection and reporting&lt;/div&gt;&lt;div&gt;- Triage and analysis&lt;/div&gt;&lt;div&gt;- Containment and recovery&lt;/div&gt;&lt;div&gt;- Post-incident activity&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;The purpose of the information security management practice is to protect the information needed by the organization to conduct its business.&lt;br&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development projects to prepare and anticipate future security incidents, in order to keep the response time as short as possible.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: Security incident management (3.2.2)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="GwzLfTZYDkI80HiPmpim-4">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="GwzLfTZYDkI80HiPmpim-6" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 - I&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;nformation security management (3.2.2)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Audit and review" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="6550.5" y="880" width="300" height="60" as="geometry">
+            <mxRectangle x="5463.75" y="5800" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwzLfTZYDkI80HiPmpim-7" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;- Identify changes to business, technology, or threat environment&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Identify missing controls&lt;/div&gt;&lt;div&gt;- Assess control effectiveness&lt;/div&gt;&lt;div&gt;- Create audit report&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;The purpose of the information security management practice is to protect the information needed by the organization to conduct its business.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development projects to assess the developed solution against best practices, norms and standards, in order to maintain a solid security posture according to industry standards.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="GwzLfTZYDkI80HiPmpim-6">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="GwzLfTZYDkI80HiPmpim-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FFkF1W79zcPs98VZCzmz-3" target="GwzLfTZYDkI80HiPmpim-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6528.75" y="5450" as="sourcePoint" />
+            <mxPoint x="6588.75" y="5450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwzLfTZYDkI80HiPmpim-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VOTrehMlLt_2pqgxl_0n-1" target="GwzLfTZYDkI80HiPmpim-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6333" y="860" as="sourcePoint" />
+            <mxPoint x="6561" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
