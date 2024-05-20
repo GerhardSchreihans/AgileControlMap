@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T14:04:17.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7hu6nrFR0Na4wp6sK3OK" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T15:08:27.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="YdSw5OPuC94gcF15EEeY" version="24.4.4" type="github">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
     <mxGraphModel dx="2074" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
@@ -2346,7 +2346,7 @@
         </mxCell>
         <mxCell id="GwzLfTZYDkI80HiPmpim-6" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 - I&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;nformation security management (3.2.2)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Audit and review" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="6550.5" y="880" width="300" height="60" as="geometry">
-            <mxRectangle x="5463.75" y="5800" width="360" height="410" as="alternateBounds" />
+            <mxRectangle x="6550.5" y="880" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GwzLfTZYDkI80HiPmpim-7" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;- Identify changes to business, technology, or threat environment&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Identify missing controls&lt;/div&gt;&lt;div&gt;- Assess control effectiveness&lt;/div&gt;&lt;div&gt;- Create audit report&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;The purpose of the information security management practice is to protect the information needed by the organization to conduct its business.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development projects to assess the developed solution against best practices, norms and standards, in order to maintain a solid security posture according to industry standards.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="GwzLfTZYDkI80HiPmpim-6" vertex="1">
@@ -2362,6 +2362,54 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6333" y="860" as="sourcePoint" />
             <mxPoint x="6561" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nB1jEptSUxtJqMZ95UXG-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-check-icon-3278-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="8020" y="670" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nB1jEptSUxtJqMZ95UXG-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-check-icon-3278-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="7990" y="730" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nB1jEptSUxtJqMZ95UXG-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;Knowledge management (3.2.1)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Establishing and maintaining the knowledge management environment" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5073" y="1720" width="300" height="60" as="geometry">
+            <mxRectangle x="4713" y="1720" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nB1jEptSUxtJqMZ95UXG-4" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;- Understand current culture of knowledge usage and knowledge sharing&lt;/div&gt;&lt;div&gt;- Review external and internal requirements and factors of influence&lt;/div&gt;&lt;div&gt;- Optimize response, identify improvements&lt;/div&gt;&lt;div&gt;- Promote and empower usage of knowledge management practice across the organization&lt;/div&gt;&lt;div&gt;- Review knowledge management practice application and initiate improvements&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;The purpose of the knowledge management practice is to maintain and improve the effective, efficient, and convenient use of information and knowledge across the organization.&lt;br&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, want agile solution development projects to contribute to a well established knowledge management environment, in order to maintain solution/product/project knowledge in a manner that fits to the enterprise.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: Knowledge management (3.2.2)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="nB1jEptSUxtJqMZ95UXG-3">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="nB1jEptSUxtJqMZ95UXG-5" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;Knowledge management (3.2.2)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; On-demand information discovery" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5433" y="1720" width="300" height="60" as="geometry">
+            <mxRectangle x="5073" y="1720" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nB1jEptSUxtJqMZ95UXG-6" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;- Registration of information request&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Research and data collection&lt;/div&gt;&lt;div&gt;- Information processing and presentation&lt;/div&gt;&lt;div&gt;- Information acceptance&lt;/div&gt;&lt;div&gt;- Knowledge integration and review&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;The purpose of the knowledge management practice is to maintain and improve the effective, efficient, and convenient use of information and knowledge across the organization.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development projects to follow and apply on-demand information discovery processes to be established, in order to explore and research new information in an adequate quality.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;:&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Knowledge&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;management (3.2.3)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="nB1jEptSUxtJqMZ95UXG-5">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="nB1jEptSUxtJqMZ95UXG-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nB1jEptSUxtJqMZ95UXG-3" target="nB1jEptSUxtJqMZ95UXG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5023" y="1730" as="sourcePoint" />
+            <mxPoint x="5083" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nB1jEptSUxtJqMZ95UXG-8" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;Knowledge management (3.2.3)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Knowledge asset management" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="6550.5" y="970" width="300" height="60" as="geometry">
+            <mxRectangle x="5433" y="1720" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nB1jEptSUxtJqMZ95UXG-9" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;- Knowledge asset discovery&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Knowledge assets analysis and classification&lt;/div&gt;&lt;div&gt;- Development of knowledge asset management guidelines&lt;/div&gt;&lt;div&gt;- Guideline assignment and communication&lt;/div&gt;&lt;div&gt;- Knowledge asset management assignment acceptance&lt;/div&gt;&lt;div&gt;- Knowledge asset review and improvement initiation&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;The purpose of the knowledge management practice is to maintain and improve the effective, efficient, and convenient use of information and knowledge across the organization.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development projects to contribute and apply the knowledge asset management process, in order to avoid blind spots with new solutions and maintain newly developed knowledge.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="nB1jEptSUxtJqMZ95UXG-8">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="nB1jEptSUxtJqMZ95UXG-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VOTrehMlLt_2pqgxl_0n-1" target="nB1jEptSUxtJqMZ95UXG-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6333" y="860" as="sourcePoint" />
+            <mxPoint x="6561" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nB1jEptSUxtJqMZ95UXG-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nB1jEptSUxtJqMZ95UXG-5" target="VOTrehMlLt_2pqgxl_0n-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5743" y="1640" as="sourcePoint" />
+            <mxPoint x="6033" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
