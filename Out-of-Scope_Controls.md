@@ -75,5 +75,20 @@
 | COBIT 2019 | MEA04.07 | Execute the assurance initiative, focusing on operating effectiveness. | Execute the planned assurance initiative. Test whether the internal controls in place are appropriate and sufficient. Test the outcome of the key management objectives in scope of the assurance initiative. | Even if assurance reviews have to be performed within and on agile solution development projects. The overall governance and initiative has to be with an enterprise-wide governance functions, since evaluating of external providers, planning risk-based, tracking of measures and reporting has to be with an independent function and cannot be part of a generic agile solution development project. |
 | COBIT 2019 | MEA04.08 | Report and follow up on the assurance initiative. | Provide positive assurance opinions, where appropriate, and recommendations for improvement relating to identified operational performance, external compliance and internal control weaknesses. | Even if assurance reviews have to be performed within and on agile solution development projects. The overall governance and initiative has to be with an enterprise-wide governance functions, since evaluating of external providers, planning risk-based, tracking of measures and reporting has to be with an independent function and cannot be part of a generic agile solution development project. |
 | COBIT 2019 | MEA04.09 | Follow up on recommendations and actions. | Agree on, follow up and implement the identified recommendations for improvement. | Even if assurance reviews have to be performed within and on agile solution development projects. The overall governance and initiative has to be with an enterprise-wide governance functions, since evaluating of external providers, planning risk-based, tracking of measures and reporting has to be with an independent function and cannot be part of a generic agile solution development project. |
-| COBIT 2019 | BAI03.05 | title | control | reason |
-| COBIT 2019 | BAI03.05 | title | control | reason |
+| ITIL4 | Incident management (3.2.1) | Incident handling and resolution | Incident detection, Incident registration, Incident classification, Incident diagnosis, Incident resolution, Incident closure | Incidents might result in new or adapted capabilities or features, which might be implemented in course of an agile solution development project. However, the satisfactory implementation or resolution of incidents cannot be assigned to every generic epic/capability/feature. It has to be driven by a general incident management process. |
+| ITIL4  | Incident management (3.2.2)| Periodic incident review | Incident review and incident records analaysis, Incident model improvement initiation, Incident model update communication | Incidents might result in new or adapted capabilities or features, which might be implemented in course of an agile solution development project. However, the satisfactory implementation or resolution of incidents cannot be assigned to every generic epic/capability/feature. It has to be driven by a general incident management process. |
+| ITIL4  | No (3.2.2)| Title | control | reasoning |
+| ITIL4  | No (3.2.2)| Title | control | reasoning |
+| ITIL4  | No (3.2.2)| Title | control | reasoning |
+| ITIL4  | No (3.2.2)| Title | control | reasoning |
+| ITIL4  | No (3.2.2)| Title | control | reasoning |
+| ITIL4  | No (3.2.2)| Title | control | reasoning |
+| ITIL4  | No (3.2.2)| Title | control | reasoning |
+| ITIL4  | No (3.2.2)| Title | control | reasoning |
+| ITIL4  | No (3.2.2)| Title | control | reasoning |
+| ITIL4  | No (3.2.2)| Title | control | reasoning |
+| ITIL4  | No (3.2.2)| Title | control | reasoning |
+| ITIL4  | No (3.2.2)| Title | control | reasoning |
+| ITIL4  | No (3.2.2)| Title | control | reasoning |
+| ITIL4  | No (3.2.2)| Title | control | reasoning |
+
