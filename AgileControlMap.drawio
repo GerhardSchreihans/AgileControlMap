@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="1728" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="3771" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2539,6 +2539,12 @@
         </mxCell>
         <mxCell id="FzpiOMwNagBz9-rqdHPx-4" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;- Identification of applicable design model or plan&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Planning design activities, resources and capabilities&lt;/div&gt;&lt;div&gt;- Design execution&lt;/div&gt;&lt;div&gt;- Service design review&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;The purpose of the service design practice is to design products and services that are fit for purpose and use, and that can be delivered by the organization and its ecosystem. This includes planning and organizing people, partners and suppliers, information, communication, technology, and practices for new or changed products and services, and the interaction between the organization and its customers.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development projects to apply service design coordination practices, in order to maintain a consistent service design.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="FzpiOMwNagBz9-rqdHPx-3">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="FzpiOMwNagBz9-rqdHPx-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-check-icon-3278-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="8270" y="1168" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FzpiOMwNagBz9-rqdHPx-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-check-icon-3278-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="8240" y="1208" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
