@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="2440" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="5185" dy="2630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2610,6 +2610,25 @@
         </mxCell>
         <mxCell id="DO11c-6wLbNFiMZy8dLW-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-check-icon-3278-thumb.png;" vertex="1" parent="1">
           <mxGeometry x="8440" y="1330" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DO11c-6wLbNFiMZy8dLW-13" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 - Deployment Management&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&amp;nbsp;(3.2.1)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Deployment" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5433" y="8450" width="300" height="60" as="geometry">
+            <mxRectangle x="5073" y="6360" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DO11c-6wLbNFiMZy8dLW-14" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;- Deployment planning&lt;/div&gt;&lt;div&gt;- Verification of the service components&lt;/div&gt;&lt;div&gt;- Verification of the target environments&lt;/div&gt;&lt;div&gt;- Deployment execution&lt;/div&gt;&lt;div&gt;- Deployment verification&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;The purpose of the deployment management practice is to move new or changed hardware, software, documentation, processes, or any other component to live environments. It may also be involved in deploying components to other environments for testing or staging.&lt;br&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development projects to follow a diligent and orderly deployment process, in order to deploy in an adequate quality and not cause any service interruptions.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: Deployment Management (3.2.2)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="DO11c-6wLbNFiMZy8dLW-13">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="DO11c-6wLbNFiMZy8dLW-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 - Deployment Management&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&amp;nbsp;(3.2.2)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Deployment models development and review" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="6550.5" y="7460" width="300" height="60" as="geometry">
+            <mxRectangle x="5433" y="6360" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DO11c-6wLbNFiMZy8dLW-16" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;- Deployment model planning&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Deployment model implementation&lt;/div&gt;&lt;div&gt;- Deployment model testing&lt;/div&gt;&lt;div&gt;- Deployment review and deployment records analysis&lt;/div&gt;&lt;div&gt;- Deployment model improvement initiation&lt;/div&gt;&lt;div&gt;- Deployment model update and communication&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;The purpose of the deployment management practice is to move new or changed hardware, software, documentation, processes, or any other component to live environments. It may also be involved in deploying components to other environments for testing or staging.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development projects to continuously improve the deployment model, in order to adapt it in a manner that it meets the enterprises requrirements.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="DO11c-6wLbNFiMZy8dLW-15">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="DO11c-6wLbNFiMZy8dLW-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-check-icon-3278-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="8720" y="650" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
