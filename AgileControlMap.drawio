@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="1432" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="1098" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2660,6 +2660,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bgYUZ9FqRBf7vEnh27Lf-27" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;An inventory of information and other associated assets, including owners, should be developed and&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;maintained.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;To identify the organization’s information and other associated assets in order to preserve their&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;information security and assign appropriate ownership.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development projects to identify and register all information and other associated assets already during the development phase, in order to enable an adequate protection of information and assets.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="bgYUZ9FqRBf7vEnh27Lf-26">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="bgYUZ9FqRBf7vEnh27Lf-28" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.10&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Acceptable use of information and other associated assets" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5430.5" y="12540" width="300" height="60" as="geometry">
+            <mxRectangle x="5433" y="8100" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bgYUZ9FqRBf7vEnh27Lf-29" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Rules for the acceptable use and procedures for handling information and other associated assets&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;should be identified, documented and implemented.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;To ensure information and other associated assets are appropriately protected, used and handled.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development projects to familiarize themselves with the rules for acceptable use for handling information and other associated assets, in order to comply with enterprise requirements on protecting, using and handling those assets.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="bgYUZ9FqRBf7vEnh27Lf-28">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
       </root>
