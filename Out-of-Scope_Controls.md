@@ -93,5 +93,4 @@
 | ITIL4  | No (3.2.2)| Title | control | reasoning |
 | ITIL4  | No (3.2.2)| Title | control | reasoning |
 | ITIL4  | No (3.2.2)| Title | control | reasoning |
-| ITIL4  | No (3.2.2)| Title | control | reasoning |
 
