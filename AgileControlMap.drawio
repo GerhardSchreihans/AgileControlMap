@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="956" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="14340" dy="7720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2588,7 +2588,7 @@
           <mxGeometry x="8720" y="5670" width="569" height="72" as="geometry" />
         </mxCell>
         <mxCell id="bgYUZ9FqRBf7vEnh27Lf-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d29fhpw069ctt2.cloudfront.net/icon/image/84582/preview.svg;rotation=-60;" parent="1" vertex="1">
-          <mxGeometry x="9320" y="2070" width="150" height="150" as="geometry" />
+          <mxGeometry x="9307.5" y="2290" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bgYUZ9FqRBf7vEnh27Lf-10" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.1&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Policies for information security" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="5432.5" y="7830" width="300" height="60" as="geometry">
