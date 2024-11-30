@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.9.3">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="824" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="2196" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,16 +49,16 @@
           <mxGeometry x="11227.5" y="5010" width="295" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FFkF1W79zcPs98VZCzmz-3" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Feature&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="9590" y="10370" width="295" height="60" as="geometry" />
+          <mxGeometry x="9592.5" y="12490" width="295" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FFkF1W79zcPs98VZCzmz-4" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Story&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="9782.5" y="10950" width="295" height="60" as="geometry" />
+          <mxGeometry x="9785" y="13070" width="295" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tx83OqXuTMVFXYHioZqO-1" value="&lt;ul&gt;&lt;li&gt;Features are created by the product manager for an agile release train (ART)&lt;/li&gt;&lt;li&gt;Features get broken down into stories by agile teams at Programme Increment (PI) planning events&lt;/li&gt;&lt;li&gt;Features must be small enough to be delivered by a single ART&lt;/li&gt;&lt;li&gt;Format&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Phrase - brief description&lt;/li&gt;&lt;li&gt;Benefits hypothesis&lt;/li&gt;&lt;li&gt;Acceptance criteria&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="9577.5" y="10460" width="350" height="240" as="geometry" />
+          <mxGeometry x="9580" y="12580" width="350" height="240" as="geometry" />
         </mxCell>
         <mxCell id="tx83OqXuTMVFXYHioZqO-2" value="&lt;ul&gt;&lt;li&gt;Stories are created by the agile team who are going to do the work&lt;/li&gt;&lt;li&gt;product owner has content authority&lt;/li&gt;&lt;li&gt;must fit into a single iteration&lt;/li&gt;&lt;li&gt;who? what? and why?&lt;/li&gt;&lt;li&gt;As a &amp;lt;user&amp;gt; I want &amp;lt;function&amp;gt; so that &amp;lt;purpose&amp;gt;&lt;/li&gt;&lt;li&gt;Iteration = Sprint - typically 1-2 weeks&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="9750" y="11030" width="350" height="140" as="geometry" />
+          <mxGeometry x="9752.5" y="13150" width="350" height="140" as="geometry" />
         </mxCell>
         <mxCell id="tx83OqXuTMVFXYHioZqO-3" value="&lt;ul&gt;&lt;li&gt;Capabilities are created by the solution manager for a solution train&lt;/li&gt;&lt;li&gt;part of the solution backlog where the capabilities are prioritized by the solution manager&lt;/li&gt;&lt;li&gt;capabilities are items that are too big to be delivered in a single programm increment (PI) by a single ART&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Format&lt;/li&gt;&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Phrase - brief description&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Benefits hypothesis&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Acceptance criteria&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="11200" y="5090" width="350" height="240" as="geometry" />
@@ -962,12 +962,12 @@
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-42" target="5n0gASPAGLLi4WL7JSeG-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4657.5" y="10480" as="sourcePoint" />
-            <mxPoint x="4717.5" y="10480" as="targetPoint" />
+            <mxPoint x="4660" y="12600" as="sourcePoint" />
+            <mxPoint x="4720" y="12600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-40" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI02.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage requirements risk." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5067.5" y="10470" width="300" height="60" as="geometry">
+          <mxGeometry x="5070" y="12590" width="300" height="60" as="geometry">
             <mxRectangle x="5070" y="4610" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -975,7 +975,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-42" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI02.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Perform a feasibility study and formulate alternative solutions." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4707.5" y="10470" width="300" height="60" as="geometry">
+          <mxGeometry x="4710" y="12590" width="300" height="60" as="geometry">
             <mxRectangle x="4710" y="4610" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -983,7 +983,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-44" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI02.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Obtain approval of requirements and solutions." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5427.5" y="10470" width="300" height="60" as="geometry">
+          <mxGeometry x="5430" y="12590" width="300" height="60" as="geometry">
             <mxRectangle x="5430" y="4610" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -992,12 +992,12 @@
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-40" target="5n0gASPAGLLi4WL7JSeG-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5367.5" y="10470" as="sourcePoint" />
-            <mxPoint x="5427.5" y="10470" as="targetPoint" />
+            <mxPoint x="5370" y="12590" as="sourcePoint" />
+            <mxPoint x="5430" y="12590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-47" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI02.01&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Define and maintain business functional and technical&lt;div&gt;requirements.&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4347.5" y="10470" width="300" height="60" as="geometry">
+          <mxGeometry x="4350" y="12590" width="300" height="60" as="geometry">
             <mxRectangle x="4350" y="4610" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1006,8 +1006,8 @@
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-47" target="5n0gASPAGLLi4WL7JSeG-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4298" y="10480" as="sourcePoint" />
-            <mxPoint x="4358" y="10480" as="targetPoint" />
+            <mxPoint x="4300.5" y="12600" as="sourcePoint" />
+            <mxPoint x="4360.5" y="12600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-53" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI03.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Design detailed solution components." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
@@ -1292,12 +1292,12 @@
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-121" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-124" target="5n0gASPAGLLi4WL7JSeG-122" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5017.5" y="10570" as="sourcePoint" />
-            <mxPoint x="5077.5" y="10570" as="targetPoint" />
+            <mxPoint x="5020" y="12690" as="sourcePoint" />
+            <mxPoint x="5080" y="12690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-122" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI06.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Track and report change status." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5427.5" y="10560" width="300" height="60" as="geometry">
+          <mxGeometry x="5430" y="12680" width="300" height="60" as="geometry">
             <mxRectangle x="5070" y="4700" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1305,7 +1305,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-124" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI06.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage emergency changes." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5067.5" y="10560" width="300" height="60" as="geometry">
+          <mxGeometry x="5070" y="12680" width="300" height="60" as="geometry">
             <mxRectangle x="4710" y="4700" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1313,7 +1313,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-126" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI06.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Close and document the changes." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="6547.5" y="10470" width="300" height="60" as="geometry">
+          <mxGeometry x="6550" y="12590" width="300" height="60" as="geometry">
             <mxRectangle x="5430" y="4700" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1321,7 +1321,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-129" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI06.01&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Evaluate, prioritize and authorize change requests." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4707.5" y="10560" width="300" height="60" as="geometry">
+          <mxGeometry x="4710" y="12680" width="300" height="60" as="geometry">
             <mxRectangle x="4350" y="4700" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1330,12 +1330,12 @@
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-131" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-129" target="5n0gASPAGLLi4WL7JSeG-124" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4658" y="10570" as="sourcePoint" />
-            <mxPoint x="4718" y="10570" as="targetPoint" />
+            <mxPoint x="4660.5" y="12690" as="sourcePoint" />
+            <mxPoint x="4720.5" y="12690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-133" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI07.01&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Establish an implementation plan." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4707.5" y="10650" width="300" height="60" as="geometry">
+          <mxGeometry x="4710" y="12770" width="300" height="60" as="geometry">
             <mxRectangle x="2910" y="4790" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1351,7 +1351,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-138" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI07.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Plan acceptance tests." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5427.5" y="10650" width="300" height="60" as="geometry">
+          <mxGeometry x="5430" y="12770" width="300" height="60" as="geometry">
             <mxRectangle x="3630" y="4790" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1359,7 +1359,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-141" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI07.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Plan business process, system and data conversion." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5067.5" y="10650" width="300" height="60" as="geometry">
+          <mxGeometry x="5070" y="12770" width="300" height="60" as="geometry">
             <mxRectangle x="3270" y="4790" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1368,24 +1368,24 @@
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-143" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-133" target="5n0gASPAGLLi4WL7JSeG-141" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4658" y="10660" as="sourcePoint" />
-            <mxPoint x="4718" y="10660" as="targetPoint" />
+            <mxPoint x="4660.5" y="12780" as="sourcePoint" />
+            <mxPoint x="4720.5" y="12780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-144" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-141" target="5n0gASPAGLLi4WL7JSeG-138" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5018" y="10660" as="sourcePoint" />
-            <mxPoint x="5078" y="10660" as="targetPoint" />
+            <mxPoint x="5020.5" y="12780" as="sourcePoint" />
+            <mxPoint x="5080.5" y="12780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-145" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-148" target="5n0gASPAGLLi4WL7JSeG-146" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="6857.5" y="10570" as="sourcePoint" />
-            <mxPoint x="6917.5" y="10570" as="targetPoint" />
+            <mxPoint x="6860" y="12690" as="sourcePoint" />
+            <mxPoint x="6920" y="12690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-146" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI07.07&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Provide early production support." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="7267.5" y="10560" width="300" height="60" as="geometry">
+          <mxGeometry x="7270" y="12680" width="300" height="60" as="geometry">
             <mxRectangle x="5070" y="4790" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1393,7 +1393,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-148" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI07.06&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Promote to production and manage releases." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="6907.5" y="10560" width="300" height="60" as="geometry">
+          <mxGeometry x="6910" y="12680" width="300" height="60" as="geometry">
             <mxRectangle x="4710" y="4790" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1401,7 +1401,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-150" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI07.08&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Perform a post-implementation review." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="7627.5" y="10560" width="300" height="60" as="geometry">
+          <mxGeometry x="7630" y="12680" width="300" height="60" as="geometry">
             <mxRectangle x="5430" y="4790" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1410,12 +1410,12 @@
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-152" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-146" target="5n0gASPAGLLi4WL7JSeG-150" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="7567.5" y="10560" as="sourcePoint" />
-            <mxPoint x="7627.5" y="10560" as="targetPoint" />
+            <mxPoint x="7570" y="12680" as="sourcePoint" />
+            <mxPoint x="7630" y="12680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-153" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI07.05&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Perform acceptance tests." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="6547.5" y="10560" width="300" height="60" as="geometry">
+          <mxGeometry x="6550" y="12680" width="300" height="60" as="geometry">
             <mxRectangle x="4350" y="4790" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1424,8 +1424,8 @@
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-155" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-153" target="5n0gASPAGLLi4WL7JSeG-148" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="6498" y="10570" as="sourcePoint" />
-            <mxPoint x="6558" y="10570" as="targetPoint" />
+            <mxPoint x="6500.5" y="12690" as="sourcePoint" />
+            <mxPoint x="6560.5" y="12690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-160" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-163" target="5n0gASPAGLLi4WL7JSeG-161" edge="1">
@@ -1479,7 +1479,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-172" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI09.01&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Identify and record current assets." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4705" y="10740" width="300" height="60" as="geometry">
+          <mxGeometry x="4707.5" y="12860" width="300" height="60" as="geometry">
             <mxRectangle x="3990" y="3650" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1488,12 +1488,12 @@
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-174" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-172" target="5n0gASPAGLLi4WL7JSeG-183" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3927.5" y="9510" as="sourcePoint" />
-            <mxPoint x="3987.5" y="9510" as="targetPoint" />
+            <mxPoint x="3930" y="11630" as="sourcePoint" />
+            <mxPoint x="3990" y="11630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-176" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI09.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Optimize asset value." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="6547.5" y="10650" width="300" height="60" as="geometry">
+          <mxGeometry x="6550" y="12770" width="300" height="60" as="geometry">
             <mxRectangle x="5070" y="3650" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1501,7 +1501,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-178" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI09.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage the asset life cycle." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5425" y="10740" width="300" height="60" as="geometry">
+          <mxGeometry x="5427.5" y="12860" width="300" height="60" as="geometry">
             <mxRectangle x="4710" y="3650" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1509,7 +1509,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-180" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI09.05&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage licenses." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="6907.5" y="10650" width="300" height="60" as="geometry">
+          <mxGeometry x="6910" y="12770" width="300" height="60" as="geometry">
             <mxRectangle x="5430" y="3650" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1518,12 +1518,12 @@
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-182" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-176" target="5n0gASPAGLLi4WL7JSeG-180" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5370" y="11470" as="sourcePoint" />
-            <mxPoint x="5430" y="11470" as="targetPoint" />
+            <mxPoint x="5372.5" y="13590" as="sourcePoint" />
+            <mxPoint x="5432.5" y="13590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-183" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI09.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Manage critical assets." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5067.5" y="10740" width="300" height="60" as="geometry">
+          <mxGeometry x="5070" y="12860" width="300" height="60" as="geometry">
             <mxRectangle x="4350" y="3650" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1532,8 +1532,8 @@
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-185" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-183" target="5n0gASPAGLLi4WL7JSeG-178" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4298" y="9520" as="sourcePoint" />
-            <mxPoint x="4358" y="9520" as="targetPoint" />
+            <mxPoint x="4300.5" y="11640" as="sourcePoint" />
+            <mxPoint x="4360.5" y="11640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI10.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Produce status and configuration reports." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
@@ -1545,7 +1545,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI10.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Maintain and control configuration items." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="6547.5" y="10740" width="300" height="60" as="geometry">
+          <mxGeometry x="6550" y="12860" width="300" height="60" as="geometry">
             <mxRectangle x="4710" y="3650" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1561,7 +1561,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-9" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI10.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Establish and maintain a configuration repository and baseline." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5427.5" y="10830" width="300" height="60" as="geometry">
+          <mxGeometry x="5430" y="12950" width="300" height="60" as="geometry">
             <mxRectangle x="4350" y="3650" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1684,12 +1684,12 @@
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-62" target="QuHqFJcRldl6wBvhqh9c-60" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3940" y="10930" as="sourcePoint" />
-            <mxPoint x="4000" y="10930" as="targetPoint" />
+            <mxPoint x="3942.5" y="13050" as="sourcePoint" />
+            <mxPoint x="4002.5" y="13050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-60" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS01.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage outsourced I&amp;amp;T services." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4350" y="10920" width="300" height="60" as="geometry">
+          <mxGeometry x="4352.5" y="13040" width="300" height="60" as="geometry">
             <mxRectangle x="4352.5" y="3740" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1697,7 +1697,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-62" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - DSS01.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Perform operational procedures." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3990" y="10920" width="300" height="60" as="geometry">
+          <mxGeometry x="3992.5" y="13040" width="300" height="60" as="geometry">
             <mxRectangle x="4023.75" y="5530" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1706,18 +1706,18 @@
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-60" target="QuHqFJcRldl6wBvhqh9c-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4290" y="10920" as="sourcePoint" />
-            <mxPoint x="4350" y="10920" as="targetPoint" />
+            <mxPoint x="4292.5" y="13040" as="sourcePoint" />
+            <mxPoint x="4352.5" y="13040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-68" target="QuHqFJcRldl6wBvhqh9c-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5017.5" y="10930" as="sourcePoint" />
-            <mxPoint x="5077.5" y="10930" as="targetPoint" />
+            <mxPoint x="5020" y="13050" as="sourcePoint" />
+            <mxPoint x="5080" y="13050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-66" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS01.05&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage facilities." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5427.5" y="10920" width="300" height="60" as="geometry">
+          <mxGeometry x="5430" y="13040" width="300" height="60" as="geometry">
             <mxRectangle x="5430" y="3740" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1725,7 +1725,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-68" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS01.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage the environment." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5067.5" y="10920" width="300" height="60" as="geometry">
+          <mxGeometry x="5070" y="13040" width="300" height="60" as="geometry">
             <mxRectangle x="5070" y="3740" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1733,7 +1733,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-70" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS01.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Monitor I&amp;amp;T infrastructure." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4710" y="10920" width="300" height="60" as="geometry">
+          <mxGeometry x="4712.5" y="13040" width="300" height="60" as="geometry">
             <mxRectangle x="4712.5" y="3740" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1742,8 +1742,8 @@
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-70" target="QuHqFJcRldl6wBvhqh9c-68" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4660" y="10930" as="sourcePoint" />
-            <mxPoint x="4720" y="10930" as="targetPoint" />
+            <mxPoint x="4662.5" y="13050" as="sourcePoint" />
+            <mxPoint x="4722.5" y="13050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-98" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS04.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Maintain business resilience." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
@@ -1794,12 +1794,12 @@
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-113" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-116" target="QuHqFJcRldl6wBvhqh9c-114" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3222.5" y="11020" as="sourcePoint" />
-            <mxPoint x="3282.5" y="11020" as="targetPoint" />
+            <mxPoint x="3225" y="13140" as="sourcePoint" />
+            <mxPoint x="3285" y="13140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-114" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS05.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage network and connectivity security." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3632.5" y="11010" width="300" height="60" as="geometry">
+          <mxGeometry x="3635" y="13130" width="300" height="60" as="geometry">
             <mxRectangle x="3666.25" y="5620" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1807,7 +1807,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-116" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - DSS05.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Protect against malicious software." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3272.5" y="11010" width="300" height="60" as="geometry">
+          <mxGeometry x="3275" y="13130" width="300" height="60" as="geometry">
             <mxRectangle x="3306.25" y="5620" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1816,18 +1816,18 @@
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-118" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-114" target="QuHqFJcRldl6wBvhqh9c-124" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3572.5" y="11010" as="sourcePoint" />
-            <mxPoint x="3632.5" y="11010" as="targetPoint" />
+            <mxPoint x="3575" y="13130" as="sourcePoint" />
+            <mxPoint x="3635" y="13130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-119" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-122" target="QuHqFJcRldl6wBvhqh9c-120" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4300" y="11020" as="sourcePoint" />
-            <mxPoint x="4360" y="11020" as="targetPoint" />
+            <mxPoint x="4302.5" y="13140" as="sourcePoint" />
+            <mxPoint x="4362.5" y="13140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-120" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS05.05&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage physical access to I&amp;amp;T assets." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4710" y="11010" width="300" height="60" as="geometry">
+          <mxGeometry x="4712.5" y="13130" width="300" height="60" as="geometry">
             <mxRectangle x="4743.75" y="5620" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1835,7 +1835,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-122" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS05.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage user identity and logical access." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4350" y="11010" width="300" height="60" as="geometry">
+          <mxGeometry x="4352.5" y="13130" width="300" height="60" as="geometry">
             <mxRectangle x="4383.75" y="5620" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1843,7 +1843,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-124" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS05.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Manage endpoint security." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3992.5" y="11010" width="300" height="60" as="geometry">
+          <mxGeometry x="3995" y="13130" width="300" height="60" as="geometry">
             <mxRectangle x="4026.25" y="5620" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1852,18 +1852,18 @@
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-126" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-124" target="QuHqFJcRldl6wBvhqh9c-122" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3942.5" y="11020" as="sourcePoint" />
-            <mxPoint x="4002.5" y="11020" as="targetPoint" />
+            <mxPoint x="3945" y="13140" as="sourcePoint" />
+            <mxPoint x="4005" y="13140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-127" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-130" target="QuHqFJcRldl6wBvhqh9c-128" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5017.5" y="11020" as="sourcePoint" />
-            <mxPoint x="5077.5" y="11020" as="targetPoint" />
+            <mxPoint x="5020" y="13140" as="sourcePoint" />
+            <mxPoint x="5080" y="13140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-128" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS05.07&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Manage vulnerabilities and monitor the infrastructure for&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;security-related events.&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5427.5" y="11010" width="300" height="60" as="geometry">
+          <mxGeometry x="5430" y="13130" width="300" height="60" as="geometry">
             <mxRectangle x="5461.25" y="5620" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1871,7 +1871,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-130" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS05.06&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage sensitive documents and output devices." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5067.5" y="11010" width="300" height="60" as="geometry">
+          <mxGeometry x="5070" y="13130" width="300" height="60" as="geometry">
             <mxRectangle x="5101.25" y="5620" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1880,18 +1880,18 @@
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-132" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-120" target="QuHqFJcRldl6wBvhqh9c-130" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5006.25" y="11010" as="sourcePoint" />
-            <mxPoint x="4720.25" y="11020" as="targetPoint" />
+            <mxPoint x="5008.75" y="13130" as="sourcePoint" />
+            <mxPoint x="4722.75" y="13140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-151" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-154" target="QuHqFJcRldl6wBvhqh9c-152" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3582.5" y="11110" as="sourcePoint" />
-            <mxPoint x="3642.5" y="11110" as="targetPoint" />
+            <mxPoint x="3585" y="13230" as="sourcePoint" />
+            <mxPoint x="3645" y="13230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-152" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS06.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Control the processing of information." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3992.5" y="11100" width="300" height="60" as="geometry">
+          <mxGeometry x="3995" y="13220" width="300" height="60" as="geometry">
             <mxRectangle x="4026.25" y="5710" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1899,7 +1899,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-154" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - DSS06.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Align control activities embedded in business processes with enterprise objectives." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3632.5" y="11100" width="300" height="60" as="geometry">
+          <mxGeometry x="3635" y="13220" width="300" height="60" as="geometry">
             <mxRectangle x="3666.25" y="5710" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1908,18 +1908,18 @@
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-156" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-152" target="QuHqFJcRldl6wBvhqh9c-162" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3932.5" y="11100" as="sourcePoint" />
-            <mxPoint x="3992.5" y="11100" as="targetPoint" />
+            <mxPoint x="3935" y="13220" as="sourcePoint" />
+            <mxPoint x="3995" y="13220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-157" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-160" target="QuHqFJcRldl6wBvhqh9c-158" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4660" y="11110" as="sourcePoint" />
-            <mxPoint x="4720" y="11110" as="targetPoint" />
+            <mxPoint x="4662.5" y="13230" as="sourcePoint" />
+            <mxPoint x="4722.5" y="13230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-158" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS06.05&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Ensure traceability and accountability for information events." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5070" y="11100" width="300" height="60" as="geometry">
+          <mxGeometry x="5072.5" y="13220" width="300" height="60" as="geometry">
             <mxRectangle x="5103.75" y="5710" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1927,7 +1927,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-160" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS06.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage errors and exceptions." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4710" y="11100" width="300" height="60" as="geometry">
+          <mxGeometry x="4712.5" y="13220" width="300" height="60" as="geometry">
             <mxRectangle x="4743.75" y="5710" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1935,7 +1935,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-162" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS06.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Manage roles, responsibilities, access privileges and levels&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;of authority.&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4352.5" y="11100" width="300" height="60" as="geometry">
+          <mxGeometry x="4355" y="13220" width="300" height="60" as="geometry">
             <mxRectangle x="4386.25" y="5710" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1944,12 +1944,12 @@
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-164" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-162" target="QuHqFJcRldl6wBvhqh9c-160" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4302.5" y="11110" as="sourcePoint" />
-            <mxPoint x="4362.5" y="11110" as="targetPoint" />
+            <mxPoint x="4305" y="13230" as="sourcePoint" />
+            <mxPoint x="4365" y="13230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-165" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS06.06&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Secure information assets." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5427.5" y="11100" width="300" height="60" as="geometry">
+          <mxGeometry x="5430" y="13220" width="300" height="60" as="geometry">
             <mxRectangle x="5461.25" y="5710" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1958,8 +1958,8 @@
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-167" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-158" target="QuHqFJcRldl6wBvhqh9c-165" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5366.25" y="11100" as="sourcePoint" />
-            <mxPoint x="5080.25" y="11110" as="targetPoint" />
+            <mxPoint x="5368.75" y="13220" as="sourcePoint" />
+            <mxPoint x="5082.75" y="13230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BSoNbctEzULQwdFmj1DB-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;Architecture management (3.2.1)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Architecture governance" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
@@ -2001,7 +2001,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="GwzLfTZYDkI80HiPmpim-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;Information security management (3.2.1)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Security incident management" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="6547.5" y="10830" width="300" height="60" as="geometry">
+          <mxGeometry x="6550" y="12950" width="300" height="60" as="geometry">
             <mxRectangle x="6578.75" y="5440" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2066,10 +2066,10 @@
           <mxGeometry x="3832.5" y="2557.5" width="4615" height="300" as="geometry" />
         </mxCell>
         <mxCell id="nB1jEptSUxtJqMZ95UXG-29" value="&lt;font color=&quot;#ababab&quot; style=&quot;font-size: 100px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Capability&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="3477" y="7557.5" width="5325" height="300" as="geometry" />
+          <mxGeometry x="2416.75" y="8617.75" width="7445.5" height="300" as="geometry" />
         </mxCell>
         <mxCell id="nB1jEptSUxtJqMZ95UXG-30" value="&lt;font color=&quot;#ababab&quot; style=&quot;font-size: 100px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Feature&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="3566" y="12806" width="5142" height="300" as="geometry" />
+          <mxGeometry x="3568.5" y="14926" width="5142" height="300" as="geometry" />
         </mxCell>
         <mxCell id="nB1jEptSUxtJqMZ95UXG-31" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;Organizational change management (3.2.1)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Organizational change lifecycle management" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="5073" y="1900" width="300" height="60" as="geometry">
@@ -2118,7 +2118,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="nB1jEptSUxtJqMZ95UXG-45" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;i&gt;Project&amp;nbsp;&lt;/i&gt;management (3.2.4)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Managing product delivery" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5427.5" y="11190" width="300" height="60" as="geometry">
+          <mxGeometry x="5430" y="13310" width="300" height="60" as="geometry">
             <mxRectangle x="5430.5" y="7550" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2156,7 +2156,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="NjYFKYjcXnlCeQA4j0BC-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;i&gt;Relationship&amp;nbsp;&lt;/i&gt;management (3.2.2)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Managing service relationship journeys" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5427.5" y="11280" width="300" height="60" as="geometry">
+          <mxGeometry x="5430" y="13400" width="300" height="60" as="geometry">
             <mxRectangle x="5433" y="2080" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2204,7 +2204,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="nVK2YNMN3wv4ctxS4OYY-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;i&gt;Service financial&amp;nbsp;&lt;/i&gt;management (3.2.3)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Management accounting" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="6547.5" y="10920" width="300" height="60" as="geometry">
+          <mxGeometry x="6550" y="13040" width="300" height="60" as="geometry">
             <mxRectangle x="5430.5" y="2270" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2220,7 +2220,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="UwG0B5D9gC1XuE7l1oR9-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;i&gt;Strategy management&lt;/i&gt;&amp;nbsp;(3.2.2)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Ad hoc strategic decision-making" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5427.5" y="11370" width="300" height="60" as="geometry">
+          <mxGeometry x="5430" y="13490" width="300" height="60" as="geometry">
             <mxRectangle x="5410" y="8160" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2316,7 +2316,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="jNRMRp2S-dL0ja43aLe--1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 - Change enablement&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;(3.2.1)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Change lifecycle management" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5427.5" y="11460" width="300" height="60" as="geometry">
+          <mxGeometry x="5430" y="13580" width="300" height="60" as="geometry">
             <mxRectangle x="5073" y="7820" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2332,7 +2332,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="jNRMRp2S-dL0ja43aLe--9" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;i&gt;IT asset&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.1)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%20Establishing%20and%20maintaining%20the%20knowledge%20management%20environment%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225073%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%224713%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Understand%20current%20culture%20of%20knowledge%20usage%20and%20knowledge%20sharing%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20external%20and%20internal%20requirements%20and%20factors%20of%20influence%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Optimize%20response%2C%20identify%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Promote%20and%20empower%20usage%20of%20knowledge%20management%20practice%20across%20the%20organization%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20knowledge%20management%20practice%20application%20and%20initiate%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20want%20agile%20solution%20development%20projects%20to%20contribute%20to%20a%20well%20established%20knowledge%20management%20environment%2C%20in%20order%20to%20maintain%20solution%2Fproduct%2Fproject%20knowledge%20in%20a%20manner%20that%20fits%20to%20the%20enterprise.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%20Knowledge%20management%20(3.2.2)%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.2)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20On-demand%20information%20discovery%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225433%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%225073%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Registration%20of%20information%20request%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Research%20and%20data%20collection%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20processing%20and%20presentation%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20acceptance%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Knowledge%20integration%20and%20review%26lt%3B%2Fdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20I%20want%20agile%20solution%20development%20projects%20to%20follow%20and%20apply%20on-demand%20information%20discovery%20processes%20to%20be%20established%2C%20in%20order%20to%20explore%20and%20research%20new%20information%20in%20an%20adequate%20quality.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3BKnowledge%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3Bmanagement%20(3.2.3)%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D1%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20target%3D%224%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%225023%22%20y%3D%222000%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%225083%22%20y%3D%222000%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.1)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%20Establishing%20and%20maintaining%20the%20knowledge%20management%20environment%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225073%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%224713%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Understand%20current%20culture%20of%20knowledge%20usage%20and%20knowledge%20sharing%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20external%20and%20internal%20requirements%20and%20factors%20of%20influence%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Optimize%20response%2C%20identify%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Promote%20and%20empower%20usage%20of%20knowledge%20management%20practice%20across%20the%20organization%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20knowledge%20management%20practice%20application%20and%20initiate%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20want%20agile%20solution%20development%20projects%20to%20contribute%20to%20a%20well%20established%20knowledge%20management%20environment%2C%20in%20order%20to%20maintain%20solution%2Fproduct%2Fproject%20knowledge%20in%20a%20manner%20that%20fits%20to%20the%20enterprise.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%20Knowledge%20management%20(3.2.2)%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.2)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20On-demand%20information%20discovery%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225433%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%225073%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Registration%20of%20information%20request%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Research%20and%20data%20collection%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20processing%20and%20presentation%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20acceptance%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Knowledge%20integration%20and%20review%26lt%3B%2Fdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20I%20want%20agile%20solution%20development%20projects%20to%20follow%20and%20apply%20on-demand%20information%20discovery%20processes%20to%20be%20established%2C%20in%20order%20to%20explore%20and%20research%20new%20information%20in%20an%20adequate%20quality.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3BKnowledge%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3Bmanagement%20(3.2.3)%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D1%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20target%3D%224%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%225023%22%20y%3D%222000%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%225083%22%20y%3D%222000%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;management&lt;/i&gt;&amp;nbsp;(3.2.2)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Managing the IT asset life cycle and records" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5428.75" y="11550" width="300" height="60" as="geometry">
+          <mxGeometry x="5431.25" y="13670" width="300" height="60" as="geometry">
             <mxRectangle x="5073" y="2620" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2348,7 +2348,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="s-qbUJ5rrHLjZnUm8olo-1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;i&gt;Monitoring and event&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.1)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%20Establishing%20and%20maintaining%20the%20knowledge%20management%20environment%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225073%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%224713%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Understand%20current%20culture%20of%20knowledge%20usage%20and%20knowledge%20sharing%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20external%20and%20internal%20requirements%20and%20factors%20of%20influence%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Optimize%20response%2C%20identify%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Promote%20and%20empower%20usage%20of%20knowledge%20management%20practice%20across%20the%20organization%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20knowledge%20management%20practice%20application%20and%20initiate%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20want%20agile%20solution%20development%20projects%20to%20contribute%20to%20a%20well%20established%20knowledge%20management%20environment%2C%20in%20order%20to%20maintain%20solution%2Fproduct%2Fproject%20knowledge%20in%20a%20manner%20that%20fits%20to%20the%20enterprise.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%20Knowledge%20management%20(3.2.2)%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.2)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20On-demand%20information%20discovery%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225433%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%225073%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Registration%20of%20information%20request%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Research%20and%20data%20collection%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20processing%20and%20presentation%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20acceptance%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Knowledge%20integration%20and%20review%26lt%3B%2Fdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20I%20want%20agile%20solution%20development%20projects%20to%20follow%20and%20apply%20on-demand%20information%20discovery%20processes%20to%20be%20established%2C%20in%20order%20to%20explore%20and%20research%20new%20information%20in%20an%20adequate%20quality.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3BKnowledge%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3Bmanagement%20(3.2.3)%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D1%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20target%3D%224%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%225023%22%20y%3D%222000%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%225083%22%20y%3D%222000%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.1)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%20Establishing%20and%20maintaining%20the%20knowledge%20management%20environment%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225073%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%224713%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Understand%20current%20culture%20of%20knowledge%20usage%20and%20knowledge%20sharing%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20external%20and%20internal%20requirements%20and%20factors%20of%20influence%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Optimize%20response%2C%20identify%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Promote%20and%20empower%20usage%20of%20knowledge%20management%20practice%20across%20the%20organization%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20knowledge%20management%20practice%20application%20and%20initiate%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20want%20agile%20solution%20development%20projects%20to%20contribute%20to%20a%20well%20established%20knowledge%20management%20environment%2C%20in%20order%20to%20maintain%20solution%2Fproduct%2Fproject%20knowledge%20in%20a%20manner%20that%20fits%20to%20the%20enterprise.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%20Knowledge%20management%20(3.2.2)%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.2)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20On-demand%20information%20discovery%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225433%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%225073%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Registration%20of%20information%20request%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Research%20and%20data%20collection%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20processing%20and%20presentation%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20acceptance%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Knowledge%20integration%20and%20review%26lt%3B%2Fdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20I%20want%20agile%20solution%20development%20projects%20to%20follow%20and%20apply%20on-demand%20information%20discovery%20processes%20to%20be%20established%2C%20in%20order%20to%20explore%20and%20research%20new%20information%20in%20an%20adequate%20quality.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3BKnowledge%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3Bmanagement%20(3.2.3)%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D1%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20target%3D%224%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%225023%22%20y%3D%222000%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%225083%22%20y%3D%222000%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;management&lt;/i&gt;&amp;nbsp;(3.2.1)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Monitoring planning" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430" y="11640" width="300" height="60" as="geometry">
+          <mxGeometry x="5432.5" y="13760" width="300" height="60" as="geometry">
             <mxRectangle x="5073" y="8000" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2388,7 +2388,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="x0tNCmZjMzLHtTbmIZVQ-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;i&gt;Service configuration&amp;nbsp;&lt;/i&gt;management (3.2.2)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Capturing, managing, and providing configuration information" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="6547.5" y="11010" width="300" height="60" as="geometry">
+          <mxGeometry x="6550" y="13130" width="300" height="60" as="geometry">
             <mxRectangle x="5070.5" y="2620" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2396,7 +2396,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="x0tNCmZjMzLHtTbmIZVQ-13" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;i&gt;Service configuration&amp;nbsp;&lt;/i&gt;management (3.2.3)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Verifying configuration data" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="6907.5" y="11010" width="300" height="60" as="geometry">
+          <mxGeometry x="6910" y="13130" width="300" height="60" as="geometry">
             <mxRectangle x="5430.5" y="2620" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2420,7 +2420,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="x0tNCmZjMzLHtTbmIZVQ-20" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;i&gt;Service continuity management&lt;/i&gt;&amp;nbsp;(3.2.3)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Developing and maintaining service continuity plans" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430" y="11730" width="300" height="60" as="geometry">
+          <mxGeometry x="5432.5" y="13850" width="300" height="60" as="geometry">
             <mxRectangle x="4711.75" y="6180" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2452,7 +2452,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="FzpiOMwNagBz9-rqdHPx-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 - Service Design&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;(3.2.2)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Service design coordination" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430" y="11820" width="300" height="60" as="geometry">
+          <mxGeometry x="5432.5" y="13940" width="300" height="60" as="geometry">
             <mxRectangle x="5433" y="6270" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2460,7 +2460,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="FzpiOMwNagBz9-rqdHPx-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 - Service Level Management&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&amp;nbsp;(3.2.1)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Management of SLAs" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430" y="11910" width="300" height="60" as="geometry">
+          <mxGeometry x="5432.5" y="14030" width="300" height="60" as="geometry">
             <mxRectangle x="5073" y="6360" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2476,7 +2476,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="DO11c-6wLbNFiMZy8dLW-1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 - Service Request M&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; text-wrap: nowrap;&quot;&gt;CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.1)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%20Establishing%20and%20maintaining%20the%20knowledge%20management%20environment%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225073%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%224713%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Understand%20current%20culture%20of%20knowledge%20usage%20and%20knowledge%20sharing%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20external%20and%20internal%20requirements%20and%20factors%20of%20influence%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Optimize%20response%2C%20identify%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Promote%20and%20empower%20usage%20of%20knowledge%20management%20practice%20across%20the%20organization%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20knowledge%20management%20practice%20application%20and%20initiate%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20want%20agile%20solution%20development%20projects%20to%20contribute%20to%20a%20well%20established%20knowledge%20management%20environment%2C%20in%20order%20to%20maintain%20solution%2Fproduct%2Fproject%20knowledge%20in%20a%20manner%20that%20fits%20to%20the%20enterprise.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%20Knowledge%20management%20(3.2.2)%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.2)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20On-demand%20information%20discovery%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225433%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%225073%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Registration%20of%20information%20request%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Research%20and%20data%20collection%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20processing%20and%20presentation%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20acceptance%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Knowledge%20integration%20and%20review%26lt%3B%2Fdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20I%20want%20agile%20solution%20development%20projects%20to%20follow%20and%20apply%20on-demand%20information%20discovery%20processes%20to%20be%20established%2C%20in%20order%20to%20explore%20and%20research%20new%20information%20in%20an%20adequate%20quality.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3BKnowledge%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3Bmanagement%20(3.2.3)%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D1%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20target%3D%224%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%225023%22%20y%3D%222000%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%225083%22%20y%3D%222000%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.1)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%20Establishing%20and%20maintaining%20the%20knowledge%20management%20environment%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225073%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%224713%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Understand%20current%20culture%20of%20knowledge%20usage%20and%20knowledge%20sharing%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20external%20and%20internal%20requirements%20and%20factors%20of%20influence%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Optimize%20response%2C%20identify%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Promote%20and%20empower%20usage%20of%20knowledge%20management%20practice%20across%20the%20organization%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20knowledge%20management%20practice%20application%20and%20initiate%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20want%20agile%20solution%20development%20projects%20to%20contribute%20to%20a%20well%20established%20knowledge%20management%20environment%2C%20in%20order%20to%20maintain%20solution%2Fproduct%2Fproject%20knowledge%20in%20a%20manner%20that%20fits%20to%20the%20enterprise.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%20Knowledge%20management%20(3.2.2)%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.2)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20On-demand%20information%20discovery%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225433%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%225073%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Registration%20of%20information%20request%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Research%20and%20data%20collection%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20processing%20and%20presentation%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20acceptance%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Knowledge%20integration%20and%20review%26lt%3B%2Fdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20I%20want%20agile%20solution%20development%20projects%20to%20follow%20and%20apply%20on-demand%20information%20discovery%20processes%20to%20be%20established%2C%20in%20order%20to%20explore%20and%20research%20new%20information%20in%20an%20adequate%20quality.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3BKnowledge%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3Bmanagement%20(3.2.3)%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D1%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20target%3D%224%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%225023%22%20y%3D%222000%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%225083%22%20y%3D%222000%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;anagement (3.2.1)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Service request fulfilment control" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430" y="12000" width="300" height="60" as="geometry">
+          <mxGeometry x="5432.5" y="14120" width="300" height="60" as="geometry">
             <mxRectangle x="5073" y="6360" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2516,7 +2516,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="DO11c-6wLbNFiMZy8dLW-13" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 - Deployment Management&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&amp;nbsp;(3.2.1)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Deployment" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430" y="12090" width="300" height="60" as="geometry">
+          <mxGeometry x="5432.5" y="14210" width="300" height="60" as="geometry">
             <mxRectangle x="5073" y="6360" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2524,7 +2524,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="DO11c-6wLbNFiMZy8dLW-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 - Deployment Management&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&amp;nbsp;(3.2.2)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Deployment models development and review" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="6547.5" y="11100" width="300" height="60" as="geometry">
+          <mxGeometry x="6550" y="13220" width="300" height="60" as="geometry">
             <mxRectangle x="5433" y="6360" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2532,7 +2532,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="DO11c-6wLbNFiMZy8dLW-18" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 - Infrastructure and Platform M&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.1)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%20Establishing%20and%20maintaining%20the%20knowledge%20management%20environment%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225073%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%224713%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Understand%20current%20culture%20of%20knowledge%20usage%20and%20knowledge%20sharing%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20external%20and%20internal%20requirements%20and%20factors%20of%20influence%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Optimize%20response%2C%20identify%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Promote%20and%20empower%20usage%20of%20knowledge%20management%20practice%20across%20the%20organization%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20knowledge%20management%20practice%20application%20and%20initiate%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20want%20agile%20solution%20development%20projects%20to%20contribute%20to%20a%20well%20established%20knowledge%20management%20environment%2C%20in%20order%20to%20maintain%20solution%2Fproduct%2Fproject%20knowledge%20in%20a%20manner%20that%20fits%20to%20the%20enterprise.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%20Knowledge%20management%20(3.2.2)%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.2)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20On-demand%20information%20discovery%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225433%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%225073%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Registration%20of%20information%20request%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Research%20and%20data%20collection%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20processing%20and%20presentation%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20acceptance%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Knowledge%20integration%20and%20review%26lt%3B%2Fdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20I%20want%20agile%20solution%20development%20projects%20to%20follow%20and%20apply%20on-demand%20information%20discovery%20processes%20to%20be%20established%2C%20in%20order%20to%20explore%20and%20research%20new%20information%20in%20an%20adequate%20quality.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3BKnowledge%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3Bmanagement%20(3.2.3)%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D1%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20target%3D%224%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%225023%22%20y%3D%222000%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%225083%22%20y%3D%222000%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.1)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%20Establishing%20and%20maintaining%20the%20knowledge%20management%20environment%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225073%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%224713%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Understand%20current%20culture%20of%20knowledge%20usage%20and%20knowledge%20sharing%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20external%20and%20internal%20requirements%20and%20factors%20of%20influence%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Optimize%20response%2C%20identify%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Promote%20and%20empower%20usage%20of%20knowledge%20management%20practice%20across%20the%20organization%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20knowledge%20management%20practice%20application%20and%20initiate%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20want%20agile%20solution%20development%20projects%20to%20contribute%20to%20a%20well%20established%20knowledge%20management%20environment%2C%20in%20order%20to%20maintain%20solution%2Fproduct%2Fproject%20knowledge%20in%20a%20manner%20that%20fits%20to%20the%20enterprise.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%20Knowledge%20management%20(3.2.2)%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.2)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20On-demand%20information%20discovery%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225433%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%225073%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Registration%20of%20information%20request%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Research%20and%20data%20collection%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20processing%20and%20presentation%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20acceptance%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Knowledge%20integration%20and%20review%26lt%3B%2Fdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20I%20want%20agile%20solution%20development%20projects%20to%20follow%20and%20apply%20on-demand%20information%20discovery%20processes%20to%20be%20established%2C%20in%20order%20to%20explore%20and%20research%20new%20information%20in%20an%20adequate%20quality.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3BKnowledge%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3Bmanagement%20(3.2.3)%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D1%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20target%3D%224%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%225023%22%20y%3D%222000%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%225083%22%20y%3D%222000%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3EMM&lt;/span&gt;anagement (3.2.1)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Release planning" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4711.25" y="12180" width="300" height="60" as="geometry">
+          <mxGeometry x="4713.75" y="14300" width="300" height="60" as="geometry">
             <mxRectangle x="5433" y="8540" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2540,7 +2540,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="DO11c-6wLbNFiMZy8dLW-20" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 - I&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;i&gt;nfrastructure and Platform M&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.1)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%20Establishing%20and%20maintaining%20the%20knowledge%20management%20environment%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225073%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%224713%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Understand%20current%20culture%20of%20knowledge%20usage%20and%20knowledge%20sharing%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20external%20and%20internal%20requirements%20and%20factors%20of%20influence%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Optimize%20response%2C%20identify%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Promote%20and%20empower%20usage%20of%20knowledge%20management%20practice%20across%20the%20organization%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20knowledge%20management%20practice%20application%20and%20initiate%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20want%20agile%20solution%20development%20projects%20to%20contribute%20to%20a%20well%20established%20knowledge%20management%20environment%2C%20in%20order%20to%20maintain%20solution%2Fproduct%2Fproject%20knowledge%20in%20a%20manner%20that%20fits%20to%20the%20enterprise.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%20Knowledge%20management%20(3.2.2)%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.2)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20On-demand%20information%20discovery%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225433%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%225073%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Registration%20of%20information%20request%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Research%20and%20data%20collection%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20processing%20and%20presentation%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20acceptance%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Knowledge%20integration%20and%20review%26lt%3B%2Fdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20I%20want%20agile%20solution%20development%20projects%20to%20follow%20and%20apply%20on-demand%20information%20discovery%20processes%20to%20be%20established%2C%20in%20order%20to%20explore%20and%20research%20new%20information%20in%20an%20adequate%20quality.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3BKnowledge%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3Bmanagement%20(3.2.3)%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D1%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20target%3D%224%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%225023%22%20y%3D%222000%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%225083%22%20y%3D%222000%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.1)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%20Establishing%20and%20maintaining%20the%20knowledge%20management%20environment%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225073%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%224713%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Understand%20current%20culture%20of%20knowledge%20usage%20and%20knowledge%20sharing%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20external%20and%20internal%20requirements%20and%20factors%20of%20influence%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Optimize%20response%2C%20identify%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Promote%20and%20empower%20usage%20of%20knowledge%20management%20practice%20across%20the%20organization%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20knowledge%20management%20practice%20application%20and%20initiate%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20want%20agile%20solution%20development%20projects%20to%20contribute%20to%20a%20well%20established%20knowledge%20management%20environment%2C%20in%20order%20to%20maintain%20solution%2Fproduct%2Fproject%20knowledge%20in%20a%20manner%20that%20fits%20to%20the%20enterprise.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%20Knowledge%20management%20(3.2.2)%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.2)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20On-demand%20information%20discovery%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225433%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%225073%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Registration%20of%20information%20request%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Research%20and%20data%20collection%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20processing%20and%20presentation%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20acceptance%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Knowledge%20integration%20and%20review%26lt%3B%2Fdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20I%20want%20agile%20solution%20development%20projects%20to%20follow%20and%20apply%20on-demand%20information%20discovery%20processes%20to%20be%20established%2C%20in%20order%20to%20explore%20and%20research%20new%20information%20in%20an%20adequate%20quality.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3BKnowledge%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3Bmanagement%20(3.2.3)%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D1%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20target%3D%224%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%225023%22%20y%3D%222000%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%225083%22%20y%3D%222000%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3EMM&lt;/span&gt;anagement&lt;/i&gt;&amp;nbsp;(3.2.2)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Release coordination" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5071.25" y="12180" width="300" height="60" as="geometry">
+          <mxGeometry x="5073.75" y="14300" width="300" height="60" as="geometry">
             <mxRectangle x="5074.25" y="6360" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2548,7 +2548,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="DO11c-6wLbNFiMZy8dLW-22" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 - I&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;i&gt;nfrastructure and Platform M&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.1)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%20Establishing%20and%20maintaining%20the%20knowledge%20management%20environment%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225073%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%224713%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Understand%20current%20culture%20of%20knowledge%20usage%20and%20knowledge%20sharing%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20external%20and%20internal%20requirements%20and%20factors%20of%20influence%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Optimize%20response%2C%20identify%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Promote%20and%20empower%20usage%20of%20knowledge%20management%20practice%20across%20the%20organization%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20knowledge%20management%20practice%20application%20and%20initiate%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20want%20agile%20solution%20development%20projects%20to%20contribute%20to%20a%20well%20established%20knowledge%20management%20environment%2C%20in%20order%20to%20maintain%20solution%2Fproduct%2Fproject%20knowledge%20in%20a%20manner%20that%20fits%20to%20the%20enterprise.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%20Knowledge%20management%20(3.2.2)%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.2)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20On-demand%20information%20discovery%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225433%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%225073%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Registration%20of%20information%20request%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Research%20and%20data%20collection%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20processing%20and%20presentation%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20acceptance%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Knowledge%20integration%20and%20review%26lt%3B%2Fdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20I%20want%20agile%20solution%20development%20projects%20to%20follow%20and%20apply%20on-demand%20information%20discovery%20processes%20to%20be%20established%2C%20in%20order%20to%20explore%20and%20research%20new%20information%20in%20an%20adequate%20quality.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3BKnowledge%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3Bmanagement%20(3.2.3)%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D1%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20target%3D%224%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%225023%22%20y%3D%222000%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%225083%22%20y%3D%222000%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.1)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%20Establishing%20and%20maintaining%20the%20knowledge%20management%20environment%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225073%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%224713%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Understand%20current%20culture%20of%20knowledge%20usage%20and%20knowledge%20sharing%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20external%20and%20internal%20requirements%20and%20factors%20of%20influence%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Optimize%20response%2C%20identify%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Promote%20and%20empower%20usage%20of%20knowledge%20management%20practice%20across%20the%20organization%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Review%20knowledge%20management%20practice%20application%20and%20initiate%20improvements%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20want%20agile%20solution%20development%20projects%20to%20contribute%20to%20a%20well%20established%20knowledge%20management%20environment%2C%20in%20order%20to%20maintain%20solution%2Fproduct%2Fproject%20knowledge%20in%20a%20manner%20that%20fits%20to%20the%20enterprise.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%20Knowledge%20management%20(3.2.2)%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-weight%3A%20400%3B%26quot%3B%26gt%3B%26lt%3Bi%26gt%3BITIL%204%20-%26amp%3Bnbsp%3B%26lt%3B%2Fi%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bi%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%20font-weight%3A%20400%3B%26quot%3B%26gt%3BKnowledge%20management%20(3.2.2)%26lt%3B%2Fi%26gt%3B%26lt%3Bbr%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20On-demand%20information%20discovery%22%20style%3D%22swimlane%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BstartSize%3D60%3BfillColor%3D%23E1D5E7%3BstrokeColor%3D%23A680B8%3B%22%20vertex%3D%221%22%20collapsed%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225433%22%20y%3D%221990%22%20width%3D%22300%22%20height%3D%2260%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%225073%22%20y%3D%221720%22%20width%3D%22360%22%20height%3D%22410%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bb%26gt%3BControl%20Description%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Registration%20of%20information%20request%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Research%20and%20data%20collection%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20processing%20and%20presentation%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Information%20acceptance%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-%20Knowledge%20integration%20and%20review%26lt%3B%2Fdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BControl%20Objective%3A%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3BThe%20purpose%20of%20the%20knowledge%20management%20practice%20is%20to%20maintain%20and%20improve%20the%20effective%2C%20efficient%2C%20and%20convenient%20use%20of%20information%20and%20knowledge%20across%20the%20organization.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BEnabler%20Story%3A%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3BAs%20management%20of%20the%20enterprise%2C%20I%20want%20agile%20solution%20development%20projects%20to%20follow%20and%20apply%20on-demand%20information%20discovery%20processes%20to%20be%20established%2C%20in%20order%20to%20explore%20and%20research%20new%20information%20in%20an%20adequate%20quality.%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bu%20style%3D%26quot%3Bborder-color%3A%20var(--border-color)%3B%26quot%3B%26gt%3BDirect%20Successor%26lt%3B%2Fu%26gt%3B%3A%26amp%3Bnbsp%3B%26lt%3B%2Ffont%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3BKnowledge%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3Bmanagement%20(3.2.3)%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20y%3D%2260%22%20width%3D%22360%22%20height%3D%22350%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D1%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20target%3D%224%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%225023%22%20y%3D%222000%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%225083%22%20y%3D%222000%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3EMM&lt;/span&gt;anagement&lt;/i&gt;&amp;nbsp;(3.2.3)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Release coordination" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430" y="12180" width="300" height="60" as="geometry">
+          <mxGeometry x="5432.5" y="14300" width="300" height="60" as="geometry">
             <mxRectangle x="5433" y="6360" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2556,7 +2556,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="DO11c-6wLbNFiMZy8dLW-25" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ITIL 4 - Software Development and Management&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&amp;nbsp;(3.2.1)&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Software development and management" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#E1D5E7;strokeColor=#A680B8;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5428.75" y="12270" width="300" height="60" as="geometry">
+          <mxGeometry x="5431.25" y="14390" width="300" height="60" as="geometry">
             <mxRectangle x="5431.75" y="8630" width="360" height="490" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2588,7 +2588,7 @@
           <mxGeometry x="8720" y="5670" width="569" height="72" as="geometry" />
         </mxCell>
         <mxCell id="bgYUZ9FqRBf7vEnh27Lf-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d29fhpw069ctt2.cloudfront.net/icon/image/84582/preview.svg;rotation=-60;" parent="1" vertex="1">
-          <mxGeometry x="9320" y="3910" width="150" height="150" as="geometry" />
+          <mxGeometry x="9307.5" y="4280" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bgYUZ9FqRBf7vEnh27Lf-10" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.1&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Policies for information security" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="5432.5" y="7830" width="300" height="60" as="geometry">
@@ -2607,7 +2607,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="bgYUZ9FqRBf7vEnh27Lf-14" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.3&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Segregation of duties" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5428.75" y="12360" width="300" height="60" as="geometry">
+          <mxGeometry x="5431.25" y="14480" width="300" height="60" as="geometry">
             <mxRectangle x="5428.75" y="12360" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2631,7 +2631,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="bgYUZ9FqRBf7vEnh27Lf-20" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.6&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Contact with special interest groups" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430.5" y="12450" width="300" height="60" as="geometry">
+          <mxGeometry x="5433" y="14570" width="300" height="60" as="geometry">
             <mxRectangle x="5431.75" y="3070" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2655,7 +2655,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="bgYUZ9FqRBf7vEnh27Lf-26" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.9&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Inventory of information and other associated assets" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="6550" y="11190" width="300" height="60" as="geometry">
+          <mxGeometry x="6552.5" y="13310" width="300" height="60" as="geometry">
             <mxRectangle x="5431.25" y="12540" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2663,7 +2663,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="bgYUZ9FqRBf7vEnh27Lf-28" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.10&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Acceptable use of information and other associated assets" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430.5" y="12540" width="300" height="60" as="geometry">
+          <mxGeometry x="5433" y="14660" width="300" height="60" as="geometry">
             <mxRectangle x="5430.5" y="12540" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2679,7 +2679,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="bgYUZ9FqRBf7vEnh27Lf-32" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.12&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Classification of information" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430" y="12630" width="300" height="60" as="geometry">
+          <mxGeometry x="5432.5" y="14750" width="300" height="60" as="geometry">
             <mxRectangle x="5430" y="12630" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2687,7 +2687,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="s3o6-SQ5s5fYGSt-Lbuv-1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.13&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Labelling of information" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430.5" y="12720" width="300" height="60" as="geometry">
+          <mxGeometry x="5433" y="14840" width="300" height="60" as="geometry">
             <mxRectangle x="5430.5" y="12720" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2695,7 +2695,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="s3o6-SQ5s5fYGSt-Lbuv-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.14&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Information transfer" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430.5" y="12810" width="300" height="60" as="geometry">
+          <mxGeometry x="5433" y="14930" width="300" height="60" as="geometry">
             <mxRectangle x="5430.5" y="12810" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2703,7 +2703,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="s3o6-SQ5s5fYGSt-Lbuv-5" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.15&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Access control" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5428.75" y="12900" width="300" height="60" as="geometry">
+          <mxGeometry x="5431.25" y="15020" width="300" height="60" as="geometry">
             <mxRectangle x="5428.75" y="12900" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2719,7 +2719,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="s3o6-SQ5s5fYGSt-Lbuv-9" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.17&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Authentication information" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430" y="12990" width="300" height="60" as="geometry">
+          <mxGeometry x="5432.5" y="15110" width="300" height="60" as="geometry">
             <mxRectangle x="5431.25" y="8280" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2727,7 +2727,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="s3o6-SQ5s5fYGSt-Lbuv-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.18&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Access rights" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430" y="13080" width="300" height="60" as="geometry">
+          <mxGeometry x="5432.5" y="15200" width="300" height="60" as="geometry">
             <mxRectangle x="5430" y="13080" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2743,7 +2743,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="wldCwMX5vw_F5R4HQKtS-1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.20&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Addressing information security within supplier agreements" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5428.75" y="13170" width="300" height="60" as="geometry">
+          <mxGeometry x="5431.25" y="15290" width="300" height="60" as="geometry">
             <mxRectangle x="5428.75" y="13170" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2751,7 +2751,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="wldCwMX5vw_F5R4HQKtS-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.21&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Managing information security in the ICT supply chain" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5427.5" y="13260" width="300" height="60" as="geometry">
+          <mxGeometry x="5430" y="15380" width="300" height="60" as="geometry">
             <mxRectangle x="5427.5" y="13260" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2775,7 +2775,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="iMIV0qhzkyAP3cC0WdMi-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.24&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Information security incident management planning and preparation" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5427.5" y="13350" width="300" height="60" as="geometry">
+          <mxGeometry x="5430" y="15470" width="300" height="60" as="geometry">
             <mxRectangle x="5427.5" y="13350" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2783,7 +2783,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="iMIV0qhzkyAP3cC0WdMi-5" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.25&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Assessment and decision on information security events" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5428.75" y="13440" width="300" height="60" as="geometry">
+          <mxGeometry x="5431.25" y="15560" width="300" height="60" as="geometry">
             <mxRectangle x="5428.75" y="13440" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2791,7 +2791,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="iMIV0qhzkyAP3cC0WdMi-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.26&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Response to information security incidents" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5431.25" y="13530" width="300" height="60" as="geometry">
+          <mxGeometry x="5433.75" y="15650" width="300" height="60" as="geometry">
             <mxRectangle x="5431.25" y="13530" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2807,7 +2807,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="iMIV0qhzkyAP3cC0WdMi-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.28&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Collection of evidence" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5431.75" y="13620" width="300" height="60" as="geometry">
+          <mxGeometry x="5434.25" y="15740" width="300" height="60" as="geometry">
             <mxRectangle x="5431.75" y="13620" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2855,7 +2855,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="oTJ3HsHo-e2HUiJ0V5Zs-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.34&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Privacy and protection of PII" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430.5" y="13710" width="300" height="60" as="geometry">
+          <mxGeometry x="5433" y="15830" width="300" height="60" as="geometry">
             <mxRectangle x="5430.5" y="13710" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3071,7 +3071,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Esgi7Jmj60HRl2v-kxbO-5" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 8.2&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Privileged access rights" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5430.5" y="13800" width="300" height="60" as="geometry">
+          <mxGeometry x="5433" y="15920" width="300" height="60" as="geometry">
             <mxRectangle x="5430.5" y="13800" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3079,7 +3079,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Esgi7Jmj60HRl2v-kxbO-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 8.3&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Information access restriction" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5428.75" y="13890" width="300" height="60" as="geometry">
+          <mxGeometry x="5431.25" y="16010" width="300" height="60" as="geometry">
             <mxRectangle x="5428.75" y="13890" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3095,7 +3095,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="APiUFab89vncxG1K5Xg5-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 8.5&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Secure authentication" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="5430.5" y="13980" width="300" height="60" as="geometry">
+          <mxGeometry x="5433" y="16100" width="300" height="60" as="geometry">
             <mxRectangle x="5430.5" y="13980" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3111,11 +3111,27 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="APiUFab89vncxG1K5Xg5-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 8.7&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Protection against malware" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="5433" y="10260" width="300" height="60" as="geometry">
+          <mxGeometry x="5434.25" y="10260" width="300" height="60" as="geometry">
             <mxRectangle x="5433" y="10260" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="APiUFab89vncxG1K5Xg5-8" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Protection against malware should be implemented and supported by appropriate user awareness.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;To ensure information and other associated assets are protected against malware.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development projects to assure protection against malware on relevant endpoints introduced and/or used by the project, in order to ensure protection of information and other associated assets against malware.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="APiUFab89vncxG1K5Xg5-7">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="APiUFab89vncxG1K5Xg5-9" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 8.8&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Management of technical vulnerabilities" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5434.25" y="10350" width="300" height="60" as="geometry">
+            <mxRectangle x="5434.25" y="10350" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APiUFab89vncxG1K5Xg5-10" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Information about technical vulnerabilities of information systems in use should be obtained, the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;organization’s exposure to such vulnerabilities should be evaluated and appropriate measures should&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;be taken.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;To prevent exploitation of technical vulnerabilities.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development projects to onboard their project infrastructure as well as the newly introduced infrastructure by the project to the organizations vulnerability management process, in order to enable early detection and therefore prevent exploitation of technical vulnerabilities.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="APiUFab89vncxG1K5Xg5-9">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="APiUFab89vncxG1K5Xg5-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 8.9&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Configuration management" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="5434.25" y="16190" width="300" height="60" as="geometry">
+            <mxRectangle x="5434.25" y="16190" width="360" height="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APiUFab89vncxG1K5Xg5-12" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Configurations, including security configurations, of hardware, software, services and networks should&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;be established, documented, implemented, monitored and reviewed.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;To ensure hardware, software, services and networks function correctly with required security&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;settings, and configuration is not altered by unauthorized or incorrect changes.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development projects to assure that configurations of hardware, software, services and networks are established, documented, implemented, monitored and reviewed, in order to ensure that configurations are maintained and configurations are not unauthorized altered.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="APiUFab89vncxG1K5Xg5-11">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
       </root>
