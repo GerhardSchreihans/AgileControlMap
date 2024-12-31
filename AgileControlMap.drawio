@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="Page-1" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="6913" dy="3507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="1383" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3615,6 +3615,14 @@
         </mxCell>
         <mxCell id="INdrnmeXtqBlZBc4LRKb-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.pixabay.com/photo/2016/03/31/14/37/check-mark-1292787_960_720.png;" vertex="1" parent="1">
           <mxGeometry x="18922.5" y="690" width="142.53" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="INdrnmeXtqBlZBc4LRKb-32" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;CIS CSC - 4.1&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Establish and Maintain a Secure Configuration Process" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="6720" y="3120" width="360" height="410" as="geometry">
+            <mxRectangle x="6720" y="3120" width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INdrnmeXtqBlZBc4LRKb-33" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Establish and maintain a documented secure configuration process for enterprise assets (end-user devices, including portable and mobile, non-computing/IoT devices, and servers) and software (operating systems and applications). Review and update documentation annually, or when significant enterprise changes occur that could impact this Safeguard.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Data privacy has become increasingly important, and enterprises are learning that privacy is about the appropriate use and management of data, not just encryption. Data must be appropriately managed through its entire life cycle.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the enterprise, I want agile solution development projects to encrypt data on removeable media in project scope and enforce this encryption, in order to protect data stored on distributed and offline locations.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="INdrnmeXtqBlZBc4LRKb-32">
+          <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
