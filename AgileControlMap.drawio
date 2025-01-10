@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Agile Control Map" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="14340" dy="7460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="16000" pageHeight="7500" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="16000" pageHeight="7500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4604,8 +4604,8 @@
         <mxCell id="SV1uu8NhGJsbugBFLQkM-1" value="&lt;font style=&quot;color: rgb(110, 110, 110); font-size: 250px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Agile Control Map&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4560" y="90" width="9550" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="SV1uu8NhGJsbugBFLQkM-3" value="When creating an artifact in an agile project, which best practice frameworks controls should be included as enabler stories, and when should they be added?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontStyle=2;fontColor=light-dark(#6e6e6e, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="8592.869999999999" y="376" width="1484.25" height="140" as="geometry" />
+        <mxCell id="SV1uu8NhGJsbugBFLQkM-3" value="When creating an artifact in an agile project, which controls of best practice frameworks should be included as enabler stories, and when should they be added?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontStyle=2;fontColor=light-dark(#6e6e6e, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="8566.43" y="376" width="1537.13" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
