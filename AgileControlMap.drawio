@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Agile Control Map" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="14260" dy="7510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="18000" pageHeight="7500" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="18000" pageHeight="7500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -838,7 +838,7 @@
           <mxGeometry x="15860" y="878" width="1360" height="300" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-108" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS04.07&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage backup arrangements." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4090.25" y="4859" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="4358" width="300" height="60" as="geometry">
             <mxRectangle x="3581.25" y="4859" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -846,7 +846,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-21" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI11.05&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage project quality." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3012.75" y="4769" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="3998" width="300" height="60" as="geometry">
             <mxRectangle x="2503.75" y="4769" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -854,7 +854,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-23" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI11.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Develop and maintain the project plan." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2652.75" y="4769" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="3907.83" width="300" height="60" as="geometry">
             <mxRectangle x="2143.75" y="4769" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -862,7 +862,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-31" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI11.08&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage project resources and work packages." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4090.25" y="4769" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="4268" width="300" height="60" as="geometry">
             <mxRectangle x="3581.25" y="4769" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -870,7 +870,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-33" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI11.07&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Monitor and control projects." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3730.25" y="4769" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="4178" width="300" height="60" as="geometry">
             <mxRectangle x="3221.25" y="4769" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -878,39 +878,15 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-38" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI11.06&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Manage project risk." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3372.75" y="4769" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="4088" width="300" height="60" as="geometry">
             <mxRectangle x="2863.75" y="4769" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-39" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Eliminate or minimize specific risk associated with projects through a systematic process of planning, identifying, analyzing, responding to, monitoring and controlling the areas or events with potential to cause unwanted change. Define and record any risk faced by project management.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Realize defined project outcomes and reduce the risk of unexpected delays, costs and value erosion by improving communications to and involvement of business and end users. Ensure the value and quality of project deliverables and maximize their contribution to the defined programs and investment portfolio.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to systematically identified, analyzed, mitigated, monitored and controlled project risks, in order not to exceed the enterprise&#39;s risk appetite.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI11.07&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="QuHqFJcRldl6wBvhqh9c-38" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="QuHqFJcRldl6wBvhqh9c-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-23" target="QuHqFJcRldl6wBvhqh9c-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2602.75" y="4779" as="sourcePoint" />
-            <mxPoint x="2662.75" y="4779" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QuHqFJcRldl6wBvhqh9c-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-21" target="QuHqFJcRldl6wBvhqh9c-38" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2952.75" y="4769" as="sourcePoint" />
-            <mxPoint x="3012.75" y="4769" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QuHqFJcRldl6wBvhqh9c-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-33" target="QuHqFJcRldl6wBvhqh9c-31" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3680.25" y="4779" as="sourcePoint" />
-            <mxPoint x="3740.25" y="4779" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QuHqFJcRldl6wBvhqh9c-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-38" target="QuHqFJcRldl6wBvhqh9c-33" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3322.75" y="4779" as="sourcePoint" />
-            <mxPoint x="3382.75" y="4779" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-136" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI07.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Establish a test environment." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4091.5" y="4679" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="3819" width="300" height="60" as="geometry">
             <mxRectangle x="3582.5" y="4679" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -918,7 +894,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-107" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI05.05&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Enable operation and use." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4091.5" y="4589" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="3729" width="300" height="60" as="geometry">
             <mxRectangle x="3582.5" y="4589" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -926,7 +902,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-89" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI04.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Monitor and review availability and capacity." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3731.5" y="4499" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="3549" width="300" height="60" as="geometry">
             <mxRectangle x="3222.5" y="4499" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -934,7 +910,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-91" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI04.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Plan for new or changed service requirements." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3371.5" y="4499" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="3458" width="300" height="60" as="geometry">
             <mxRectangle x="2862.5" y="4499" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -942,7 +918,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-93" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI04.05&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Investigate and address availability, performance and&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;capacity issues.&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4091.5" y="4499" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="3639" width="300" height="60" as="geometry">
             <mxRectangle x="3582.5" y="4499" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -950,33 +926,15 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-96" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI04.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Assess business impact." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3011.5" y="4499" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="3369" width="300" height="60" as="geometry">
             <mxRectangle x="2502.5" y="4499" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-97" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Identify important services to the enterprise. Map services and resources to business processes and identify business dependencies. Ensure that the impact of unavailable resources is fully agreed on and accepted by the customer. For vital business functions, ensure that availability requirements can be satisfied per service level agreement (SLA).&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Maintain service availability, efficient management of resources and optimization of system performance through prediction of future performance and capacity requirements.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to assess the business impact of newly implemented services and resources by mapping them to business processes, in order to configure new solutions according to the business needs.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI04.03&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="5n0gASPAGLLi4WL7JSeG-96" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-88" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-91" target="5n0gASPAGLLi4WL7JSeG-89" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3321.5" y="4509" as="sourcePoint" />
-            <mxPoint x="3381.5" y="4509" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-95" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-89" target="5n0gASPAGLLi4WL7JSeG-93" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4031.5" y="4499" as="sourcePoint" />
-            <mxPoint x="4091.5" y="4499" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-98" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-96" target="5n0gASPAGLLi4WL7JSeG-91" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2962" y="4509" as="sourcePoint" />
-            <mxPoint x="3022" y="4509" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-53" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI03.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Design detailed solution components." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="849" y="4409" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="3998" width="300" height="60" as="geometry">
             <mxRectangle x="340" y="4409" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -984,7 +942,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-57" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI03.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Develop solution components." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1209" y="4409" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="4088" width="300" height="60" as="geometry">
             <mxRectangle x="700" y="4409" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -992,7 +950,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-59" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI03.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Procure solution components." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1569" y="4409" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="4178" width="300" height="60" as="geometry">
             <mxRectangle x="1060" y="4409" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1000,7 +958,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-64" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI03.07&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Prepare for solution testing." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2649" y="4409" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="4448" width="300" height="60" as="geometry">
             <mxRectangle x="2140" y="4409" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1008,7 +966,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-66" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI03.06&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Perform quality assurance (QA)." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2289" y="4409" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="4358" width="300" height="60" as="geometry">
             <mxRectangle x="1780" y="4409" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1016,7 +974,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-71" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI03.05&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Build solutions." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1929" y="4409" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="4268" width="300" height="60" as="geometry">
             <mxRectangle x="1420" y="4409" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1024,7 +982,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-76" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI03.11&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Define IT products and services and maintain the service portfolio." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3729" y="4409" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="4718" width="300" height="60" as="geometry">
             <mxRectangle x="3220" y="4409" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1032,7 +990,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-78" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI03.10&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Maintain solutions." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3369" y="4409" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="4628" width="300" height="60" as="geometry">
             <mxRectangle x="2860" y="4409" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1040,7 +998,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-80" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI03.12&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Design solutions based on the defined development methodology." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4089" y="4409" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="3278" width="300" height="60" as="geometry">
             <mxRectangle x="3580" y="4409" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1048,75 +1006,15 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-83" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI03.09&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Manage changes to requirements." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3009" y="4409" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="4538" width="300" height="60" as="geometry">
             <mxRectangle x="2500" y="4409" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-84" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Track the status of individual requirements (including all rejected requirements) throughout the project life cycle. Manage the approval of changes to requirements.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Ensure agile and scalable delivery of digital products and services. Establish timely and cost-effective solutions (technology, business processes and workflows) capable of supporting enterprise strategic and operational objectives.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to track changes to requirements and their approval sufficiently, in order to maintain oversight of requirements and document changes.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI03.10&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="5n0gASPAGLLi4WL7JSeG-83" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-53" target="5n0gASPAGLLi4WL7JSeG-57" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1149" y="4409" as="sourcePoint" />
-            <mxPoint x="1209" y="4409" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-57" target="5n0gASPAGLLi4WL7JSeG-59" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1159" y="4419" as="sourcePoint" />
-            <mxPoint x="1219" y="4419" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-66" target="5n0gASPAGLLi4WL7JSeG-64" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2239" y="4419" as="sourcePoint" />
-            <mxPoint x="2299" y="4419" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-64" target="5n0gASPAGLLi4WL7JSeG-83" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2589" y="4409" as="sourcePoint" />
-            <mxPoint x="2649" y="4409" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-59" target="5n0gASPAGLLi4WL7JSeG-71" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1519.5" y="4419" as="sourcePoint" />
-            <mxPoint x="1579.5" y="4419" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-74" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-71" target="5n0gASPAGLLi4WL7JSeG-66" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1879.5" y="4419" as="sourcePoint" />
-            <mxPoint x="1939.5" y="4419" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-78" target="5n0gASPAGLLi4WL7JSeG-76" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3319" y="4419" as="sourcePoint" />
-            <mxPoint x="3379" y="4419" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-76" target="5n0gASPAGLLi4WL7JSeG-80" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4029" y="4409" as="sourcePoint" />
-            <mxPoint x="4089" y="4409" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-85" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-83" target="5n0gASPAGLLi4WL7JSeG-78" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2959.5" y="4419" as="sourcePoint" />
-            <mxPoint x="3019.5" y="4419" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-72" target="ceHBMdHGofH0zuc_rEOh-70" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2959" y="4329" as="sourcePoint" />
-            <mxPoint x="3019" y="4329" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-70" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO14.08&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage the life cycle of data assets." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3369" y="4319" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="3729" width="300" height="60" as="geometry">
             <mxRectangle x="2860" y="4319" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1124,7 +1022,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-72" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO14.07&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Define the data cleansing approach." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3009" y="4319" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="3639" width="300" height="60" as="geometry">
             <mxRectangle x="2500" y="4319" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1132,7 +1030,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-74" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO14.09&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Support data archiving and retention." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3729" y="4319" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="3819" width="300" height="60" as="geometry">
             <mxRectangle x="3220" y="4319" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1140,27 +1038,15 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-76" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO14.10&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage data backup and restore arrangements." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4089" y="4319" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="3907.83" width="300" height="60" as="geometry">
             <mxRectangle x="3580" y="4319" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-77" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Manage availability of critical data to ensure operational continuity.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Ensure effective utilization of the critical data assets to achieve enterprise goals and objectives.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to&amp;nbsp;onboard the solution to the organization&#39;s backup management, in order to be able to restore data in case of disruption.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="ceHBMdHGofH0zuc_rEOh-76" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-70" target="ceHBMdHGofH0zuc_rEOh-74" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3669" y="4319" as="sourcePoint" />
-            <mxPoint x="3729" y="4319" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-79" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-74" target="ceHBMdHGofH0zuc_rEOh-76" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3679" y="4329" as="sourcePoint" />
-            <mxPoint x="3739" y="4329" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-63" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO13.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Define and manage an information security and privacy risk&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;treatment plan.&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3729" y="4229" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="3458" width="300" height="60" as="geometry">
             <mxRectangle x="3220" y="4229" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1168,33 +1054,15 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-65" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO13.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Monitor and review the information security management&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;system (ISMS).&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4089" y="4229" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="3549" width="300" height="60" as="geometry">
             <mxRectangle x="3580" y="4229" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-66" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Maintain and regularly communicate the need for, and benefits of,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;continuous improvement in information security. Collect and analyze&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;data about the information security management system (ISMS), and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;improve its effectiveness. Correct nonconformities to prevent recurrence.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Keep the impact and occurrence of information security incidents within the enterprise’s risk appetite levels.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to&amp;nbsp;support the collection of data and the improvement of the ISMS effectiveness within the project scope as well as after the go-live, in order to strengthen the companies security posture.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="ceHBMdHGofH0zuc_rEOh-65" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-63" target="ceHBMdHGofH0zuc_rEOh-65" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3679" y="4239" as="sourcePoint" />
-            <mxPoint x="3739" y="4239" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-51" target="ceHBMdHGofH0zuc_rEOh-49" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2949" y="4139" as="sourcePoint" />
-            <mxPoint x="2949" y="4089" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-49" target="ceHBMdHGofH0zuc_rEOh-47" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2959" y="4149" as="sourcePoint" />
-            <mxPoint x="3019" y="4149" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-47" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO12.04&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Articulate risk." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3369" y="4139" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="4718" width="300" height="60" as="geometry">
             <mxRectangle x="2860" y="4139" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1202,7 +1070,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-49" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO12.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Maintain a risk profile." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3009" y="4139" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="4628" width="300" height="60" as="geometry">
             <mxRectangle x="2500" y="4139" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1210,7 +1078,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-51" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO12.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Analyze risk." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2649" y="4139" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="4538" width="300" height="60" as="geometry">
             <mxRectangle x="2140" y="4139" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1218,7 +1086,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-53" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO12.05&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Define a risk management action portfolio." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3729" y="4139" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="3278" width="300" height="60" as="geometry">
             <mxRectangle x="3220" y="4139" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1226,47 +1094,23 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-55" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO12.06&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Respond to risk." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4089" y="4139" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="3369" width="300" height="60" as="geometry">
             <mxRectangle x="3580" y="4139" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-56" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Respond in a timely manner to materialized risk events with effective&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;measures to limit the magnitude of loss.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Integrate the management of I&amp;amp;T-related enterprise risk with overall enterprise risk management (ERM) and balance the costs and benefits of&amp;nbsp;managing I&amp;amp;T-related enterprise risk.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to&amp;nbsp;enable a timely response to materializing risk events during the project phase as well as after the go-live, in order to reduce the impact of adverse events.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="ceHBMdHGofH0zuc_rEOh-55" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-47" target="ceHBMdHGofH0zuc_rEOh-53" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3669" y="4139" as="sourcePoint" />
-            <mxPoint x="3729" y="4139" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-53" target="ceHBMdHGofH0zuc_rEOh-55" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3679" y="4149" as="sourcePoint" />
-            <mxPoint x="3739" y="4149" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-59" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO12.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Collect data." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2289.5" y="4139" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="4448" width="300" height="60" as="geometry">
             <mxRectangle x="1780.5" y="4139" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-60" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Identify and collect relevant data to enable effective I&amp;amp;T-related risk&lt;/div&gt;&lt;div&gt;identification, analysis and reporting.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Integrate the management of I&amp;amp;T-related enterprise risk with overall enterprise risk management (ERM) and balance the costs and benefits of&amp;nbsp;managing I&amp;amp;T-related enterprise risk.&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to&amp;nbsp;enable the collection of relevant risk data in the project phase as well as after the go-live, in order to enable effective risk identification, analysis and reporting.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO12.02&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="ceHBMdHGofH0zuc_rEOh-59" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-59" target="ceHBMdHGofH0zuc_rEOh-51" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2959.5" y="4149" as="sourcePoint" />
-            <mxPoint x="3019.5" y="4149" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-34" target="ceHBMdHGofH0zuc_rEOh-32" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3319" y="4069" as="sourcePoint" />
-            <mxPoint x="3379" y="4069" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-32" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO11.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Manage quality standards, practices and procedures and&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;integrate quality management into key processes and solutions.&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3729" y="4059" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="4268" width="300" height="60" as="geometry">
             <mxRectangle x="3220" y="4059" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1274,7 +1118,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-34" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO11.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Focus quality management on customers." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3369" y="4059" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="4178" width="300" height="60" as="geometry">
             <mxRectangle x="2860" y="4059" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1282,33 +1126,15 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-36" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO11.04&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Perform quality monitoring, control and reviews." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4089" y="4059" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="4358" width="300" height="60" as="geometry">
             <mxRectangle x="3580" y="4059" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-37" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Monitor the quality of processes and services on an ongoing basis, in&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;line with quality management standards. Define, plan and implement&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;measurements to monitor customer satisfaction with quality as well as the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;value provided by the quality management system (QMS). The information&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;gathered should be used by the process owner to improve quality.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Ensure consistent delivery of technology solutions and services to meet the quality requirements of the enterprise and satisfy stakeholder needs.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to&amp;nbsp;enable an adequate quality monitoring, control and review within the processes and services in project scope, in order to have a continuous evaluation of quality.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="ceHBMdHGofH0zuc_rEOh-36" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-32" target="ceHBMdHGofH0zuc_rEOh-36" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4029" y="4059" as="sourcePoint" />
-            <mxPoint x="4089" y="4059" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-22" target="ceHBMdHGofH0zuc_rEOh-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2949" y="3969" as="sourcePoint" />
-            <mxPoint x="2949" y="3919" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-20" target="ceHBMdHGofH0zuc_rEOh-18" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2959" y="3979" as="sourcePoint" />
-            <mxPoint x="3019" y="3979" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-18" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO10.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage vendor relationships and contracts." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3369" y="3969" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="3907.83" width="300" height="60" as="geometry">
             <mxRectangle x="2860" y="3969" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1316,7 +1142,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-20" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO10.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Select vendors." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3009" y="3969" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="3819" width="300" height="60" as="geometry">
             <mxRectangle x="2500" y="3969" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1324,7 +1150,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-22" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO10.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Identify and evaluate vendor relationships and contracts." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2649" y="3969" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="3728" width="300" height="60" as="geometry">
             <mxRectangle x="2140" y="3969" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1332,7 +1158,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-24" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO10.04&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Manage vendor risk." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3729" y="3969" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="3998" width="300" height="60" as="geometry">
             <mxRectangle x="3220" y="3969" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1340,39 +1166,15 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-26" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO10.05&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Monitor vendor performance and compliance." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4089" y="3969" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="4088" width="300" height="60" as="geometry">
             <mxRectangle x="3580" y="3969" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-27" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Periodically review overall vendor performance, compliance to contract&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;requirements and value for money. Address identified issues.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Optimize available I&amp;amp;T capabilities to support the I&amp;amp;T strategy and road map, minimize the risk associated with nonperforming or noncompliant&amp;nbsp;vendors, and ensure competitive pricing.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to&amp;nbsp;introduce vendors to a continuous performance and compliance management process, in order to assure an adequate management by the vendor.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="ceHBMdHGofH0zuc_rEOh-26" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-18" target="ceHBMdHGofH0zuc_rEOh-24" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3669" y="3969" as="sourcePoint" />
-            <mxPoint x="3729" y="3969" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-24" target="ceHBMdHGofH0zuc_rEOh-26" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3679" y="3979" as="sourcePoint" />
-            <mxPoint x="3739" y="3979" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-7" target="ceHBMdHGofH0zuc_rEOh-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2949" y="3879" as="sourcePoint" />
-            <mxPoint x="2949" y="3829" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-5" target="ceHBMdHGofH0zuc_rEOh-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2959" y="3889" as="sourcePoint" />
-            <mxPoint x="3019" y="3889" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO09.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Define and prepare service agreements." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3369" y="3879" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="3458" width="300" height="60" as="geometry">
             <mxRectangle x="2860" y="3879" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1380,7 +1182,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-5" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO09.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Catalog I&amp;amp;T-enabled services." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3009" y="3879" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="3369" width="300" height="60" as="geometry">
             <mxRectangle x="2500" y="3879" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1388,7 +1190,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO09.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Identify I&amp;amp;T services." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2649" y="3879" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="3278" width="300" height="60" as="geometry">
             <mxRectangle x="2140" y="3879" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1396,7 +1198,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-9" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO09.04&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Monitor and report service levels." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3729" y="3879" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="3548" width="300" height="60" as="geometry">
             <mxRectangle x="3220" y="3879" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1404,39 +1206,15 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO09.05&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Review service agreements and contracts." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4089" y="3879" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="3638" width="300" height="60" as="geometry">
             <mxRectangle x="3580" y="3879" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ceHBMdHGofH0zuc_rEOh-12" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Conduct periodic reviews of the service agreements and revise when&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;needed.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Ensure that I&amp;amp;T products, services and service levels meet current and future enterprise needs.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to introduce new or adapted contracts in the periodic review process or review contracts themselves in case of a DevOps approach, in order to assure an adequate contractual basis.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="ceHBMdHGofH0zuc_rEOh-11" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-3" target="ceHBMdHGofH0zuc_rEOh-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3669" y="3879" as="sourcePoint" />
-            <mxPoint x="3729" y="3879" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ceHBMdHGofH0zuc_rEOh-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ceHBMdHGofH0zuc_rEOh-9" target="ceHBMdHGofH0zuc_rEOh-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3679" y="3889" as="sourcePoint" />
-            <mxPoint x="3739" y="3889" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-75" target="sbHoc3gWJixWeE4EDV6L-73" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2949" y="3789" as="sourcePoint" />
-            <mxPoint x="2949" y="3739" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-73" target="sbHoc3gWJixWeE4EDV6L-71" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2959" y="3799" as="sourcePoint" />
-            <mxPoint x="3019" y="3799" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-71" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO08.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage the business relationship." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3369" y="3789" width="300" height="60" as="geometry">
+          <mxGeometry x="820" y="4538" width="300" height="60" as="geometry">
             <mxRectangle x="2860" y="3789" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1444,7 +1222,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-73" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO08.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Align I&amp;amp;T strategy with business expectations and identify&lt;div&gt;opportunities for IT to enhance the business.&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3009" y="3789" width="300" height="60" as="geometry">
+          <mxGeometry x="820" y="4448" width="300" height="60" as="geometry">
             <mxRectangle x="2500" y="3789" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1452,7 +1230,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-75" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO08.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Understand business expectations." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2649" y="3789" width="300" height="60" as="geometry">
+          <mxGeometry x="820" y="4358" width="300" height="60" as="geometry">
             <mxRectangle x="2140" y="3789" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1460,7 +1238,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-77" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO08.04&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Coordinate and communicate." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3729" y="3789" width="300" height="60" as="geometry">
+          <mxGeometry x="820" y="4628" width="300" height="60" as="geometry">
             <mxRectangle x="3220" y="3789" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1468,39 +1246,15 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-79" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO08.05&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Provide input to the continual improvement of services." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4089" y="3789" width="300" height="60" as="geometry">
+          <mxGeometry x="820" y="4718" width="300" height="60" as="geometry">
             <mxRectangle x="3580" y="3789" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-80" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Continually improve and evolve I&amp;amp;T-enabled services and service delivery&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;to the enterprise to align with changing enterprise objectives and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;technology.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Enable the right knowledge, skills and behaviors to create improved outcomes, increased confidence, mutual trust and effective use of resources that stimulate a productive relationship with business stakeholders.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to contribute to a continual improvement of the IT services, in order to align with changing enterprise objectives.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="sbHoc3gWJixWeE4EDV6L-79" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-71" target="sbHoc3gWJixWeE4EDV6L-77" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3669" y="3789" as="sourcePoint" />
-            <mxPoint x="3729" y="3789" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-77" target="sbHoc3gWJixWeE4EDV6L-79" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3679" y="3799" as="sourcePoint" />
-            <mxPoint x="3739" y="3799" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-60" target="sbHoc3gWJixWeE4EDV6L-58" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2949" y="3699" as="sourcePoint" />
-            <mxPoint x="2949" y="3649" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-58" target="sbHoc3gWJixWeE4EDV6L-56" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2959" y="3709" as="sourcePoint" />
-            <mxPoint x="3019" y="3709" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-56" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO07.04&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Assess and recognize/reward employee job performance." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3369" y="3699" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="4088" width="300" height="60" as="geometry">
             <mxRectangle x="2860" y="3699" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1508,7 +1262,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-58" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO07.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Maintain the skills and competencies of personnel." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3009" y="3699" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="3998" width="300" height="60" as="geometry">
             <mxRectangle x="2500" y="3699" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1516,7 +1270,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-60" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO07.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Identify key IT personnel." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2649" y="3699" width="300" height="60" as="geometry">
+          <mxGeometry x="820" y="3907.83" width="300" height="60" as="geometry">
             <mxRectangle x="2140" y="3699" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1524,7 +1278,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-62" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO07.05&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Plan and track the usage of IT and business human&lt;div&gt;resources.&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3729" y="3699" width="300" height="60" as="geometry">
+          <mxGeometry x="820" y="4178" width="300" height="60" as="geometry">
             <mxRectangle x="3220" y="3699" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1532,39 +1286,15 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-64" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO07.06&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage contract staff." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4089" y="3699" width="300" height="60" as="geometry">
+          <mxGeometry x="820" y="4268" width="300" height="60" as="geometry">
             <mxRectangle x="3580" y="3699" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-65" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Ensure that consultants and contract personnel who support the&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;enterprise with I&amp;amp;T skills know and comply with the organization’s&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;policies and meet agreed contractual requirements.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Optimize human resources capabilities to meet enterprise objectives.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to adequately manage their external resources, in order to avoid increased costs or inappropriate external support.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="sbHoc3gWJixWeE4EDV6L-64" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-56" target="sbHoc3gWJixWeE4EDV6L-62" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3669" y="3699" as="sourcePoint" />
-            <mxPoint x="3729" y="3699" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-62" target="sbHoc3gWJixWeE4EDV6L-64" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3679" y="3709" as="sourcePoint" />
-            <mxPoint x="3739" y="3709" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-32" target="sbHoc3gWJixWeE4EDV6L-30" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3311.5" y="2939" as="sourcePoint" />
-            <mxPoint x="3311.5" y="2889" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-30" target="sbHoc3gWJixWeE4EDV6L-28" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3321.5" y="2949" as="sourcePoint" />
-            <mxPoint x="3381.5" y="2949" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-28" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO03.04&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Define architecture implementation." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4091.5" y="3609" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="3818" width="300" height="60" as="geometry">
             <mxRectangle x="3582.5" y="3609" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1572,7 +1302,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-30" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO03.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Select opportunities and solutions." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3731.5" y="3609" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="3728" width="300" height="60" as="geometry">
             <mxRectangle x="3222.5" y="3609" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1580,7 +1310,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-32" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO03.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Define reference architecture." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3371.5" y="3609" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="3638" width="300" height="60" as="geometry">
             <mxRectangle x="2862.5" y="3609" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1588,7 +1318,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO.08&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Define target skills and competencies." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4091.5" y="3529" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="3548" width="300" height="60" as="geometry">
             <mxRectangle x="3582.5" y="3529" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1596,7 +1326,7 @@
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO.07&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Define information (data) and system ownership." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4091.5" y="3449" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="3458" width="300" height="60" as="geometry">
             <mxRectangle x="3582.5" y="3449" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1604,7 +1334,7 @@
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
         <mxCell id="oq3tbu96vJauZoKgjfeR-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM05.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Monitor stakeholder engagement." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4091.5" y="3369" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="3369" width="300" height="60" as="geometry">
             <mxRectangle x="3582.5" y="3369" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1612,7 +1342,7 @@
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-39" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM04.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Monitor resource management." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4091.5" y="3289" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="3278" width="300" height="60" as="geometry">
             <mxRectangle x="3582.5" y="3289" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2076,7 +1806,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-98" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS04.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Maintain business resilience." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3699" y="2388" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="1458" width="300" height="60" as="geometry">
             <mxRectangle x="3190" y="2388" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2084,21 +1814,15 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-100" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;DSS04.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Develop and implement a business continuity response." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4059" y="2388" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="1548" width="300" height="60" as="geometry">
             <mxRectangle x="3550" y="2388" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-101" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Develop a business continuity plan (BCP) and disaster recovery plan (DRP) based on the strategy. Document all procedures necessary for the enterprise to continue critical activities in the event of an incident.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Adapt rapidly, continue business operations and maintain availability of resources and information at a level acceptable to the enterprise in the event of a significant disruption (e.g., threats, opportunities, demands).&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to assure current BCP and DRP for all solutions that are critical to my business, in order to have executable plans right from day 1 of operation.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: DSS04.04&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="QuHqFJcRldl6wBvhqh9c-100" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="QuHqFJcRldl6wBvhqh9c-102" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-98" target="QuHqFJcRldl6wBvhqh9c-100" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4009" y="2308" as="sourcePoint" />
-            <mxPoint x="4069" y="2308" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI11.01&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Maintain a standard approach for project management." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3339" y="2298" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="2368" width="300" height="60" as="geometry">
             <mxRectangle x="2830" y="2298" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2106,41 +1830,23 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-17" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI11.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Start up and initiate a project." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3699" y="2298" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="1279" width="300" height="60" as="geometry">
             <mxRectangle x="3190" y="2298" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-18" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Define and document the nature and scope of the project to confirm and develop a common understanding of project scope among stakeholders. The definition should be formally approved by the project sponsors.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Realize defined project outcomes and reduce the risk of unexpected delays, costs and value erosion by improving communications to and involvement of business and end users. Ensure the value and quality of project deliverables and maximize their contribution to the defined programs and investment portfolio.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to&amp;nbsp;start and initiation a project with a formal project sponsor approval, in order to develop a common understanding of the project scope among stakeholders.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI11.03&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="QuHqFJcRldl6wBvhqh9c-17" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="QuHqFJcRldl6wBvhqh9c-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-15" target="QuHqFJcRldl6wBvhqh9c-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3289" y="2308" as="sourcePoint" />
-            <mxPoint x="3349" y="2308" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-26" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI11.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage stakeholder engagement." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4059" y="2298" width="300" height="60" as="geometry">
+          <mxGeometry x="1890" y="1369" width="300" height="60" as="geometry">
             <mxRectangle x="3550" y="2298" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuHqFJcRldl6wBvhqh9c-27" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Manage stakeholder engagement to ensure an active exchange of accurate, consistent and timely information that reaches all relevant stakeholders. This includes planning, identifying and engaging stakeholders and managing their expectations.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Realize defined project outcomes and reduce the risk of unexpected delays, costs and value erosion by improving communications to and involvement of business and end users. Ensure the value and quality of project deliverables and maximize their contribution to the defined programs and investment portfolio.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to involve stakeholders properly, in order to meet the needs of all involved parties.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI11.04&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="QuHqFJcRldl6wBvhqh9c-26" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="QuHqFJcRldl6wBvhqh9c-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QuHqFJcRldl6wBvhqh9c-17" target="QuHqFJcRldl6wBvhqh9c-26" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3999" y="2298" as="sourcePoint" />
-            <mxPoint x="3709" y="2308" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-103" target="5n0gASPAGLLi4WL7JSeG-101" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2929" y="2218" as="sourcePoint" />
-            <mxPoint x="2989" y="2218" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-101" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI05.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Form an effective implementation team." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3339" y="2208" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="2098" width="300" height="60" as="geometry">
             <mxRectangle x="2830" y="2208" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2148,21 +1854,15 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-103" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI05.01&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Establish the desire to change." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2979" y="2208" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="2008" width="300" height="60" as="geometry">
             <mxRectangle x="2470" y="2208" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-104" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Understand the scope and impact of the desired change. Assess stakeholder readiness and willingness to change. Identify actions that will motivate stakeholder acceptance and participation to make the change work successfully.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Prepare and commit stakeholders for business change and reduce the risk of failure.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to&amp;nbsp;assess the stakeholder&#39;s readiness and willingness to change, in order to establish a desire to change.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI05.02&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="5n0gASPAGLLi4WL7JSeG-103" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-105" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-101" target="5n0gASPAGLLi4WL7JSeG-114" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3279" y="2208" as="sourcePoint" />
-            <mxPoint x="3339" y="2208" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-109" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI05.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Empower role players and identify short-term wins." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4059" y="2208" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="2278" width="300" height="60" as="geometry">
             <mxRectangle x="3550" y="2208" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2170,35 +1870,23 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-114" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI05.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Communicate desired vision." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3699" y="2208" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="2188" width="300" height="60" as="geometry">
             <mxRectangle x="3190" y="2208" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-115" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Communicate the desired vision for the change in the language of those affected by it. The communication should be made by senior management and include the rationale for, and benefits of, the change; the impacts of not making the change; and the vision, the road map and the involvement required of the various stakeholders.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Prepare and commit stakeholders for business change and reduce the risk of failure.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to&amp;nbsp;communicate and promote the desired vision, in order to establish a desire to change with the stakeholders.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI05.04&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="5n0gASPAGLLi4WL7JSeG-114" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-116" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-114" target="5n0gASPAGLLi4WL7JSeG-109" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3649.5" y="2218" as="sourcePoint" />
-            <mxPoint x="3709.5" y="2218" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-55" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - BAI03.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Design high-level solutions." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4059" y="2118" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="1918" width="300" height="60" as="geometry">
             <mxRectangle x="3550" y="2118" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-56" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Develop and document high-level designs for the solution in terms of technology, business processes and workflows. Use agreed and appropriate phased or rapid Agile development techniques. Ensure alignment with the I&amp;amp;T strategy and enterprise architecture. Reassess and update the designs when significant issues occur during detailed design or building phases, or as the solution evolves. Apply a user-centric approach; ensure that stakeholders actively participate in the design and approve each version.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Ensure agile and scalable delivery of digital products and services. Establish timely and cost-effective solutions (technology, business processes and workflows) capable of supporting enterprise strategic and operational objectives.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to design&amp;nbsp;a high-level solution, in order to involve all necessary counterparties as well as align on a common setting.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI03.02&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="5n0gASPAGLLi4WL7JSeG-55" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-4" target="5n0gASPAGLLi4WL7JSeG-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1489" y="2038" as="sourcePoint" />
-            <mxPoint x="1549" y="2038" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI01.02&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Initiate a program." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1899" y="2028" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="1279" width="300" height="60" as="geometry">
             <mxRectangle x="1390" y="2028" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2206,7 +1894,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - BAI01.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Maintain a standard approach for program management." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1539" y="2028" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="2368" width="300" height="60" as="geometry">
             <mxRectangle x="1030" y="2028" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2214,7 +1902,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-6" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI01.03&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage stakeholder engagement." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2259" y="2028" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="1369" width="300" height="60" as="geometry">
             <mxRectangle x="1750" y="2028" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2222,33 +1910,15 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-8" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI01.04&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Develop and maintain the program plan." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2619" y="2028" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="1458" width="300" height="60" as="geometry">
             <mxRectangle x="2110" y="2028" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-9" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Formulate a program to lay the initial groundwork. Position it for successful execution by formalizing the scope of the work and identifying deliverables that will satisfy goals and deliver value. Maintain and update the program plan and business case throughout the full economic life cycle of the program, ensuring alignment with strategic objectives and reflecting the current status and insights gained to date.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Realize desired business value and reduce the risk of unexpected delays, costs and value erosion. To do so, improve communications to and involvement of business and end users, ensure the value and quality of program deliverables and follow up of projects within the programs, and maximize program contribution to the investment portfolio.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to&amp;nbsp;have a maintained program plan, in order to ensure an alignment with strategic objectives and get an understanding of the project schedule.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI01.05&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="5n0gASPAGLLi4WL7JSeG-8" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-2" target="5n0gASPAGLLi4WL7JSeG-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2199" y="2028" as="sourcePoint" />
-            <mxPoint x="2259" y="2028" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-6" target="5n0gASPAGLLi4WL7JSeG-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2209" y="2038" as="sourcePoint" />
-            <mxPoint x="2269" y="2038" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-15" target="5n0gASPAGLLi4WL7JSeG-13" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3289" y="2038" as="sourcePoint" />
-            <mxPoint x="3349" y="2038" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-13" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI01.07&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage program quality." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3699" y="2028" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="1728" width="300" height="60" as="geometry">
             <mxRectangle x="3190" y="2028" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2256,7 +1926,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI01.06&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Monitor, control and report on the program outcomes." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3339" y="2028" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="1638" width="300" height="60" as="geometry">
             <mxRectangle x="2830" y="2028" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2264,47 +1934,23 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-17" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI01.08&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage program risk." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4059" y="2028" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="1818" width="300" height="60" as="geometry">
             <mxRectangle x="3550" y="2028" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-18" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Eliminate or minimize specific risk associated with programs through a systematic process of planning, identifying, analyzing, responding to, monitoring and controlling the areas or events with the potential to cause unwanted change. Define and record any risk faced by program management.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Realize desired business value and reduce the risk of unexpected delays, costs and value erosion. To do so, improve communications to and involvement of business and end users, ensure the value and quality of program deliverables and follow up of projects within the programs, and maximize program contribution to the investment portfolio.&lt;br&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to manage risks, in order to assure the anticipation of adverse events and the maintenance of counter measures.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI01.09&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="5n0gASPAGLLi4WL7JSeG-17" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-13" target="5n0gASPAGLLi4WL7JSeG-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3999" y="2028" as="sourcePoint" />
-            <mxPoint x="4059" y="2028" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-23" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 -&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;BAI01.05&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Launch and execute the program." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2979" y="2028" width="300" height="60" as="geometry">
+          <mxGeometry x="1530" y="1548" width="300" height="60" as="geometry">
             <mxRectangle x="2470" y="2028" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5n0gASPAGLLi4WL7JSeG-24" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Launch and execute the program to acquire and direct the resources needed to accomplish the goals and benefits of the program as defined in the program plan. In accordance with stage-gate or release review criteria, prepare for stage-gate, iteration or release reviews to report progress and make the case for funding up to the following stage-gate or release review.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Realize desired business value and reduce the risk of unexpected delays, costs and value erosion. To do so, improve communications to and involvement of business and end users, ensure the value and quality of program deliverables and follow up of projects within the programs, and maximize program contribution to the investment portfolio.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to&amp;nbsp;acquire and direct resources, in order to accomplish the goals and benefits of the program as defined.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: BAI01.06&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="5n0gASPAGLLi4WL7JSeG-23" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-8" target="5n0gASPAGLLi4WL7JSeG-23" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2569.5" y="2038" as="sourcePoint" />
-            <mxPoint x="2629.5" y="2038" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5n0gASPAGLLi4WL7JSeG-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5n0gASPAGLLi4WL7JSeG-23" target="5n0gASPAGLLi4WL7JSeG-15" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2929.5" y="2038" as="sourcePoint" />
-            <mxPoint x="2989.5" y="2038" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-42" target="sbHoc3gWJixWeE4EDV6L-40" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2929" y="1948" as="sourcePoint" />
-            <mxPoint x="2989" y="1948" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-40" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO06.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Create and maintain budgets." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3339" y="1938" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="2098" width="300" height="60" as="geometry">
             <mxRectangle x="2830" y="1938" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2312,7 +1958,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-42" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO06.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Prioritize resource allocation." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2979" y="1938" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="2008" width="300" height="60" as="geometry">
             <mxRectangle x="2470" y="1938" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2320,7 +1966,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-44" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO06.04&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Model and allocate costs." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3699" y="1938" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="2188" width="300" height="60" as="geometry">
             <mxRectangle x="3190" y="1938" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2328,53 +1974,23 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-46" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO06.05&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Manage costs." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4059" y="1938" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="2278" width="300" height="60" as="geometry">
             <mxRectangle x="3550" y="1938" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-47" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Implement a cost management process that compares actual costs&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;against budget. Costs should be monitored and reported. Deviations&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;from budget should be identified in a timely manner and their impact on&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;enterprise processes and services assessed.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Foster a partnership between IT and enterprise stakeholders to enable the effective and efficient use of I&amp;amp;T-related resources and provide transparency and accountability of the cost and business value of solutions and services. Enable the enterprise to make informed decisions regarding the use of I&amp;amp;T solutions and services.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to be well informed on the budget consumption and any deviations, in order to be able to react on deviations.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="sbHoc3gWJixWeE4EDV6L-46" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-40" target="sbHoc3gWJixWeE4EDV6L-44" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3639" y="1938" as="sourcePoint" />
-            <mxPoint x="3699" y="1938" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-44" target="sbHoc3gWJixWeE4EDV6L-46" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3649" y="1948" as="sourcePoint" />
-            <mxPoint x="3709" y="1948" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-34" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO03.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Develop the enterprise architecture vision." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4059" y="1848" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="1918" width="300" height="60" as="geometry">
             <mxRectangle x="3550" y="1848" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-35" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;The architecture vision provides a first-cut, high-level description of the&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;baseline and target architectures, covering the business, information,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;data, application and technology domains. The architecture vision&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;provides the sponsor with a key tool to sell the benefits of the proposed&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;capabilities to stakeholders within the enterprise. The architecture&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;vision describes how the new capabilities (in line with I&amp;amp;T strategy&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;and objectives) will meet enterprise goals and strategic objectives and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;address stakeholder concerns when implemented.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Represent the different building blocks that make up the enterprise and its interrelationships as well as the principles guiding their design and&amp;nbsp;evolution over time, to enable a standard, responsive and efficient delivery of operational and strategic objectives.&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to&amp;nbsp;develop for their artifacts an architectural vision, high-level baseline and target architecture, so that the architectural design follows a clear vision.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: APO03.02&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="sbHoc3gWJixWeE4EDV6L-34" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-16" target="sbHoc3gWJixWeE4EDV6L-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2539" y="1948" as="sourcePoint" />
-            <mxPoint x="2589" y="1898" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-14" target="sbHoc3gWJixWeE4EDV6L-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2919" y="1758" as="sourcePoint" />
-            <mxPoint x="2919" y="1708" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-12" target="sbHoc3gWJixWeE4EDV6L-10" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2929" y="1768" as="sourcePoint" />
-            <mxPoint x="2989" y="1768" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-10" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO02.04&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Conduct a gap analysis." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3339" y="1758" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="1638" width="300" height="60" as="geometry">
             <mxRectangle x="2830" y="1758" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2382,7 +1998,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-12" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO02.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Define target digital capabilities." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2979" y="1758" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="1548" width="300" height="60" as="geometry">
             <mxRectangle x="2470" y="1758" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2390,7 +2006,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-14" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO02.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Assess current capabilities, performance and digital&lt;div&gt;maturity of the enterprise.&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2619" y="1758" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="1459" width="300" height="60" as="geometry">
             <mxRectangle x="2110" y="1758" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2398,7 +2014,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-16" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO02.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Design the management system for enterprise I&amp;amp;T." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2259" y="1758" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="1368" width="300" height="60" as="geometry">
             <mxRectangle x="1750" y="1758" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2406,7 +2022,7 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-18" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO02.05&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Define the strategic plan and road map." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3699" y="1758" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="1728" width="300" height="60" as="geometry">
             <mxRectangle x="3190" y="1758" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2414,27 +2030,15 @@
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-20" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - APO02.06&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Monitor value optimization." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4059" y="1758" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="1818" width="300" height="60" as="geometry">
             <mxRectangle x="3550" y="1758" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sbHoc3gWJixWeE4EDV6L-21" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Create awareness and understanding of the business and I&amp;amp;T objectives&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;and direction, as captured in the I&amp;amp;T strategy, through communication to&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;appropriate stakeholders and users throughout the enterprise.&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Support the digital transformation strategy of the organization and deliver the desired value through a road map of incremental changes. Use a&amp;nbsp;holistic I&amp;amp;T approach, ensuring that each initiative is clearly connected to an overarching strategy. Enable change in all different aspects of the&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;organization, from channels and processes to data, culture, skills, operating model and incentives.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to establish understanding about the strategy, in order create awareness and understanding.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="sbHoc3gWJixWeE4EDV6L-20" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-10" target="sbHoc3gWJixWeE4EDV6L-18" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3639" y="1758" as="sourcePoint" />
-            <mxPoint x="3699" y="1758" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sbHoc3gWJixWeE4EDV6L-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sbHoc3gWJixWeE4EDV6L-18" target="sbHoc3gWJixWeE4EDV6L-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3649" y="1768" as="sourcePoint" />
-            <mxPoint x="3709" y="1768" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oq3tbu96vJauZoKgjfeR-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM05.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Direct stakeholder engagement, communication and reporting." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4059" y="1668" width="300" height="60" as="geometry">
+          <mxGeometry x="1168" y="1279" width="300" height="60" as="geometry">
             <mxRectangle x="3550" y="1668" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2442,27 +2046,15 @@
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
         <mxCell id="oq3tbu96vJauZoKgjfeR-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM05.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Evaluate stakeholder engagement and reporting requirements." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3699" y="1668" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="2368" width="300" height="60" as="geometry">
             <mxRectangle x="3190" y="1668" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oq3tbu96vJauZoKgjfeR-5" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Continually examine and evaluate current and future requirements for&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;stakeholder engagement and reporting (including reporting mandated&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;by regulatory requirements), and communication to other stakeholders.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Establish principles for engaging and communicating with stakeholders.&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Ensure that stakeholders are supportive of the I&amp;amp;T strategy and road map, communication to stakeholders is effective and timely, and the basis for&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;reporting is established to increase performance. Identify areas for improvement, and confirm that I&amp;amp;T-related objectives and strategies are in line&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;with the enterprise’s strategy.&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to&amp;nbsp;have engagement and reporting requirements established, so that effective and timely reporting of the projects activities is guaranteed.&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;Direct Successor&lt;/u&gt;: EDM05.02&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="oq3tbu96vJauZoKgjfeR-4" vertex="1">
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="oq3tbu96vJauZoKgjfeR-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oq3tbu96vJauZoKgjfeR-4" target="oq3tbu96vJauZoKgjfeR-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3999" y="1668" as="sourcePoint" />
-            <mxPoint x="4059" y="1668" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="izNcHli7krDH618Io2Hl-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="izNcHli7krDH618Io2Hl-35" target="izNcHli7krDH618Io2Hl-37" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4529" y="1838" as="sourcePoint" />
-            <mxPoint x="4579" y="1788" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-37" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM04.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Direct resource management." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4059" y="1578" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="2278" width="300" height="60" as="geometry">
             <mxRectangle x="3550" y="1578" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2470,28 +2062,15 @@
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-35" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM04.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Evaluate resource management." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3699" y="1578" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="2188" width="300" height="60" as="geometry">
             <mxRectangle x="3190" y="1578" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-36" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;Continually examine and evaluate the current and future need for business and I&amp;amp;T resources (financial and human), options for resourcing (including sourcing strategies), and allocation and management principles to meet the needs of the enterprise in the optimal manner.&lt;br&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Ensure that the resource needs of the enterprise are met in the optimal manner, I&amp;amp;T costs are optimized, and there is an increased likelihood of benefit realization and readiness for future change.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects&amp;nbsp;to make sure that all resource requirements of agile initiatives are continually examined and evaluated, so that lacking resources (financial and human) are prevented.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: EDM04.02&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="izNcHli7krDH618Io2Hl-35" vertex="1">
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="izNcHli7krDH618Io2Hl-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="izNcHli7krDH618Io2Hl-24" target="izNcHli7krDH618Io2Hl-26" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3619" y="1668" as="sourcePoint" />
-            <mxPoint x="3669" y="1618" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="izNcHli7krDH618Io2Hl-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="izNcHli7krDH618Io2Hl-26" target="izNcHli7krDH618Io2Hl-29" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3999" y="2788" as="sourcePoint" />
-            <mxPoint x="4026.5" y="1528" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-29" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM03.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Monitor risk management." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4056.5" y="1478" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="2098" width="300" height="60" as="geometry">
             <mxRectangle x="3547.5" y="1478" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2499,7 +2078,7 @@
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-24" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM03.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Evaluate risk management." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3339" y="1478" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="1918" width="300" height="60" as="geometry">
             <mxRectangle x="2830" y="1478" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2507,33 +2086,15 @@
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-26" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM03.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Direct risk management." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3699" y="1478" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="2008" width="300" height="60" as="geometry">
             <mxRectangle x="3190" y="1478" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-27" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;Direct the establishment of risk management practices to provide reasonable assurance that I&amp;amp;T risk management practices are appropriate and that actual I&amp;amp;T risk does not exceed the board’s risk appetite.&lt;br&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Secure optimal value from I&amp;amp;T-enabled initiatives, services and assets; cost-efficient delivery of solutions and services; and a reliable and accurate picture of costs and likely benefits so that business needs are supported effectively and efficiently.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to apply&amp;nbsp;risk management practices, so that the enterprise&#39;s risk appetite is not exceeded.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: EDM03.03&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="izNcHli7krDH618Io2Hl-26" vertex="1">
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="izNcHli7krDH618Io2Hl-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="izNcHli7krDH618Io2Hl-12" target="izNcHli7krDH618Io2Hl-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3259" y="1578" as="sourcePoint" />
-            <mxPoint x="3309" y="1528" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="izNcHli7krDH618Io2Hl-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="izNcHli7krDH618Io2Hl-14" target="izNcHli7krDH618Io2Hl-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3639" y="1388" as="sourcePoint" />
-            <mxPoint x="3639" y="1338" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="izNcHli7krDH618Io2Hl-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="izNcHli7krDH618Io2Hl-17" target="izNcHli7krDH618Io2Hl-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3649" y="1398" as="sourcePoint" />
-            <mxPoint x="3709" y="1398" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-20" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM02.04&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Monitor value optimization." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4059" y="1388" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="1818" width="300" height="60" as="geometry">
             <mxRectangle x="3550" y="1388" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2541,7 +2102,7 @@
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-17" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM02.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Direct value optimization." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3699" y="1388" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="1728" width="300" height="60" as="geometry">
             <mxRectangle x="3190" y="1388" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2549,7 +2110,7 @@
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-14" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM02.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Evaluate value optimization." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3339" y="1388" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="1638" width="300" height="60" as="geometry">
             <mxRectangle x="2830" y="1388" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2557,29 +2118,15 @@
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-12" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM02.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Establish the target investment mix." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2979" y="1388" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="1548" width="300" height="60" as="geometry">
             <mxRectangle x="2470" y="1388" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-13" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;Review and ensure clarity of the enterprise and I&amp;amp;T strategies and current services. Define an appropriate investment mix based on cost, alignment with strategy, type of benefit for the programs in the portfolio, degree of risk, and financial measures such as cost and expected return on investment (ROI) over the full economic life cycle. Adjust the enterprise and I&amp;amp;T strategies where necessary.&lt;br&gt;&lt;br&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;Secure optimal value from I&amp;amp;T-enabled initiatives, services and assets; cost-efficient delivery of solutions and services; and a reliable and accurate picture of costs and likely benefits so that business needs are supported effectively and efficiently.&lt;br&gt;&lt;br&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to align&amp;nbsp;investments with the enterprises strategy, so that new financial resources are facilitated in an optimized manner.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: EDM02.02&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="izNcHli7krDH618Io2Hl-12" vertex="1">
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="izNcHli7krDH618Io2Hl-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nE-EjzNcMq43JnrIoQBQ-26" target="izNcHli7krDH618Io2Hl-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4169" y="1538" as="sourcePoint" />
-            <mxPoint x="4219" y="1488" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="izNcHli7krDH618Io2Hl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="izNcHli7krDH618Io2Hl-3" target="izNcHli7krDH618Io2Hl-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4039" y="1278" />
-              <mxPoint x="4039" y="1278" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nE-EjzNcMq43JnrIoQBQ-26" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM01.01&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Evaluate the governance system." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3339" y="1278" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="1279" width="300" height="60" as="geometry">
             <mxRectangle x="2830" y="1278" width="360" height="390" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2587,7 +2134,7 @@
           <mxGeometry y="60" width="360" height="330" as="geometry" />
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM01.02&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Direct the governance system." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3699" y="1278" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="1369" width="300" height="60" as="geometry">
             <mxRectangle x="3190" y="1278" width="360" height="400" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2595,7 +2142,7 @@
           <mxGeometry y="60" width="360" height="340" as="geometry" />
         </mxCell>
         <mxCell id="izNcHli7krDH618Io2Hl-6" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;COBIT 2019 - EDM01.03&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Monitor the governance system." style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4059" y="1278" width="300" height="60" as="geometry">
+          <mxGeometry x="817" y="1459" width="300" height="60" as="geometry">
             <mxRectangle x="3550" y="1278" width="360" height="400" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
