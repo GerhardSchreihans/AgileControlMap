@@ -39,7 +39,7 @@
 
 ## Why this exists
 
-Teams often overlook framework-driven requirements such as backups or segregation of duties because they do not add immediate user-facing functionality and therefore rarely become stories. The result can be security and quality gaps, especially across non-functional requirements. ACM surfaces these requirements at the right time in SAFe, so they can be sized and scheduled like any other work. A review of prior work found extensive interest but few practical, detailed approaches—motivating the creation of this artifact.
+Teams often overlook framework-driven requirements such as backups or segregation of duties because they do not add immediate user-facing functionality and therefore rarely become stories. The result can be security and quality gaps, especially across non-functional requirements. ACM surfaces these requirements at the right time in SAFe, so they can be sized and scheduled like any other work.
 
 ## What the artifact does
 
