@@ -3,7 +3,7 @@
 > Map relevant IT frameworks (ITIL, COBIT, CIS Controls, ISO/IEC 27001/27002) to phases of agile solution development (SAFe) so teams can move fast and not break things.
 
 ![Status](https://img.shields.io/badge/status-research%20artifact-informational)
-![License](https://img.shields.io/badge/license-see%20LICENSE-inactive)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 ![SAFe](https://img.shields.io/badge/framework-SAFe%205.x-2ea44f)
 ![Standards](https://img.shields.io/badge/refs-ITIL%204%20%7C%20COBIT%202019%20%7C%20ISO%2FIEC%2027001%2F27002%20%7C%20CIS%20v8-8a2be2)
 
