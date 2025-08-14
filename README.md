@@ -35,7 +35,7 @@
 
 **Agile Control Map (ACM)** is a research artifact from a master’s thesis that helps agile teams using SAFe identify which IT governance, service management, and security controls to consider in each phase of solution development. It bridges the *Agile Universe* and the *Controlled Universe*, making non-functional and compliance requirements visible early enough to be planned, implemented, and validated.
 
-**Project context:** Master’s thesis “Move Fast and Don’t Break Things — Mapping Relevant IT Frameworks (ITIL, COBIT, CIS Controls, ISO/IEC 27001/27002) to Phases of Agile Solution Development (SAFe)” by **NAME**. Advisor: **Edgar Weippl**. Assistance: **Alexander Schatten**, **Philipp Reisinger**. Proposal date: **PROPOSAL_DATE**.
+**Project context:** Master’s thesis “Move Fast and Don’t Break Things — Mapping Relevant IT Frameworks (ITIL, COBIT, CIS Controls, ISO/IEC 27001/27002) to Phases of Agile Solution Development (SAFe)” by **Gerhard Schreihans**. Advisor: **Edgar Weippl**. Assistance: **Alexander Schatten**, **Philipp Reisinger**.
 
 ## Why this exists
 
