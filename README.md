@@ -142,9 +142,25 @@ Developed as part of the master’s thesis by **Gerhard Schreihans**. Advisor: *
 
 ## License
 
-This project is licensed under **LICENSE**.
+The Agile Control Map diagram (.drawio source, exported SVG/PNG) is licensed under the **Creative Commons Attribution–ShareAlike 4.0 International License (CC BY-SA 4.0)**.
 
-> **Note:** ISO/IEC standards, ITIL, and COBIT texts are proprietary. This repository references identifiers and metadata only and does not redistribute standard contents.
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the **same license** as the original.
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Full legal text: [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
+**Attribution example**:  
+> Agile Control Map diagram by Gerhard Schreihans, licensed under CC BY-SA 4.0. Changes were made.
+
+### Trademarks & proprietary standards
+SAFe®, ITIL®, and COBIT® are trademarks of their respective owners.  
+ISO/IEC standards text is proprietary. This repository references **identifiers and public metadata only** and does **not** redistribute standard contents or imply endorsement.
 
 ## Contact
 
