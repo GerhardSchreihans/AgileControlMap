@@ -50,13 +50,13 @@ Teams often overlook framework-driven requirements such as backups or segregatio
 
 **Problem space:** Larger, regulated organizations want the speed of agile-organized organizations while maintaining robust Internal Control Systems; regulators require resilient governance and controls. ACM addresses the friction between value creation (agile) and risk reduction (governance).
 
-**In-scope frameworks:** SAFe 6.0 as process backbone with mappings to ITIL 4, COBIT 2019, ISO/IEC 27001/27002, and CIS Controls v8.1.
+**In-scope frameworks:** SAFe 6.0 as process backbone with mappings to ITIL 4, COBIT 2019, ISO/IEC 27001:2022/27002:2022, and CIS Controls v8.1.
 
 **Scope statement:** ACM does not invent a new framework; it uses existing ones to guide when specific controls and process steps should be considered.
 
 ## Research questions
 
-- **RQ1.1–RQ1.4:** Which COBIT, ITIL, ISO/IEC 27001/27002, and CIS Controls should be considered in which SAFe phase when implementing new features?  
+- **RQ1.1–RQ1.4:** Which COBIT, ITIL, ISO/IEC 27001:2022/27002:2022, and CIS Controls should be considered in which SAFe phase when implementing new features?  
 - **RQ2:** Which of those practices and controls can serve as inputs for enabler or user stories?  
 - **RQ3:** How well does the resulting artifact map SAFe phases to the relevant practices and controls, as evaluated ex-ante and ex-post with subject-matter experts?
 
