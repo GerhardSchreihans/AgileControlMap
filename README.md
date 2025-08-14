@@ -45,7 +45,6 @@ Teams often overlook framework-driven requirements such as backups or segregatio
 
 - Maps SAFe phases and activities to relevant practices and controls from **ITIL 4**, **COBIT 2019**, **ISO/IEC 27001:2022 & 27002:2022**, and **CIS Controls v8.1**.
 - Highlights candidate inputs for **enabler** and **user stories** derived from those controls.
-- Supports evaluation of the mapping via expert feedback (**ex-ante** interviews and **ex-post** survey).
 
 ## Background & scope
 
