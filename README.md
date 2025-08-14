@@ -48,7 +48,7 @@ Teams often overlook framework-driven requirements such as backups or segregatio
 
 ## Background & scope
 
-**Problem space:** Larger, regulated organizations want the speed of agile while maintaining robust Internal Control Systems; regulators require resilient governance and controls. ACM addresses the friction between value creation (agile) and risk reduction (governance).
+**Problem space:** Larger, regulated organizations want the speed of agile-organized organizations while maintaining robust Internal Control Systems; regulators require resilient governance and controls. ACM addresses the friction between value creation (agile) and risk reduction (governance).
 
 **In-scope frameworks:** SAFe 6.0 as process backbone with mappings to ITIL 4, COBIT 2019, ISO/IEC 27001/27002, and CIS Controls v8.1.
 
