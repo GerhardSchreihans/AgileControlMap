@@ -43,7 +43,7 @@ Teams often overlook framework-driven requirements such as backups or segregatio
 
 ## What the artifact does
 
-- Maps SAFe phases and activities to relevant practices and controls from **ITIL 4**, **COBIT 2019**, **ISO/IEC 27001:2022 & 27002:2022**, and **CIS Controls v8**.
+- Maps SAFe phases and activities to relevant practices and controls from **ITIL 4**, **COBIT 2019**, **ISO/IEC 27001:2022 & 27002:2022**, and **CIS Controls v8.1**.
 - Highlights candidate inputs for **enabler** and **user stories** derived from those controls.
 - Supports evaluation of the mapping via expert feedback (**ex-ante** interviews and **ex-post** survey).
 
@@ -51,7 +51,7 @@ Teams often overlook framework-driven requirements such as backups or segregatio
 
 **Problem space:** Larger, regulated organizations want the speed of agile while maintaining robust Internal Control Systems; regulators require resilient governance and controls. ACM addresses the friction between value creation (agile) and risk reduction (governance).
 
-**In-scope frameworks:** SAFe 5.x as process backbone with mappings to ITIL 4, COBIT 2019, ISO/IEC 27001/27002, and CIS Controls v8.
+**In-scope frameworks:** SAFe 5.x as process backbone with mappings to ITIL 4, COBIT 2019, ISO/IEC 27001/27002, and CIS Controls v8.1.
 
 **Scope statement:** ACM does not invent a new framework; it uses existing ones to guide when specific controls and process steps should be considered.
 
@@ -88,7 +88,7 @@ Teams often overlook framework-driven requirements such as backups or segregatio
 | SAFe Phase or Activity | Framework            | Reference (ID or Name)            | Why here                                              | Story seed                                                    |
 | --- | --- | --- | --- | --- |
 | PHASE | ISO/IEC 27001:2022 | A.5.3 Segregation of duties | Role model and access design must start early | Design RBAC with SoD constraints; add tests. |
-| PHASE | CIS Controls v8 | 11.2 Automated Backups | Plan, implement, and regularly test backup and restore | Automate backups; verify restore regularly. |
+| PHASE | CIS Controls v8.1 | 11.2 Automated Backups | Plan, implement, and regularly test backup and restore | Automate backups; verify restore regularly. |
 | PHASE | COBIT 2019 | APOxx or DSSxx | Governance or operations touchpoints | Define measurement and monitoring for CAPABILITY. |
 | PHASE | ITIL 4 | PRACTICE_NAME | Service management integration | Update CMDB and change policy for SERVICE. |
 
