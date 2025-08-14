@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-research%20artifact-informational)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 ![SAFe](https://img.shields.io/badge/framework-SAFe%205.x-2ea44f)
-![Standards](https://img.shields.io/badge/refs-ITIL%204%20%7C%20COBIT%202019%20%7C%20ISO%2FIEC%2027001%2F27002%20%7C%20CISControls%20v8.1-8a2be2)
+![Standards](https://img.shields.io/badge/refs-ITIL%204%20%7C%20COBIT%202019%20%7C%20ISO%2FIEC%2027001%2F27002%20%7C%20CIS%20Controls%20v8.1-8a2be2)
 
 <details>
 <summary><strong>Table of contents</strong></summary>
