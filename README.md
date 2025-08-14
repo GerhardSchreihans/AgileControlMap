@@ -14,13 +14,8 @@
 - [Why this exists](#why-this-exists)
 - [What the artifact does](#what-the-artifact-does)
 - [Background &amp; scope](#background--scope)
-- [Research questions](#research-questions)
 - [Methodology](#methodology)
-- [Getting started](#getting-started)
 - [Usage](#usage)
-- [Examples](#examples)
-- [Data &amp; schema](#data--schema)
-- [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [Cite this work](#cite-this-work)
 - [Acknowledgments](#acknowledgments)
@@ -59,54 +54,12 @@ Teams often overlook framework-driven requirements such as backups or segregatio
 - **Systematic Literature Review** based on Kitchenham guidelines to collect and assess evidence on combining agile methods with IT frameworks.
 - **Design Science approach (Hevner):** artifact design, ex-ante validation via expert interviews, and ex-post naturalistic evaluation via a broader expert survey. The artifact is considered acceptable if a majority evaluates it positively.
 
-## Getting started
-
-1. Add this repository to your workspace.  
-2. Install any required dependencies for your chosen language or runtime using your standard package manager.  
-3. Optionally set up a container or virtual environment.  
-4. Configure the data files if you want to customize the mapping (see **Data & schema**).  
-5. Build the outputs you need (e.g., CSV or Markdown exports) using your project’s standard process.
-
 ## Usage
 
 - Explore which controls are relevant for a given SAFe phase or activity.  
 - Derive enabler and user stories from mapped controls and include them in planning and refinement.  
 - Share exports with teams for PI planning, governance reviews, or audits.  
 - Capture organizational adaptations and rationales alongside the mapping.
-
-## Examples
-
-**Mapping table template** (fill with your concrete mappings; do not copy proprietary control texts):
-
-| SAFe Phase or Activity | Framework            | Reference (ID or Name)            | Why here                                              | Story seed                                                    |
-| --- | --- | --- | --- | --- |
-| PHASE | ISO/IEC 27001:2022 | A.5.3 Segregation of duties | Role model and access design must start early | Design RBAC with SoD constraints; add tests. |
-| PHASE | CIS Controls v8.1 | 11.2 Automated Backups | Plan, implement, and regularly test backup and restore | Automate backups; verify restore regularly. |
-| PHASE | COBIT 2019 | APOxx or DSSxx | Governance or operations touchpoints | Define measurement and monitoring for CAPABILITY. |
-| PHASE | ITIL 4 | PRACTICE_NAME | Service management integration | Update CMDB and change policy for SERVICE. |
-
-**Story hint template (plain text):**
-
-As a ROLE, I need CONTROL_REQUIREMENT during PHASE, so that RISK is reduced or COMPLIANCE is met and OUTCOME is achieved.
-Acceptance: OBJECTIVE, TESTABLE CRITERIA.
-
-
-## Data & schema
-
-The mapping is maintained as a structured dataset that lists SAFe phases or activities alongside references to control identifiers and titles from the supported frameworks.
-
-- The dataset should only contain identifiers, titles, and public metadata. **Do not include verbatim content from proprietary standards.**
-- A simple schema (for example, JSON Schema or YAML schema) is recommended to ensure referential integrity and consistent taxonomy across files and exports.
-- Typical exports include a human-readable Markdown table and a flat CSV for analysis in BI tools.
-
-## Roadmap
-
-- [ ] Publish version 1.0 mapping datasets (CSV, JSON, Markdown)  
-- [ ] Add a simple query interface or command-line helper  
-- [ ] Provide examples in notebooks or dashboards for exploration  
-- [ ] Release an anonymized evaluation summary  
-- [ ] Add importers for custom SAFe taxonomies  
-- [ ] Integrate lint rules for story seeds and mapping consistency
 
 ## Contributing
 
