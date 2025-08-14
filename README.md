@@ -54,12 +54,6 @@ Teams often overlook framework-driven requirements such as backups or segregatio
 
 **Scope statement:** ACM does not invent a new framework; it uses existing ones to guide when specific controls and process steps should be considered.
 
-## Research questions
-
-- **RQ1.1–RQ1.4:** Which COBIT, ITIL, ISO/IEC 27001:2022/27002:2022, and CIS Controls should be considered in which SAFe phase when implementing new features?  
-- **RQ2:** Which of those practices and controls can serve as inputs for enabler or user stories?  
-- **RQ3:** How well does the resulting artifact map SAFe phases to the relevant practices and controls, as evaluated ex-ante and ex-post with subject-matter experts?
-
 ## Methodology
 
 - **Systematic Literature Review** based on Kitchenham guidelines to collect and assess evidence on combining agile methods with IT frameworks.
