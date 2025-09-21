@@ -113,7 +113,7 @@ ISO/IEC standards text is proprietary. This repository references **identifiers 
 
 - **Author:** Gerhard Schreihans  
 - **Email:** ![gerhard.schreihans@aubotics.com](mailto:gerhard.schreihans@aubotics.com)
-- **LinkedIn:** [https://www.linkedin.com/in/gerhard-schreihans-7599b693/](https://www.linkedin.com/in/gerhard-schreihans-7599b693/)
+- **LinkedIn:** ![https://www.linkedin.com/in/gerhard-schreihans-7599b693/](https://www.linkedin.com/in/gerhard-schreihans-7599b693/)
 
 ## Disclaimer
 
