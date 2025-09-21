@@ -111,12 +111,9 @@ ISO/IEC standards text is proprietary. This repository references **identifiers 
 
 ## Contact
 
-- **Author:** NAME  
-- **Email:** EMAIL  
-- **LinkedIn:** LINKEDIN_URL  
-- **Organization:** ORGANIZATION  
-- **Repository:** REPO_URL  
-- **Issues:** REPO_URL/issues
+- **Author:** Gerhard Schreihans  
+- **Email:** [mailto:gerhard.schreihans@aubotics.com]  
+- **LinkedIn:** [linkedin.com/in/gerhard-schreihans-7599b693]  
 
 ## Disclaimer
 
