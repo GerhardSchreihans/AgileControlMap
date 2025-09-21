@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Agile Control Map" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="5704" dy="3004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="14500" pageHeight="2600" math="0" shadow="0">
+    <mxGraphModel dx="9507" dy="5007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="14500" pageHeight="2600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -667,11 +667,14 @@
         </mxCell>
         <mxCell id="j14fxGzRAlY_bbs1dScx-41" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;CIS CSC - 18.1&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Establish and Maintain a Penetration Testing Program" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="4760" y="2548" width="300" height="60" as="geometry">
-            <mxRectangle x="7160" y="2448" width="360" height="410" as="alternateBounds" />
+            <mxRectangle x="4760" y="2548" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j14fxGzRAlY_bbs1dScx-42" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Establish and maintain a penetration testing program appropriate to the size, complexity, industry, and maturity of the enterprise. Penetration testing program characteristics include scope, such as network, web application, Application Programming Interface (API), hosted services, and physical premise controls; frequency; limitations, such as acceptable hours, and excluded attack types; point of contact information; remediation, such as how findings will be routed internally; and retrospective requirements.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Penetration testing starts with the reconnaissance of the enterprise and environment, and scanning to identify the vulnerabilities that can be used as entries into the enterprise.&amp;nbsp;Vulnerabilities will be identified in these targets. Exploits to these vulnerabilities are executed to demonstrate how an adversary would attack.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to participate and inform the penetration testing program in order to onboard the developed solution, in order to assure an adequate coverage.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="j14fxGzRAlY_bbs1dScx-41" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="hyM95Emv9p06y6z4HWnD-56" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.business_icons.icon12;" vertex="1" parent="j14fxGzRAlY_bbs1dScx-41">
+          <mxGeometry x="330" y="2" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZFYketriOgI-VsJBwGQb-5" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 6.5&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Responsibilities after termination or change of employment" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="2991.25" y="2460" width="300" height="60" as="geometry">
@@ -715,11 +718,14 @@
         </mxCell>
         <mxCell id="j14fxGzRAlY_bbs1dScx-34" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;CIS CSC - 17.7&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Conduct Routine Incident Response Exercises" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="4760" y="2368" width="300" height="60" as="geometry">
-            <mxRectangle x="7160" y="2268" width="360" height="410" as="alternateBounds" />
+            <mxRectangle x="4760" y="2368" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j14fxGzRAlY_bbs1dScx-35" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Plan and conduct routine incident response exercises and scenarios for key personnel involved in the incident response process to prepare for responding to real-world incidents. Exercises need to test communication channels, decision making, and workflows. Conduct testing on an annual basis, at a minimum.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;The primary goal of incident response is to identify threats on the enterprise, respond to them before they can spread, and remediate them before they can cause harm.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to assure that incident response exercises for the solution in project scope are planned and conducted, in order to assess the defined routines on feasibility.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="j14fxGzRAlY_bbs1dScx-34" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="hyM95Emv9p06y6z4HWnD-55" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.business_icons.icon12;" vertex="1" parent="j14fxGzRAlY_bbs1dScx-34">
+          <mxGeometry x="330" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZFYketriOgI-VsJBwGQb-1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 6.3&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Information security awareness, education and training" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="2990" y="2280" width="300" height="60" as="geometry">
@@ -961,11 +967,14 @@
         </mxCell>
         <mxCell id="j14fxGzRAlY_bbs1dScx-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;CIS CSC - 16.13&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Conduct Application Penetration Testing" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="4760" y="1648" width="300" height="60" as="geometry">
-            <mxRectangle x="7160" y="1548" width="360" height="410" as="alternateBounds" />
+            <mxRectangle x="4760" y="1648" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j14fxGzRAlY_bbs1dScx-16" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Conduct application penetration testing. For critical applications, authenticated penetration testing is better suited to finding business logic vulnerabilities than code scanning and automated security testing. Penetration testing relies on the skill of the tester to manually manipulate an application as an authenticated and unauthenticated user.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Application vulnerabilities can be present for many reasons: insecure design, insecure infrastructure, coding mistakes, weak authentication, and failure to test for unusual or unexpected conditions.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to assure the conduction of application penetration tests for critical applications or components, in order to avoid business logic vulnerabilities and identify more sophisticated vulnerabilities.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="j14fxGzRAlY_bbs1dScx-15" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="hyM95Emv9p06y6z4HWnD-54" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.business_icons.icon12;" vertex="1" parent="j14fxGzRAlY_bbs1dScx-15">
+          <mxGeometry x="330" y="1" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bgYUZ9FqRBf7vEnh27Lf-24" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.8&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Information security in project management" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="2993" y="1560" width="300" height="60" as="geometry">
@@ -1036,11 +1045,14 @@
         </mxCell>
         <mxCell id="j14fxGzRAlY_bbs1dScx-50" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;CIS CSC - 18.5&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Perform Periodic Internal Penetration Tests" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="5120" y="1468" width="300" height="60" as="geometry">
-            <mxRectangle x="7520" y="1368" width="360" height="410" as="alternateBounds" />
+            <mxRectangle x="5120" y="1468" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j14fxGzRAlY_bbs1dScx-51" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Perform periodic internal penetration tests based on program requirements, no less than annually. The testing may be clear box or opaque box.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Penetration testing starts with the reconnaissance of the enterprise and environment, and scanning to identify the vulnerabilities that can be used as entries into the enterprise.&amp;nbsp;Vulnerabilities will be identified in these targets. Exploits to these vulnerabilities are executed to demonstrate how an adversary would attack.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to participate in periodic internal penetration tests if deemed necessary, in order to assure an adequate coverage.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="j14fxGzRAlY_bbs1dScx-50" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="hyM95Emv9p06y6z4HWnD-58" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.business_icons.icon12;" vertex="1" parent="j14fxGzRAlY_bbs1dScx-50">
+          <mxGeometry x="330" y="3" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bgYUZ9FqRBf7vEnh27Lf-16" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;ISO 27001 &amp;amp; 27002 - 5.4&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Management responsibilities" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="2993" y="1380" width="300" height="60" as="geometry">
@@ -1076,11 +1088,14 @@
         </mxCell>
         <mxCell id="j14fxGzRAlY_bbs1dScx-43" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;CIS CSC - 18.2&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Perform Periodic External Penetration Tests" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="5120" y="1379" width="300" height="60" as="geometry">
-            <mxRectangle x="7520" y="1279" width="360" height="410" as="alternateBounds" />
+            <mxRectangle x="5120" y="1379" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j14fxGzRAlY_bbs1dScx-44" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Perform periodic external penetration tests based on program requirements, no less than annually. External penetration testing must include enterprise and environmental reconnaissance to detect exploitable information. Penetration testing requires specialized skills and experience and must be conducted through a qualified party. The testing may be clear box or opaque box.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Penetration testing starts with the reconnaissance of the enterprise and environment, and scanning to identify the vulnerabilities that can be used as entries into the enterprise.&amp;nbsp;Vulnerabilities will be identified in these targets. Exploits to these vulnerabilities are executed to demonstrate how an adversary would attack.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to participate in periodic external penetration tests if deemed necessary, in order to assure an adequate coverage.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="j14fxGzRAlY_bbs1dScx-43" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="hyM95Emv9p06y6z4HWnD-57" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.business_icons.icon12;" vertex="1" parent="j14fxGzRAlY_bbs1dScx-43">
+          <mxGeometry x="330" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="INdrnmeXtqBlZBc4LRKb-17" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;CIS CSC - 3.8&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Document Data Flows" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="12770" y="6738" width="300" height="60" as="geometry">
@@ -1156,11 +1171,14 @@
         </mxCell>
         <mxCell id="j14fxGzRAlY_bbs1dScx-36" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;CIS CSC - 17.8&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Conduct Post-Incident Reviews" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="13131.25" y="6018" width="300" height="60" as="geometry">
-            <mxRectangle x="16781.25" y="5918" width="360" height="410" as="alternateBounds" />
+            <mxRectangle x="13131.25" y="6018" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j14fxGzRAlY_bbs1dScx-37" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Conduct post-incident reviews. Post-incident reviews help prevent incident recurrence through identifying lessons learned and follow-up action.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Administrative, or highly privileged, accounts are a particular target, because they allow attackers to add other accounts, or make changes to assets that could make them more vulnerable to other attacks.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to participate in post-incident reviews, in order to prevent incident recurrence.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="j14fxGzRAlY_bbs1dScx-36" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="hyM95Emv9p06y6z4HWnD-60" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.business_icons.icon12;" vertex="1" parent="j14fxGzRAlY_bbs1dScx-36">
+          <mxGeometry x="328.75" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UZmQJI8PMWxO6t6RksVb-23" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;CIS CSC - 2.4&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Utilize Automated Software Inventory Tools" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="12770" y="5928" width="300" height="60" as="geometry">
@@ -2092,11 +2110,14 @@
         </mxCell>
         <mxCell id="ibRm7NSeTpzZEgZbGgji-35" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;CIS CSC - 16.3&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Perform Root Cause Analysis on Security Vulnerabilities" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="4400" y="6638" width="300" height="60" as="geometry">
-            <mxRectangle x="6800" y="6538" width="360" height="410" as="alternateBounds" />
+            <mxRectangle x="4400" y="6638" width="360" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ibRm7NSeTpzZEgZbGgji-36" value="&lt;b&gt;Control Description:&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;Perform root cause analysis on security vulnerabilities. When reviewing vulnerabilities, root cause analysis is the task of evaluating underlying issues that create vulnerabilities in code, and allows development teams to move beyond just fixing individual vulnerabilities as they arise.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Control Objective:&lt;br&gt;&lt;/b&gt;&lt;div&gt;Application vulnerabilities can be present for many reasons: insecure design, insecure infrastructure, coding mistakes, weak authentication, and failure to test for unusual or unexpected conditions.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Enabler Story:&lt;/b&gt;&lt;br&gt;As management of the organization, I want agile solution development projects to assure that root cause analyses are performed on security vulnerabilities, in order to sustainably mitigate vulnerabilities.&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Direct Successor&lt;/u&gt;: None&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="ibRm7NSeTpzZEgZbGgji-35" vertex="1">
           <mxGeometry y="60" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="hyM95Emv9p06y6z4HWnD-59" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.business_icons.icon12;" vertex="1" parent="ibRm7NSeTpzZEgZbGgji-35">
+          <mxGeometry x="330" y="2" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ibRm7NSeTpzZEgZbGgji-33" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;CIS CSC - 16.2&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;  Establish and Maintain a Process to Accept and Address Software Vulnerabilities" style="swimlane;whiteSpace=wrap;html=1;align=left;startSize=60;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="4400" y="6548" width="300" height="60" as="geometry">
