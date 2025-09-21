@@ -88,9 +88,4 @@
 | ITIL4  | Service Desk (3.2.1)| User query handling | Acknowledge and record the user query, Validate the user query, Triage the user query and initiate the appropriate activities | Agile solution development projects have not the responsibilities of dealing with direct customer or user request, channeling those, prioritizing them or gathiner information. Those processes should be executed by general IT service management processes and not by an inidivdual project. |
 | ITIL4  | Service Desk (3.2.2)| Communicating to users | Identifying and confirming the target audience, Identifying and confirming communication channels, Information packaging, Information sending, Gathering and processing receipt confirmations and the feedback | Agile solution development projects have not the responsibilities of dealing with direct customer or user request, channeling those, prioritizing them or gathiner information. Those processes should be executed by general IT service management processes and not by an inidivdual project. |
 | ITIL4  | Service Desk (3.2.3)| Service desk optimization | Service desk review, Service desk improvement initiation, Service desk improvement communication | Agile solution development projects have not the responsibilities of dealing with direct customer or user request, channeling those, prioritizing them or gathiner information. Those processes should be executed by general IT service management processes and not by an inidivdual project. |
-| ITIL4  | No (3.2.2)| Title | control | reasoning |
-| ITIL4  | No (3.2.2)| Title | control | reasoning |
-| ITIL4  | No (3.2.2)| Title | control | reasoning |
-| ITIL4  | No (3.2.2)| Title | control | reasoning |
-| ITIL4  | No (3.2.2)| Title | control | reasoning |
 
