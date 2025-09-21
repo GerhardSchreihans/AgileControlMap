@@ -71,8 +71,7 @@ Contributions are welcome.
 2. Fork the repository and create a feature branch.  
 3. For mapping updates, include sources and a short justification explaining why a control maps to a specific SAFe phase.  
 4. **Do not include proprietary text** from ISO/IEC, ITIL, or COBIT. Use identifiers, titles or very selective parts of the documents only.  
-5. Add or adjust tests as applicable.  
-6. Code of Conduct: see `CODE_OF_CONDUCT.md` (placeholder).
+5. Add or adjust tests as applicable. 
 
 ## Cite this work
 
