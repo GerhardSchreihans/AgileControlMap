@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="Agile Control Map" id="850UgzXcZYhpinT9VpMZ">
-    <mxGraphModel dx="7130" dy="3885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="14500" pageHeight="2600" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="14500" pageHeight="2600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4220,9 +4220,6 @@
         </mxCell>
         <mxCell id="7LhYc--5QfOYzEa2LaDw-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=70;fontColor=#808080;" value="Agile Control Map — © 2025 Gerhard Schreihans — CC BY-SA 4.0" vertex="1">
           <mxGeometry height="60" width="4050" x="5940" y="7580" as="geometry" />
-        </mxCell>
-        <mxCell id="6v4bZlwb3PZ9n0W_e9hx-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="120" x="2710" y="1480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
