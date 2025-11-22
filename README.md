@@ -17,7 +17,7 @@
 - [Methodology](#methodology)
 - [Usage](#usage)
 - [Contributing](#contributing)
-/*- [Cite this work](#cite-this-work)*/
+<!-- - [Cite this work](#cite-this-work)*/ -->
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 - [Contact](#contact)
@@ -73,7 +73,7 @@ Contributions are welcome.
 4. **Do not include proprietary text** from ISO/IEC, ITIL, or COBIT. Use identifiers, titles or very selective parts of the documents only.  
 5. Add or adjust tests as applicable. 
 
-/*## Cite this work
+<!-- ## Cite this work
 
 If you use this repository, please cite the thesis and the software:
 
@@ -82,7 +82,7 @@ NAME, “Agile Control Map: Mapping Relevant IT Frameworks to Phases of Agile So
 
 **Software (placeholders):**  
 Agile Control Map, version **VERSION**, released **RELEASE_DATE**, repository **REPO_URL**, DOI **DOI**.
-*/
+-->
 ## Acknowledgments
 
 Developed as part of the master’s thesis by **Gerhard Schreihans**. Advisor: **Edgar Weippl**. Assistance: **Alexander Schatten** and **Philipp Reisinger**. Methodological underpinnings: **Kitchenham SLR** and **Hevner Design Science**.
