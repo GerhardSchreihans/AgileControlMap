@@ -16,12 +16,12 @@
 - [Background &amp; scope](#background--scope)
 - [Methodology](#methodology)
 - [Usage](#usage)
-- [Contributing](#contributing)
-<!-- - [Cite this work](#cite-this-work)*/ -->
+- [Contributing](#contributing) <!-- - [Cite this work](#cite-this-work)*/ -->
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 - [Contact](#contact)
 - [Disclaimer](#disclaimer)
+
 </details>
 
 ---
